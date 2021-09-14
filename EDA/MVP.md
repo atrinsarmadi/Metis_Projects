@@ -12,9 +12,10 @@ The initial findings target first part of the problem which is discovering the l
 
 The figures below show the average of ridership per day of week during the months of March and June in 2019 at the two most popular stations in NYC. Preliminary results from these figures show that selecting weekdays as opposed to weekends for street team placements expose the team to more people.
 
+![penn_state_average_day_of_week](https://user-images.githubusercontent.com/47256224/133333642-2ff51fec-9c9f-4962-b03e-b4ee48ccae02.png)
 ![grand_cent_average_day_of_week](https://user-images.githubusercontent.com/47256224/133333636-61573f95-b1ec-42c4-97ef-f91e65c3e9a1.png)
 
-![penn_state_average_day_of_week](https://user-images.githubusercontent.com/47256224/133333642-2ff51fec-9c9f-4962-b03e-b4ee48ccae02.png)
+
 
 ## Future work
 1. More in depth study of the data will be performed to improve suggestions of team placement location and time. Study of time of the day per station will also be added to the analysis.
