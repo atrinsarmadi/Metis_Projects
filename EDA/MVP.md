@@ -1,4 +1,4 @@
-# Data Analysis of MTA Data Traffic for WTWY Street Team Placement Optimization
+# Analysis of MTA Data Traffic for WTWY Street Team Placement Optimization
 
 The goal of this project is to use [MTA turnstile data](http://web.mta.info/developers/turnstile.html) in order to optimize WTWY street team placement by the subway station entrances. The street team is directed to gather email addresses from people, which will be used to send out free gala tickets. The target audience is people who are passionate about WTWY goals and would contribute to the organization.
 
