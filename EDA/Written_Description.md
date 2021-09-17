@@ -23,7 +23,7 @@ The features for each turnstile are *C/A =  Control Area, Unit = Remote Unit for
 
 
 ## Algorithm
-A database was created from the data using SQLlite and SQLAlchemy. I continued exploring the data and converted the filtered database to Pandas dataframe using SQLAlchemy. 
+A database was created from the data using SQLite and SQLAlchemy. I continued exploring the data and converted the filtered database to Pandas dataframe using SQLAlchemy. 
 Cleaning the data consisted of standardizing column names, removing duplicates, organizing the Entries and Exits data per correct entry time, and eliminating outliers by removing each turnstile entries or exits that were higher than 15000 in a 4 hour period. 
 I used Pandas to continue data manipulation, grouping the turnstile features together as well as traffic data at each station. Analysis of data included:
 - combining total traffic for all the stations during the 4-month period to get the highest trafficked stations
