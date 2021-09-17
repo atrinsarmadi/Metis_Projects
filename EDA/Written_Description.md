@@ -19,7 +19,7 @@ To optimize the street team placement in order to reach out to more people and g
 The data is gathered from the public [MTA turnstile data](http://web.mta.info/developers/turnstile.html). Based on the assumptions at the design stage, the data is gathered between March and June 2019. 
 
 The dataset contains 3506035 rows of data showing entries and exits per turnstile at each station per 4 hour periods. 
-The features for each turnstile are *C/A =  Control Area,Unit = Remote Unit for station,SCP = Subunit Channel Position representing an specific address for the device, DESC = ‘REGULAR’ scheduled audit event (every 4 hours)*. Grouping these features together allows us to gather Entries and Exits data per turnstile per 4 hours. We grouped the turnstiles traffic data at each station together to study the total traffic at each station per day and time.
+The features for each turnstile are *C/A =  Control Area, Unit = Remote Unit for station, SCP = Subunit Channel Position representing an specific address for the device, DESC = ‘REGULAR’ scheduled audit event (every 4 hours)*. Grouping these features together allows us to gather Entries and Exits data per turnstile per 4 hours. We grouped the turnstiles traffic data at each station together to study the total traffic at each station per day and time.
 
 
 ## Algorithm
