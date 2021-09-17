@@ -6,12 +6,12 @@ WomenTechWomenYes (WTWY) is an organization based in NYC. They hold a gala each 
 
 
 ## Design
-To optimize the street team placement in order to reach out to more people and gather more email addresses, we decided to study the data between March and June 2019. The results examined were stations with the highest total traffic (as a combination of entries and exits data) during this 4 month period, average of traffic of top 5 stations at each day of the week, and traffic per time of day for each day of the week at top 5 stations.
+To optimize the street team placement in order to reach out to more people and gather more email addresses, I decided to study the data between March and June 2019. The results examined were stations with the highest total traffic (as a combination of entries and exits data) during this 4 month period, average of traffic of top 5 stations at each day of the week, and traffic per time of day for each day of the week at top 5 stations.
 
 **Assumptions**
-- Assuming that WTWY gala is held at the end of June, so data is gathered for almost 4 months between March and June.
+- Assuming that WTWY gala is held at the end of June, data is gathered for almost 4 months between March and June.
 - It is assumed that the gala is happening pre-pandemic, hence data was gathered from the year 2019.
-- Based on study of turnstile throughput from turnstile manufacturers, concensus between manufacturers is that each turnstile can support a flow of 30 people per minute, however, to be more conservative in removing outliers from the data, a throughput of 1 person per second was chosen, leading to almost 15000 people entries per turnstile in a 4 hour period.
+- Based on study of turnstile throughput from turnstile manufacturers, concensus between manufacturers is that each turnstile can support a flow of 20-30 people per minute, however, to be more conservative in removing outliers from the data, a throughput of 1 person per second was chosen, leading to almost 15000 people entries per turnstile in a 4 hour period.
 - Total traffic means the combination of entries and exits values for each turnstile/station.
 
 
