@@ -1,4 +1,5 @@
 # EDA Course Project: WTWY Street Team Placement Optimization
 
 ## Abstract
-WomenTechWomenYes is an organization based in NYC. They hold a gala each year at the beginning of the summer as part of their outreach program. The goal of this project is to 
+
+WomenTechWomenYes (WTWY) is an organization based in NYC. They hold a gala each year at the beginning of the summer as part of their outreach program. They have a street team which is placed by the entrances to NYC subway stations, and directed to introduce the organization to people, and gather email addresses which will be used to send out free gala tickets to interested people. The goal of this project is to assist WTWY with optimizing their street team placement in order to reach out to a higher number of people. To accomplish this goal, I studied the [MTA turnstile data](http://web.mta.info/developers/turnstile.html) to gather evidence of stations with highest traffic, as well as specific days and times of the week that the traffic is at peak in each of the stations, ultimately converting this evidence to actionable suggestions to WTWY
