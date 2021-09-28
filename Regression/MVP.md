@@ -8,9 +8,15 @@ Here is how the dataframe looks at this stage:
 ![DataFrame](https://user-images.githubusercontent.com/47256224/135166959-af6d0a35-4d66-4ebc-8310-16151e9c895e.png)
 
 ## Initial Findings
-The project is currently in the middle of the EDA stage. Without looking at the complete dataframe, as it is still required to create dummy values from categorical data and continue cleaning the data, we can look at the pairplots of the numerical values, in order to graps an initial understanding of the data distribution.
+The project is currently in the middle of the EDA stage. Without looking at the complete dataframe, as it is still required to create dummy variables from categorical data and continue cleaning the data, we can look at the pairplots of the numerical values, in order to graps an initial understanding of the data distribution.
 
 ![pairplot](https://user-images.githubusercontent.com/47256224/135168116-224633f0-d88c-42f4-b497-fe29cc5f2de2.png)
 
+From the pairplot we can see that apart from creating dummy variables, most probably some more cleaning, standardizing and regularization of the data is required on variables such as budget and running time.
+
 
 ## Future work
+The future work of this project is categorized in the list below
+1. Complete data cleaning and EDA
+  . asdfa
+3. 
