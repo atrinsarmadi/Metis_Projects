@@ -17,6 +17,11 @@ From the pairplot we can see that apart from creating dummy variables, most prob
 
 ## Future work
 The future work of this project is categorized in the list below
-1. Complete data cleaning and EDA
-  . asdfa
-3. 
+1. Complete EDA
+  - Data cleaning
+  - Creating dummy variables from categorical data
+2. Create a baseline linear regression model
+3. Refine the model
+  - Most probably will include processes such as standardization and regularization
+4. Finalize the model and obtain final results
+5. Interpret results
