@@ -36,4 +36,4 @@ I used Pandas to continue data manipulation, grouping the turnstile features tog
 - Matplotlib for data visualization
 
 ## Communication
-Here is the slides and visulas presented at the end of the project.
+[Here](https://github.com/atrinsarmadi/Metis_Projects/tree/main/EDA) is the slides and visulas presented at the end of the project.
