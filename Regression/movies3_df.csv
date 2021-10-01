@@ -1,0 +1,801 @@
+title,Action,Adventure,Animation,Budget,Comedy,Crime,Domestic Distributor,Domestic Opening,Drama,Family,Fantasy,MPAA Rating,Original Release Gross Worldwide,Other_Genres,Romance,Running Time,Science fiction,Thriller,Year of Release
+Avatar,1.0,1.0,,237000000,,,Twentieth Century Fox,77025481,,,1.0,PG-13,2743577587,,,162.0,1.0,,2009
+Avengers: Endgame,1.0,1.0,,356000000,,,Walt Disney Studios Motion Pictures,357115007,1.0,,,PG-13,2797501328,,,181.0,1.0,,2019
+Titanic,,,,200000000,,,Paramount Pictures,28638131,1.0,,,PG-13,1843478449,,1.0,194.0,,,1997
+Star Wars: Episode VII - The Force Awakens,1.0,1.0,,245000000,,,Walt Disney Studios Motion Pictures,247966675,,,,PG-13,2068223624,,,138.0,1.0,,2015
+Jurassic World,1.0,1.0,,150000000,,,Universal Pictures,208806270,,,,PG-13,1670400637,,,124.0,1.0,,2015
+The Lion King,,1.0,1.0,45000000,,,Walt Disney Studios Motion Pictures,1586753,1.0,1.0,,G,858555561,1.0,,88.0,,,1994
+The Avengers,1.0,1.0,,220000000,,,Walt Disney Studios Motion Pictures,207438708,,,,PG-13,1518812988,,,143.0,1.0,,2012
+Furious 7,1.0,1.0,,190000000,,,Universal Pictures,147187040,,,,PG-13,1515047671,,,137.0,,1.0,2015
+Frozen II,,1.0,1.0,150000000,1.0,,Walt Disney Studios Motion Pictures,130263358,,1.0,1.0,PG,1450026933,1.0,,103.0,,,2019
+Avengers: Age of Ultron,1.0,1.0,,250000000,,,Walt Disney Studios Motion Pictures,191271109,,,,PG-13,1402805868,,,141.0,1.0,,2015
+Star Wars: Episode VIII - The Last Jedi,1.0,1.0,,317000000,,,Walt Disney Studios Motion Pictures,220009584,,,1.0,PG-13,1332539889,,,152.0,1.0,,2017
+Jurassic World: Fallen Kingdom,1.0,1.0,,170000000,,,Universal Pictures,148024610,,,,PG-13,1308467944,,,128.0,1.0,,2018
+Frozen,,1.0,1.0,150000000,1.0,,Walt Disney Studios Motion Pictures,243390,,1.0,1.0,PG,1280802282,1.0,,102.0,,,2013
+Beauty and the Beast,,,1.0,25000000,,,Walt Disney Studios Motion Pictures,162146,,1.0,1.0,,248802521,1.0,1.0,84.0,,,1991
+The Fate of the Furious,1.0,1.0,,250000000,,1.0,Universal Pictures,98786705,,,,PG-13,1236005118,,,136.0,,1.0,2017
+Iron Man 3,1.0,1.0,,200000000,,,Walt Disney Studios Motion Pictures,174144585,,,,PG-13,1214811252,,,130.0,1.0,,2013
+Minions,,1.0,1.0,74000000,1.0,1.0,Universal Pictures,115718405,,1.0,,PG,1159398397,,,91.0,1.0,,2015
+Captain America: Civil War,1.0,1.0,,250000000,,,Walt Disney Studios Motion Pictures,179139142,,,,PG-13,1153296293,,,147.0,1.0,,2016
+The Lord of the Rings: The Return of the King,1.0,1.0,,94000000,,,New Line Cinema,72629713,1.0,,1.0,PG-13,1140682011,,,201.0,,,2003
+Spider-Man: Far from Home,1.0,1.0,,160000000,,,Sony Pictures Entertainment (SPE),92579212,,,,PG-13,1131927996,,,129.0,1.0,,2019
+Captain Marvel,1.0,1.0,,160000000,,,Walt Disney Studios Motion Pictures,153433423,,,,PG-13,1128274794,,,123.0,1.0,,2019
+Transformers: Dark of the Moon,1.0,1.0,,195000000,,,DreamWorks,97852865,,,,PG-13,1123794079,,,154.0,1.0,,2011
+Skyfall,1.0,1.0,,200000000,,,Sony Pictures Entertainment (SPE),88364714,,,,PG-13,1108561013,,,143.0,,1.0,2012
+Transformers: Age of Extinction,1.0,1.0,,210000000,,,Paramount Pictures,100038390,,,,PG-13,1104054072,,,165.0,1.0,,2014
+The Dark Knight Rises,1.0,,,250000000,,,Warner Bros.,160887295,,,,PG-13,1081041287,,,164.0,,,2012
+Star Wars: Episode IX - The Rise of Skywalker,1.0,1.0,,275000000,,,Walt Disney Studios Motion Pictures,177383864,,,1.0,PG-13,1074144248,,,141.0,1.0,,2019
+Joker,,,,55000000,,1.0,Warner Bros.,96202337,1.0,,,R,1074251311,,,122.0,,1.0,2019
+Toy Story 4,,1.0,1.0,200000000,1.0,,Walt Disney Studios Motion Pictures,120908065,,1.0,1.0,G,1073394593,,,100.0,,,2019
+Toy Story 3,,1.0,1.0,200000000,1.0,,Walt Disney Studios Motion Pictures,110307189,,1.0,1.0,,1066969703,,,103.0,,,2010
+Pirates of the Caribbean: Dead Man's Chest,1.0,1.0,,225000000,,,Walt Disney Studios Motion Pictures,135634554,,,1.0,PG-13,1066179725,,,151.0,,,2006
+Rogue One: A Star Wars Story,1.0,1.0,,200000000,,,Walt Disney Studios Motion Pictures,155081681,,,,PG-13,1056057273,,,133.0,1.0,,2016
+Aladdin,,1.0,1.0,28000000,1.0,,Walt Disney Studios Motion Pictures,196664,,1.0,1.0,,346476295,1.0,1.0,90.0,,,1992
+Pirates of the Caribbean: On Stranger Tides,1.0,1.0,,250000000,,,Walt Disney Studios Motion Pictures,90151958,,,1.0,PG-13,1045713802,,,137.0,,,2011
+Despicable Me 3,,1.0,1.0,80000000,1.0,1.0,Universal Pictures,72434025,,1.0,,PG,1034799409,,,89.0,1.0,,2017
+Jurassic Park,1.0,1.0,,63000000,,,Universal Pictures,47026828,,,,PG-13,912667947,,,127.0,1.0,1.0,1993
+Star Wars: Episode I - The Phantom Menace,1.0,1.0,,115000000,,,Twentieth Century Fox,64820970,,,1.0,PG,924305084,,,136.0,1.0,,1999
+Alice in Wonderland,,1.0,,200000000,,,Walt Disney Studios Motion Pictures,116101023,,1.0,1.0,PG,1025467110,,,108.0,,,2010
+Harry Potter and the Sorcerer's Stone,,1.0,,125000000,,,Warner Bros.,90294621,,1.0,1.0,PG,974755371,,,152.0,,,2001
+The Dark Knight,1.0,,,185000000,,1.0,Warner Bros.,158411483,1.0,,,PG-13,1003045358,,,152.0,,1.0,2008
+Despicable Me 2,,1.0,1.0,76000000,1.0,1.0,Universal Pictures,83517315,,1.0,,PG,970766005,,,98.0,1.0,,2013
+Jumanji: Welcome to the Jungle,1.0,1.0,,90000000,1.0,,Sony Pictures Entertainment (SPE),36169328,,,1.0,PG-13,962077546,,,119.0,,,2017
+Pirates of the Caribbean: At World's End,1.0,1.0,,300000000,,,Walt Disney Studios Motion Pictures,114732820,,,1.0,PG-13,960996492,,,169.0,,,2007
+The Lord of the Rings: The Two Towers,1.0,1.0,,94000000,,,New Line Cinema,62007528,1.0,,1.0,PG-13,936689735,,,179.0,,,2002
+Harry Potter and the Order of the Phoenix,1.0,1.0,,150000000,,,Warner Bros.,77108414,,1.0,1.0,PG-13,941676843,1.0,,138.0,,,2007
+Finding Nemo,,1.0,1.0,94000000,1.0,,Walt Disney Studios Motion Pictures,70251710,,1.0,,,871014978,,,100.0,,,2003
+Harry Potter and the Half-Blood Prince,1.0,1.0,,250000000,,,Warner Bros.,77835727,,1.0,1.0,PG,933959197,1.0,,153.0,,,2009
+Shrek 2,,1.0,1.0,150000000,1.0,,DreamWorks Distribution,108037878,,1.0,1.0,PG,928760770,,1.0,93.0,,,2004
+Bohemian Rhapsody,,,,52000000,,,Twentieth Century Fox,51061119,1.0,,,PG-13,903655259,1.0,,134.0,,,2018
+The Lord of the Rings: The Fellowship of the Ring,1.0,1.0,,93000000,,,New Line Cinema,47211490,1.0,,1.0,PG-13,880839846,,,178.0,,,2001
+Harry Potter and the Goblet of Fire,,1.0,,150000000,,,Warner Bros.,102685961,,1.0,1.0,PG-13,895921036,1.0,,157.0,,,2005
+Spider-Man 3,1.0,1.0,,258000000,,,Sony Pictures Entertainment (SPE),151116516,,,,PG-13,894983373,,,139.0,1.0,,2007
+Ice Age: Dawn of the Dinosaurs,,1.0,1.0,90000000,1.0,,Twentieth Century Fox,41690382,1.0,1.0,,PG,886686817,,,94.0,,,2009
+Spectre,1.0,1.0,,245000000,,,Sony Pictures Entertainment (SPE),70403148,,,,PG-13,880674609,,,148.0,,1.0,2015
+Spider-Man: Homecoming,1.0,1.0,,175000000,,,Sony Pictures Entertainment (SPE),117027503,,,,PG-13,880166924,,,133.0,1.0,,2017
+Harry Potter and the Chamber of Secrets,,1.0,,100000000,,,Warner Bros.,88357488,,1.0,1.0,PG,878979634,1.0,,161.0,,,2002
+Ice Age: Continental Drift,,1.0,1.0,95000000,1.0,,Twentieth Century Fox,46629259,1.0,1.0,,PG,877244782,,,88.0,,,2012
+The Secret Life of Pets,,1.0,1.0,75000000,1.0,,Universal Pictures,104352905,,1.0,,PG,875457937,,,87.0,,,2016
+Batman v Superman: Dawn of Justice,1.0,1.0,,250000000,,,Warner Bros.,166007347,,,,PG-13,873634919,,,152.0,1.0,,2016
+Wolf Warrior 2,1.0,1.0,,30100000,,,The H Collective,219022,1.0,,,,870325439,1.0,,123.0,,1.0,2017
+Star Wars: Episode III - Revenge of the Sith,1.0,1.0,,113000000,,,Twentieth Century Fox,108435841,,,1.0,PG-13,868352530,,,140.0,1.0,,2005
+The Hunger Games: Catching Fire,1.0,,,130000000,,,Lionsgate,158074286,1.0,,,PG-13,865011746,1.0,,146.0,1.0,1.0,2013
+Guardians of the Galaxy Vol. 2,1.0,1.0,,200000000,1.0,,Walt Disney Studios Motion Pictures,146510104,,,,PG-13,863756051,,,136.0,1.0,,2017
+Inside Out,,1.0,1.0,175000000,1.0,,Walt Disney Studios Motion Pictures,90440272,,1.0,1.0,PG,857611174,,,95.0,,,2015
+Venom,1.0,1.0,,100000000,,,Sony Pictures Entertainment (SPE),80255756,,,,PG-13,856085151,,,112.0,1.0,,2018
+Thor: Ragnarok,1.0,1.0,,180000000,1.0,,Walt Disney Studios Motion Pictures,122744989,,,1.0,PG-13,853977126,,,130.0,1.0,,2017
+Inception,1.0,1.0,,160000000,,,Warner Bros.,62785337,,,,PG-13,826137188,,,148.0,1.0,1.0,2010
+Transformers: Revenge of the Fallen,1.0,1.0,,200000000,,,DreamWorks,108966307,,,,PG-13,836303693,,,149.0,1.0,,2009
+The Twilight Saga: Breaking Dawn - Part 2,,1.0,,120000000,,,Lionsgate,141067634,1.0,,1.0,PG-13,829746820,,1.0,115.0,,,2012
+Spider-Man,1.0,1.0,,139000000,,,Sony Pictures Entertainment (SPE),114844116,,,,PG-13,821708551,,,121.0,1.0,,2002
+Wonder Woman,1.0,1.0,,149000000,,,Warner Bros.,103251471,,,1.0,PG-13,821847012,1.0,,141.0,1.0,,2017
+Independence Day,1.0,1.0,,75000000,,,Twentieth Century Fox,50228264,,,,PG-13,817400891,,,145.0,1.0,,1996
+Fantastic Beasts and Where to Find Them,,1.0,,180000000,,,Warner Bros.,74403387,,1.0,1.0,PG-13,814037575,,,132.0,,,2016
+Shrek the Third,,1.0,1.0,160000000,1.0,,DreamWorks,121629270,,1.0,1.0,PG,813367380,,1.0,93.0,,,2007
+Jumanji: The Next Level,1.0,1.0,,125000000,1.0,,Sony Pictures Entertainment (SPE),59251543,,,1.0,PG-13,800059707,,,123.0,,,2019
+Harry Potter and the Prisoner of Azkaban,,1.0,,130000000,,,Warner Bros.,93687367,,1.0,1.0,PG,795634069,1.0,,142.0,,,2004
+Pirates of the Caribbean: Dead Men Tell No Tales,1.0,1.0,,230000000,,,Walt Disney Studios Motion Pictures,62983253,,,1.0,PG-13,794861794,,,129.0,,,2017
+E.T. the Extra-Terrestrial,,,,10500000,,,Universal Pictures,11835389,,1.0,,PG,359197037,,,115.0,1.0,,1982
+Mission: Impossible - Fallout,1.0,1.0,,178000000,,,Paramount Pictures,61236534,,,,PG-13,791115104,,,147.0,,1.0,2018
+2012,1.0,1.0,,200000000,,,Sony Pictures Entertainment (SPE),65237614,,,,PG-13,769679473,,,158.0,1.0,,2009
+Indiana Jones and the Kingdom of the Crystal Skull,1.0,1.0,,185000000,,,Paramount Pictures,100137835,,,,PG-13,790653942,,,122.0,,,2008
+Spider-Man 2,1.0,1.0,,200000000,,,Sony Pictures Entertainment (SPE),88156227,,,,PG-13,788976453,,,127.0,1.0,,2004
+Fast & Furious 6,1.0,1.0,,160000000,,,Universal Pictures,97375245,,,,PG-13,788679850,,,130.0,,1.0,2013
+Deadpool 2,1.0,1.0,,110000000,1.0,,Twentieth Century Fox,125507153,,,,R,734546611,,,119.0,1.0,,2018
+Deadpool,1.0,1.0,,58000000,1.0,,Twentieth Century Fox,132434639,,,,R,782612155,,,108.0,1.0,,2016
+Star Wars: Episode IV - A New Hope,1.0,1.0,,11000000,,,Twentieth Century Fox,1554475,,,1.0,PG,307263857,,,121.0,1.0,,1977
+Guardians of the Galaxy,1.0,1.0,,170000000,1.0,,Walt Disney Studios Motion Pictures,94320883,,,,PG-13,772776600,,,121.0,1.0,,2014
+The Da Vinci Code,,,,125000000,,,Sony Pictures Entertainment (SPE),77073388,,,,PG-13,760006945,1.0,,149.0,,1.0,2006
+Fast & Furious Presents: Hobbs & Shaw,1.0,1.0,,200000000,,,Universal Pictures,60038950,,,,,759056935,,,137.0,,1.0,2019
+Maleficent,1.0,1.0,,180000000,,,Walt Disney Studios Motion Pictures,69431298,,1.0,1.0,PG,758410378,,1.0,97.0,,,2014
+The Amazing Spider-Man,1.0,1.0,,230000000,,,Sony Pictures Entertainment (SPE),62004688,,,1.0,PG-13,757930663,,,136.0,1.0,,2012
+The Hunger Games: Mockingjay - Part 1,1.0,1.0,,125000000,,,Lionsgate,121897634,,,,PG-13,755356711,,,123.0,1.0,1.0,2014
+Shrek Forever After,,1.0,1.0,165000000,1.0,,DreamWorks,70838207,,1.0,1.0,PG,752600867,,1.0,93.0,,,2010
+Madagascar 3: Europe's Most Wanted,,1.0,1.0,145000000,1.0,,DreamWorks,60316738,,1.0,,PG,746921274,,,95.0,,,2012
+Suicide Squad,1.0,1.0,,175000000,,,Warner Bros.,133682248,,,1.0,PG-13,746846894,,,123.0,1.0,,2016
+X-Men: Days of Future Past,1.0,1.0,,200000000,,,Twentieth Century Fox,90823660,,,,PG-13,746045700,,,132.0,1.0,1.0,2014
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",,1.0,,180000000,,,Walt Disney Studios Motion Pictures,65556312,,1.0,1.0,PG,745013115,,,143.0,,,2005
+The Matrix Reloaded,1.0,,,150000000,,,Warner Bros.,91774413,,,,R,739412035,,,138.0,1.0,,2003
+Up,,1.0,1.0,175000000,1.0,,Walt Disney Studios Motion Pictures,68108790,1.0,1.0,,PG,735099082,,,96.0,,,2009
+Gravity,,1.0,,100000000,,,Warner Bros.,55785112,1.0,,,PG-13,723192705,,,91.0,1.0,1.0,2013
+Captain America: The Winter Soldier,1.0,1.0,,170000000,,,Walt Disney Studios Motion Pictures,95023721,,,,PG-13,714421503,,,136.0,1.0,1.0,2014
+The Twilight Saga: Breaking Dawn - Part 1,,1.0,,110000000,,,Summit Entertainment,138122261,1.0,,1.0,PG-13,712205856,,1.0,117.0,,1.0,2011
+The Twilight Saga: New Moon,,1.0,,50000000,,,Summit Entertainment,142839137,1.0,,1.0,PG-13,709827462,,1.0,130.0,,,2009
+Dawn of the Planet of the Apes,1.0,1.0,,170000000,,,Twentieth Century Fox,72611427,1.0,,,PG-13,710644566,,,130.0,1.0,,2014
+Transformers,1.0,1.0,,150000000,,,DreamWorks,70502384,,,,PG-13,709709780,,,144.0,1.0,,2007
+It,,,,35000000,,,Warner Bros.,123403419,,,,R,700381748,1.0,,135.0,,,2017
+Interstellar,,1.0,,165000000,,,Paramount Pictures,47510360,1.0,,,PG-13,677896797,,,169.0,1.0,,2014
+The Twilight Saga: Eclipse,1.0,1.0,,68000000,,,Summit Entertainment,64832191,1.0,,1.0,PG-13,698491347,,1.0,124.0,,1.0,2010
+Mission: Impossible - Ghost Protocol,1.0,1.0,,145000000,,,Paramount Pictures,12785204,,,,PG-13,694713380,,,132.0,,1.0,2011
+The Hunger Games,1.0,1.0,,78000000,,,Lionsgate,152535747,,,,PG-13,694394724,,,142.0,1.0,1.0,2012
+Mission: Impossible - Rogue Nation,1.0,1.0,,150000000,,,Paramount Pictures,55520089,,,,PG-13,682714267,,,131.0,,1.0,2015
+Forrest Gump,,,,55000000,,,Paramount Pictures,24450602,1.0,,,PG-13,329694499,,1.0,142.0,,,1994
+Doctor Strange,1.0,1.0,,165000000,,,Walt Disney Studios Motion Pictures,85058311,,,1.0,PG-13,677718395,,,115.0,1.0,,2016
+The Sixth Sense,,,,40000000,,,Walt Disney Studios Motion Pictures,26681262,1.0,,,PG-13,672806292,1.0,,107.0,,1.0,1999
+Man of Steel,1.0,1.0,,225000000,,,Warner Bros.,116619362,,,,PG-13,668045518,,,143.0,1.0,,2013
+Ice Age: The Meltdown,,1.0,1.0,80000000,1.0,,Twentieth Century Fox,68033544,,1.0,,PG,660998756,,,91.0,,,2006
+Kung Fu Panda 2,1.0,1.0,1.0,150000000,1.0,,DreamWorks,47656302,1.0,1.0,1.0,PG,665692281,,,90.0,,,2011
+The Hunger Games: Mockingjay - Part 2,1.0,1.0,,160000000,,,Lionsgate,102665981,,,,PG-13,658344137,,,137.0,1.0,1.0,2015
+Big Hero 6,1.0,1.0,1.0,165000000,1.0,,Walt Disney Studios Motion Pictures,56215889,1.0,1.0,,PG,657827828,,,102.0,1.0,,2014
+Fantastic Beasts: The Crimes of Grindelwald,,1.0,,200000000,,,Warner Bros.,62163104,,1.0,1.0,PG-13,654855901,,,134.0,,,2018
+Pirates of the Caribbean: The Curse of the Black Pearl,1.0,1.0,,140000000,,,Walt Disney Studios Motion Pictures,46630690,,,1.0,PG-13,654264015,,,143.0,,,2003
+Star Wars: Episode II - Attack of the Clones,1.0,1.0,,115000000,,,Twentieth Century Fox,80027814,,,1.0,PG,645256452,,,142.0,1.0,,2002
+Thor: The Dark World,1.0,1.0,,170000000,,,Walt Disney Studios Motion Pictures,85737841,,,1.0,PG-13,644783140,,,112.0,,,2013
+Sing,,,1.0,75000000,1.0,,Universal Pictures,35258145,,1.0,,PG,634151679,1.0,,108.0,,,2016
+Kung Fu Panda,1.0,1.0,1.0,130000000,1.0,,DreamWorks,60239130,,1.0,,PG,631744560,,,92.0,,,2008
+The Incredibles,1.0,1.0,1.0,92000000,,,Walt Disney Studios Motion Pictures,70467623,,1.0,,,631442092,,,115.0,,,2004
+The Martian,,1.0,,108000000,,,Twentieth Century Fox,54308575,1.0,,,PG-13,630161890,,,144.0,1.0,,2015
+Hancock,1.0,,,150000000,,,Sony Pictures Entertainment (SPE),62603879,1.0,,1.0,PG-13,629443428,,,92.0,,,2008
+Fast Five,1.0,1.0,,125000000,,1.0,Universal Pictures,86198765,,,,PG-13,626137675,,,130.0,,1.0,2011
+Men in Black 3,1.0,1.0,,225000000,1.0,,Sony Pictures Entertainment (SPE),54592779,,,,PG-13,624026776,,,106.0,1.0,,2012
+Iron Man 2,1.0,1.0,,200000000,,,Paramount Pictures,128122480,,,,PG-13,623933331,,,124.0,1.0,,2010
+Ratatouille,,1.0,1.0,150000000,1.0,,Walt Disney Studios Motion Pictures,47027395,,1.0,1.0,G,623726085,,,111.0,,,2007
+How to Train Your Dragon 2,1.0,1.0,1.0,145000000,1.0,,Twentieth Century Fox,49451322,,1.0,1.0,PG,621537519,,,102.0,,,2014
+Logan,1.0,,,97000000,,,Twentieth Century Fox,88411916,1.0,,,R,619021436,,,137.0,1.0,1.0,2017
+The Lost World: Jurassic Park,1.0,1.0,,73000000,,,Universal Pictures,72132785,,,,PG-13,618638999,,,129.0,1.0,,1997
+Casino Royale,1.0,1.0,,150000000,,,Sony Pictures Entertainment (SPE),40833156,,,,PG-13,605999592,,,144.0,,1.0,2006
+The Passion of the Christ,,,,30000000,,,Newmarket Films,83848082,1.0,,,R,611486736,,,127.0,,,2004
+Mamma Mia!,,,,52000000,1.0,,Universal Pictures,27751240,,,,PG-13,609841637,1.0,1.0,108.0,,,2008
+Life of Pi,,1.0,,120000000,,,Twentieth Century Fox,22451514,1.0,,1.0,PG,609016565,,,127.0,,,2012
+Transformers: The Last Knight,1.0,1.0,,217000000,,,Paramount Pictures,44680073,,,,PG-13,605425157,,,154.0,1.0,,2017
+Madagascar: Escape 2 Africa,,1.0,1.0,150000000,1.0,,DreamWorks,63106589,,1.0,,PG,603900354,,,89.0,,,2008
+War of the Worlds,1.0,1.0,,132000000,,,Paramount Pictures,64878725,,,,PG-13,603873119,,,116.0,1.0,,2005
+Tangled,,1.0,1.0,260000000,1.0,,Walt Disney Studios Motion Pictures,48767052,,1.0,1.0,PG,592461732,1.0,1.0,100.0,,,2010
+Quantum of Solace,1.0,1.0,,200000000,,,Sony Pictures Entertainment (SPE),67528882,,,,PG-13,589580482,,,106.0,,1.0,2008
+Men in Black,1.0,1.0,,90000000,1.0,,Sony Pictures Entertainment (SPE),51068455,,,,PG-13,250690539,,,98.0,1.0,,1997
+The Croods,,1.0,1.0,135000000,1.0,,Twentieth Century Fox,43639736,,1.0,1.0,PG,587204668,,,98.0,,,2013
+The Hangover Part II,,,,80000000,1.0,,Warner Bros.,85946294,,,,R,586764305,,,102.0,,,2011
+Iron Man,1.0,1.0,,140000000,,,Paramount Pictures,98618668,,,,PG-13,585366247,,,126.0,1.0,,2008
+I Am Legend,1.0,1.0,,150000000,,,Warner Bros.,77211321,1.0,,,PG-13,585410052,,,101.0,1.0,1.0,2007
+Ready Player One,1.0,1.0,,175000000,,,Warner Bros.,41764050,,,,PG-13,582890172,,,140.0,1.0,,2018
+"Monsters, Inc.",,1.0,1.0,115000000,1.0,,Walt Disney Studios Motion Pictures,62577067,,1.0,1.0,G,528773250,,,92.0,,,2001
+Fifty Shades of Grey,,,,40000000,,,Universal Pictures,85171450,1.0,,,R,569651467,,1.0,125.0,,1.0,2015
+Kong: Skull Island,1.0,1.0,,185000000,,,Warner Bros.,61025472,,,1.0,PG-13,566652812,,,118.0,1.0,,2017
+The Smurfs,,1.0,1.0,110000000,1.0,,Sony Pictures Entertainment (SPE),35611637,,1.0,1.0,PG,563749323,,,103.0,,,2011
+King Kong,1.0,1.0,,207000000,,,Universal Pictures,50130145,1.0,,,PG-13,562363449,,1.0,187.0,,,2005
+Cars 2,,1.0,1.0,200000000,1.0,,Walt Disney Studios Motion Pictures,66135507,,1.0,,G,559852396,1.0,,106.0,,,2011
+Puss in Boots,,1.0,1.0,130000000,1.0,,DreamWorks,34077439,,1.0,1.0,PG,554987477,,,90.0,,,2011
+Armageddon,1.0,1.0,,140000000,,,Walt Disney Studios Motion Pictures,36089972,,,,PG-13,553709788,,,151.0,1.0,1.0,1998
+The Day After Tomorrow,1.0,1.0,,125000000,,,Twentieth Century Fox,68743584,,,,PG-13,552639571,,,124.0,1.0,1.0,2004
+Ted,,,,50000000,1.0,,Universal Pictures,54415205,,,,R,549368315,,,106.0,,,2012
+American Sniper,1.0,,,58800000,,,Warner Bros.,633456,1.0,,,R,547426372,1.0,,133.0,,,2014
+Mission: Impossible II,1.0,1.0,,125000000,,,Paramount Pictures,57845297,,,,PG-13,546388108,,,123.0,,1.0,2000
+X-Men: Apocalypse,1.0,1.0,,178000000,,,Twentieth Century Fox,65769562,,,,PG-13,543934105,,,144.0,1.0,,2016
+Despicable Me,,1.0,1.0,69000000,1.0,1.0,Universal Pictures,56397125,,1.0,,PG,543113985,,,95.0,1.0,,2010
+Cinderella,,,,95000000,,,Walt Disney Studios Motion Pictures,67877361,1.0,1.0,1.0,PG,542351353,1.0,1.0,105.0,,,2015
+World War Z,1.0,1.0,,190000000,,,Paramount Pictures,66411834,,,,PG-13,540007876,1.0,,116.0,1.0,,2013
+Brave,,1.0,1.0,185000000,1.0,,Walt Disney Studios Motion Pictures,66323594,,1.0,1.0,PG,538983207,,,93.0,,,2012
+Star Wars: Episode V - The Empire Strikes Back,1.0,1.0,,18000000,,,Twentieth Century Fox,4910483,,,1.0,PG,209398025,,,124.0,1.0,,1980
+The Simpsons Movie,,1.0,1.0,75000000,1.0,,Twentieth Century Fox,74036787,,,,PG-13,536414270,,,87.0,,,2007
+The Revenant,1.0,1.0,,135000000,,,Twentieth Century Fox,474560,1.0,,,R,532950503,1.0,,156.0,,,2015
+The Meg,1.0,,,130000000,,,Warner Bros.,45402195,,,,PG-13,530243742,1.0,,113.0,1.0,1.0,2018
+Ralph Breaks the Internet,,1.0,1.0,175000000,1.0,,Walt Disney Studios Motion Pictures,56237634,,1.0,1.0,PG,529323962,,,112.0,1.0,,2018
+Hotel Transylvania 3: Summer Vacation,,1.0,1.0,80000000,1.0,,Sony Pictures Entertainment (SPE),44076225,,1.0,1.0,PG,528583774,1.0,1.0,97.0,,,2018
+Dunkirk,1.0,,,100000000,,,Warner Bros.,50513488,1.0,,,PG-13,525245546,1.0,,106.0,,1.0,2017
+How to Train Your Dragon: The Hidden World,1.0,1.0,1.0,129000000,1.0,,Universal Pictures,55022245,1.0,1.0,1.0,PG,521799505,,1.0,104.0,,,2019
+Godzilla,1.0,,,130000000,,,Sony Pictures Entertainment (SPE),44047541,,,,PG-13,379014294,,,139.0,1.0,1.0,1998
+Sherlock Holmes,1.0,1.0,,90000000,,,Warner Bros.,62304277,,,,PG-13,524028679,1.0,,128.0,,,2009
+Meet the Fockers,,,,80000000,1.0,,Universal Pictures,46120980,,,,PG-13,522657936,,1.0,115.0,,,2004
+WALL·E,,1.0,1.0,180000000,,,Walt Disney Studios Motion Pictures,63087526,,1.0,,,521311860,,1.0,98.0,1.0,,2008
+Kung Fu Panda 3,1.0,1.0,1.0,145000000,1.0,,Twentieth Century Fox,41282042,1.0,1.0,1.0,PG,521170825,,,95.0,,,2016
+Terminator 2: Judgment Day,1.0,,,102000000,,,TriStar Pictures,31765506,,,,R,204843345,,,137.0,1.0,,1991
+Ant-Man,1.0,1.0,,130000000,1.0,,Walt Disney Studios Motion Pictures,57225526,,,,PG-13,519311965,,,117.0,1.0,,2015
+The Grinch,,1.0,1.0,75000000,1.0,,Universal Pictures,67572855,,1.0,1.0,PG,511595957,1.0,,85.0,,,2018
+Ghost,,,,22000000,,,Paramount Pictures,12191540,1.0,,1.0,,217631306,,1.0,127.0,,1.0,1990
+Rio 2,,1.0,1.0,103000000,1.0,1.0,Twentieth Century Fox,39327869,1.0,1.0,,G,498781117,1.0,,101.0,,,2014
+Troy,,,,175000000,,,Warner Bros.,46865412,1.0,,,R,497409852,1.0,,163.0,,,2004
+Toy Story 2,,1.0,1.0,90000000,1.0,,Walt Disney Studios Motion Pictures,300163,,1.0,1.0,,487059677,,,92.0,,,1999
+How to Train Your Dragon,1.0,1.0,1.0,165000000,,,DreamWorks,43732319,1.0,1.0,1.0,PG,494878759,,,98.0,,,2010
+Twister,1.0,1.0,,92000000,,,Warner Bros.,41059405,,,,,241721524,,,113.0,,1.0,1996
+Oz the Great and Powerful,,1.0,,215000000,,,Walt Disney Studios Motion Pictures,79110453,,1.0,1.0,PG,493311825,,,130.0,,,2013
+Clash of the Titans,1.0,1.0,,125000000,,,Warner Bros.,61235105,,,1.0,PG-13,493214993,,,106.0,,,2010
+Maleficent: Mistress of Evil,,1.0,,185000000,,,Walt Disney Studios Motion Pictures,36948713,,1.0,1.0,PG,491730089,,,119.0,,,2019
+War for the Planet of the Apes,1.0,1.0,,150000000,,,Twentieth Century Fox,56262929,1.0,,,PG-13,490719763,,,140.0,1.0,1.0,2017
+Shrek,,1.0,1.0,60000000,1.0,,DreamWorks Distribution,42347760,,1.0,1.0,PG,484409218,,,90.0,,,2001
+Mr. & Mrs. Smith,1.0,,,110000000,1.0,1.0,Twentieth Century Fox,50342878,,,,PG-13,487287646,,,117.09462915601023,,1.0,2005
+Angels & Demons,1.0,,,150000000,,,Sony Pictures Entertainment (SPE),46204168,,,,PG-13,485930816,1.0,,138.0,,1.0,2009
+Teenage Mutant Ninja Turtles,1.0,1.0,,125000000,1.0,,Paramount Pictures,65575105,,,,PG-13,485004754,,,101.0,1.0,,2014
+Bruce Almighty,,,,81000000,1.0,,Universal Pictures,67953330,,,1.0,PG-13,484592874,,,101.0,,,2003
+Rio,,1.0,1.0,90000000,1.0,1.0,Twentieth Century Fox,39225962,1.0,1.0,,PG,483866518,1.0,,96.0,,,2011
+Saving Private Ryan,,,,70000000,,,DreamWorks Distribution,30576104,1.0,,,R,481840909,1.0,,169.0,,,1998
+Rise of the Planet of the Apes,1.0,,,93000000,,,Twentieth Century Fox,54806191,1.0,,,PG-13,481800873,,,105.0,1.0,1.0,2011
+Home Alone,,,,18000000,1.0,,Twentieth Century Fox,17081997,,1.0,,,285761244,,,103.0,,,1990
+Star Wars: Episode VI - Return of the Jedi,1.0,1.0,,32500000,,,Twentieth Century Fox,23019618,,,1.0,PG,252583617,,,131.0,1.0,,1983
+Charlie and the Chocolate Factory,,1.0,,150000000,1.0,,Warner Bros.,56178450,,1.0,1.0,PG,474968763,1.0,,115.0,,,2005
+Hotel Transylvania 2,,1.0,1.0,80000000,1.0,,Sony Pictures Entertainment (SPE),48464322,1.0,1.0,1.0,PG,474800000,1.0,1.0,89.0,,,2015
+Indiana Jones and the Last Crusade,1.0,1.0,,48000000,,,Paramount Pictures,29355021,,,,PG-13,197171806,,,127.0,,,1989
+San Andreas,1.0,1.0,,110000000,,,Warner Bros.,54588173,,,,PG-13,473990832,,,114.0,,1.0,2015
+It Chapter Two,,,,79000000,,,Warner Bros.,91062152,1.0,,1.0,R,473093228,1.0,,169.0,,,2019
+Jaws,,1.0,,7000000,,,Universal Pictures,7061513,,,,,260000000,,,124.0,,1.0,1975
+Wreck-It Ralph,,1.0,1.0,165000000,1.0,,Walt Disney Studios Motion Pictures,49038712,,1.0,1.0,PG,471222889,,,101.0,1.0,,2012
+The Hangover,,,,35000000,1.0,,Warner Bros.,44979319,,,,R,468812793,,,100.0,,,2009
+The Lego Movie,,1.0,1.0,60000000,1.0,,Warner Bros.,69050279,,1.0,1.0,PG,468060692,,,100.0,1.0,,2014
+Bumblebee,1.0,1.0,,135000000,,,Paramount Pictures,21654047,,,,PG-13,467989645,,,114.0,1.0,,2018
+Star Trek Into Darkness,1.0,1.0,,190000000,,,Paramount Pictures,70165559,,,,PG-13,467365246,,,132.0,1.0,,2013
+The Matrix,1.0,,,63000000,,,Warner Bros.,27788331,,,,R,463517383,,,136.0,1.0,,1999
+Gladiator,1.0,1.0,,103000000,,,DreamWorks Distribution,34819017,1.0,,,R,460583960,,,155.0,,,2000
+Pretty Woman,,,,14000000,1.0,,Walt Disney Studios Motion Pictures,11280591,,,,R,178406268,,1.0,119.0,,,1990
+Cars,,1.0,1.0,120000000,1.0,,Walt Disney Studios Motion Pictures,60119509,,1.0,,,461983149,1.0,,117.0,,,2006
+X-Men: The Last Stand,1.0,1.0,,210000000,,,Twentieth Century Fox,102750665,,,,PG-13,460435291,,,104.0,1.0,,2006
+Lucy,1.0,,,40000000,,,Universal Pictures,43899340,,,,R,458863600,,,89.0,1.0,1.0,2014
+Mission: Impossible,1.0,1.0,,80000000,,,Paramount Pictures,45436830,,,,PG-13,180981856,,,110.0,,1.0,1996
+300,1.0,,,65000000,,,Warner Bros.,70885301,1.0,,,R,456068181,,,117.0,,,2007
+The Last Samurai,1.0,,,140000000,,,Warner Bros.,24271354,1.0,,,R,454627263,,,154.0,,,2003
+Ocean's Eleven,,,,85000000,,1.0,Warner Bros.,38107822,,,,PG-13,450717150,,,116.0,,1.0,2001
+Thor,1.0,1.0,,150000000,,,Paramount Pictures,65723338,,,1.0,PG-13,449326618,,,115.0,,,2011
+Pearl Harbor,1.0,,,140000000,,,Walt Disney Studios Motion Pictures,59078912,1.0,,,PG-13,449220945,1.0,1.0,183.0,,,2001
+La La Land,,,,30000000,1.0,,Lionsgate,881104,1.0,,,PG-13,447407695,1.0,1.0,128.0,,,2016
+Tarzan,,1.0,1.0,130000000,1.0,,Walt Disney Studios Motion Pictures,34221968,,1.0,,G,448191819,,,88.0,,,1999
+Men in Black II,1.0,1.0,,140000000,1.0,,Sony Pictures Entertainment (SPE),52148751,,,,PG-13,441818803,1.0,,88.0,1.0,,2002
+The Bourne Ultimatum,1.0,1.0,,110000000,,,Universal Pictures,69283690,,,,PG-13,444100035,1.0,,115.0,,1.0,2007
+The Mummy Returns,1.0,1.0,,98000000,,,Universal Pictures,68139035,,,1.0,PG-13,433013274,,,130.0,,1.0,2001
+Alvin and the Chipmunks: The Squeakquel,,1.0,1.0,75000000,1.0,,Twentieth Century Fox,48875415,,1.0,1.0,PG,443140005,1.0,,88.0,,,2009
+Les Misérables,,,,61000000,,,Universal Pictures,27281735,1.0,,,PG-13,441809770,1.0,1.0,158.0,,,2012
+Mrs. Doubtfire,,,,25000000,1.0,,Twentieth Century Fox,20468847,1.0,1.0,,PG-13,219195243,,,125.0,,,1993
+Terminator Genisys,1.0,1.0,,155000000,,,Paramount Pictures,27018486,,,,PG-13,440603537,,,126.0,1.0,1.0,2015
+Warcraft,1.0,1.0,,160000000,,,Universal Pictures,24166110,,,1.0,PG-13,439048914,1.0,,123.0,,,2016
+The Greatest Showman,,,,84000000,,,Twentieth Century Fox,8805843,1.0,,,PG,434993183,1.0,,105.0,,,2017
+A Star Is Born,,,,36000000,,,Warner Bros.,42908051,1.0,,,R,436188866,1.0,1.0,136.0,,,2018
+Pokémon Detective Pikachu,1.0,1.0,,150000000,1.0,,Warner Bros.,54365242,,1.0,,PG,433005346,1.0,,104.0,1.0,,2019
+Terminator 3: Rise of the Machines,1.0,,,200000000,,,Warner Bros.,44041440,,,,R,433371112,,,109.0,1.0,,2003
+Die Another Day,1.0,1.0,,142000000,,,Metro-Goldwyn-Mayer (MGM),47072040,,,,PG-13,431971116,,,133.0,,1.0,2002
+The Secret Life of Pets 2,,1.0,1.0,80000000,1.0,,Universal Pictures,46652680,,1.0,,PG,430051293,,,86.0,,,2019
+Cast Away,,1.0,,90000000,,,Twentieth Century Fox,28883406,1.0,,,PG-13,429632142,,1.0,143.0,,,2000
+Rampage,1.0,1.0,,120000000,,,Warner Bros.,35753093,,,,PG-13,428028233,,,107.0,1.0,,2018
+The King's Speech,,,,15000000,,,The Weinstein Company,355450,1.0,,,R,423999102,1.0,,118.0,,,2010
+The Matrix Revolutions,1.0,,,150000000,,,Warner Bros.,48475154,,,,R,427343298,,,129.0,1.0,,2003
+Bad Boys for Life,1.0,,,90000000,1.0,1.0,Sony Pictures Entertainment (SPE),62504105,,,,R,426505244,,,124.0,,1.0,2020
+Django Unchained,,,,100000000,,,The Weinstein Company,30122888,1.0,,,R,425368238,1.0,,165.0,,,2012
+Dances with Wolves,,1.0,,22000000,,,Orion Pictures,598257,1.0,,,,184208848,1.0,,181.0,,,1990
+The Chronicles of Narnia: Prince Caspian,1.0,1.0,,225000000,,,Walt Disney Studios Motion Pictures,55034805,,1.0,1.0,PG,419665568,,,150.0,,,2008
+Sex and the City,,,,65000000,1.0,,Warner Bros.,57038404,1.0,,,R,418765321,,1.0,145.0,,,2008
+The Mummy,1.0,1.0,,125000000,,,Universal Pictures,31688375,,,1.0,PG-13,409231607,1.0,,111.0,,1.0,2017
+The Chronicles of Narnia: The Voyage of the Dawn Treader,,1.0,,155000000,,,Twentieth Century Fox,24005069,,1.0,1.0,PG,415686217,,,113.0,,,2010
+Jason Bourne,1.0,,,120000000,,,Universal Pictures,59215365,,,,PG-13,415484914,,,123.0,,1.0,2016
+The Wolverine,1.0,,,120000000,,,Twentieth Century Fox,53113752,,,,PG-13,414828246,,,126.0,1.0,,2013
+Kingsman: The Secret Service,1.0,1.0,,81000000,1.0,,Twentieth Century Fox,36206331,,,,R,414351546,,,129.0,,1.0,2015
+Night at the Museum: Battle of the Smithsonian,,1.0,,150000000,1.0,,Twentieth Century Fox,54173286,,1.0,1.0,PG,413106170,,,105.0,,,2009
+Batman,1.0,1.0,,35000000,,,Warner Bros.,40489746,,,,,251188924,,,126.0,,,1989
+Pacific Rim,1.0,1.0,,190000000,,,Warner Bros.,37285325,,,,PG-13,411002906,,,131.0,1.0,,2013
+Kingsman: The Golden Circle,1.0,1.0,,104000000,1.0,1.0,Twentieth Century Fox,39023010,,,,R,410902662,,,141.0,,1.0,2017
+Ice Age: Collision Course,,1.0,1.0,105000000,1.0,,Twentieth Century Fox,21373064,1.0,1.0,,PG,408579038,,,94.0,1.0,,2016
+Twilight,,,,37000000,,,Summit Entertainment,69637740,1.0,,1.0,PG-13,407187715,,1.0,122.0,,,2008
+Signs,,,,72000000,,,Walt Disney Studios Motion Pictures,60117080,1.0,,,PG-13,408247917,1.0,,106.0,1.0,1.0,2002
+X2: X-Men United,1.0,,,110000000,,,Twentieth Century Fox,85558731,,,,PG-13,407711549,,,134.0,1.0,1.0,2003
+Alita: Battle Angel,1.0,1.0,,170000000,,,Twentieth Century Fox,28525613,,,,PG-13,404980543,,,122.0,1.0,1.0,2019
+The Mummy: Tomb of the Dragon Emperor,1.0,,,145000000,,,Universal Pictures,40457770,,,1.0,PG-13,403449830,1.0,,112.0,,,2008
+Prometheus,,1.0,,130000000,,,Twentieth Century Fox,51050101,,,,R,403354469,1.0,,124.0,1.0,,2012
+Mamma Mia! Here We Go Again,,,,75000000,1.0,,Universal Pictures,34952180,,,,PG-13,395044706,1.0,1.0,114.0,,,2018
+TRON: Legacy,1.0,1.0,,170000000,,,Walt Disney Studios Motion Pictures,44026211,,,,PG,400062763,,,125.0,1.0,,2010
+Mission: Impossible III,1.0,1.0,,150000000,,,Paramount Pictures,47743273,,,,PG-13,398479497,,,126.0,,1.0,2006
+Snow White and the Huntsman,1.0,1.0,,170000000,,,Universal Pictures,56217700,1.0,,1.0,PG-13,396592829,,,127.0,,,2012
+Grease,,,,6000000,,,Paramount Pictures,8941717,,,,PG,159978870,1.0,1.0,110.0,,,1978
+Solo: A Star Wars Story,1.0,1.0,,275000000,,,Walt Disney Studios Motion Pictures,84420489,,,,PG-13,392924807,,,135.0,1.0,,2018
+The Wolf of Wall Street,,,,100000000,,1.0,Paramount Pictures,18361578,1.0,,,R,392000694,1.0,,117.09462915601023,,,2013
+Superman Returns,1.0,,,270000000,,,Warner Bros.,52535096,,,,PG-13,391081192,,,154.0,1.0,,2006
+Robin Hood: Prince of Thieves,1.0,1.0,,48000000,,,Warner Bros.,25625602,1.0,,,,390493908,,1.0,143.0,,,1991
+Indiana Jones and the Raiders of the Lost Ark,1.0,1.0,,18000000,,,Paramount Pictures,8305823,,,,PG,212222025,,,115.0,,,1981
+Independence Day: Resurgence,1.0,1.0,,165000000,,,Twentieth Century Fox,41039944,,,,PG-13,389681935,,,117.09462915601023,1.0,,2016
+Live Free or Die Hard,1.0,,,110000000,,,Twentieth Century Fox,33369559,,,,PG-13,388156011,,,128.0,,1.0,2007
+Godzilla: King of the Monsters,1.0,1.0,,170000000,,,Warner Bros.,47776293,,,1.0,PG-13,386600138,,,132.0,1.0,,2019
+Home,,1.0,1.0,135000000,1.0,,Twentieth Century Fox,52107731,,1.0,1.0,PG,386041607,,,94.0,1.0,,2015
+Star Trek,1.0,1.0,,150000000,,,Paramount Pictures,75204289,,,,PG-13,385680446,,,127.0,1.0,,2009
+1917,1.0,,,95000000,,,Universal Pictures,576216,1.0,,,R,384983987,1.0,,119.0,,,2019
+Happy Feet,,1.0,1.0,100000000,1.0,,Warner Bros.,41533432,,1.0,,PG,384335608,1.0,1.0,108.0,,,2006
+Ice Age,,1.0,1.0,59000000,1.0,,Twentieth Century Fox,46312454,,1.0,,PG,383257136,,,81.0,,,2002
+Back to the Future,,1.0,,19000000,1.0,,Universal Pictures,11152500,,,,,222067229,,,116.0,1.0,,1985
+Fifty Shades Darker,,,,55000000,,,Universal Pictures,46607250,1.0,,,R,381545846,,1.0,118.0,,,2017
+Monsters vs. Aliens,1.0,1.0,1.0,175000000,1.0,,DreamWorks,59321095,,1.0,1.0,PG,381509870,,,94.0,1.0,,2009
+True Lies,1.0,,,115000000,1.0,,Twentieth Century Fox,25869770,,,,R,378882411,,,141.0,,1.0,1994
+Slumdog Millionaire,,,,15000000,,,Fox Searchlight Pictures,360018,1.0,,,R,378410113,,1.0,117.09462915601023,,,2008
+Taken 2,1.0,,,45000000,,1.0,Twentieth Century Fox,49514769,,,,PG-13,376141306,,,92.0,,1.0,2012
+G.I. Joe: Retaliation,1.0,1.0,,130000000,,,Paramount Pictures,40501814,,,,PG-13,375740705,,,110.0,1.0,1.0,2013
+Mad Max: Fury Road,1.0,1.0,,150000000,,,Warner Bros.,45428128,,,,R,374736354,,,117.09462915601023,1.0,1.0,2015
+Spider-Man: Into the Spider-Verse,1.0,1.0,1.0,90000000,1.0,,Sony Pictures Entertainment (SPE),35363376,,1.0,1.0,PG,375540831,,,117.0,1.0,,2018
+Shark Tale,,1.0,1.0,75000000,1.0,,DreamWorks Distribution,47604606,,1.0,1.0,PG,374583879,,,90.0,,,2004
+Once Upon a Time... In Hollywood,,,,90000000,1.0,,Sony Pictures Entertainment (SPE),41082018,1.0,,,R,374375059,,,161.0,,,2019
+What Women Want,,,,70000000,1.0,,Paramount Pictures,33614543,,,1.0,PG-13,374111707,,1.0,127.0,,,2000
+Batman Begins,1.0,1.0,,150000000,,,Warner Bros.,48745440,,,,PG-13,371853783,,,140.0,,,2005
+Penguins of Madagascar,,1.0,1.0,132000000,1.0,,Twentieth Century Fox,25447444,,1.0,,PG,373515621,,,92.0,1.0,,2014
+X-Men Origins: Wolverine,1.0,,,150000000,,,Twentieth Century Fox,85058003,,,,PG-13,373062864,,,107.0,1.0,,2009
+The Golden Compass,,1.0,,180000000,,,New Line Cinema,26125000,,1.0,1.0,PG-13,372234864,,,113.0,,,2007
+Fifty Shades Freed,,,,55000000,,,Universal Pictures,38560195,1.0,,,R,371985018,,1.0,105.0,,1.0,2018
+Hitch,,,,70000000,1.0,,Sony Pictures Entertainment (SPE),43142214,,,,PG-13,371594210,,1.0,118.0,,,2005
+Terminator Salvation,1.0,,,200000000,,,Warner Bros.,42558390,,,,PG-13,371353001,,,115.0,1.0,,2009
+Captain America: The First Avenger,1.0,1.0,,140000000,,,Paramount Pictures,65058524,,,,PG-13,370569774,,,124.0,1.0,,2011
+Edge of Tomorrow,1.0,1.0,,178000000,,,Warner Bros.,28760246,,,,PG-13,370541256,,,113.0,1.0,,2014
+There's Something About Mary,,,,23000000,1.0,,Twentieth Century Fox,13740644,,,,R,369884651,,1.0,119.0,,,1998
+Gone Girl,,,,61000000,,,Twentieth Century Fox,37513109,1.0,,,R,369330363,1.0,,149.0,,1.0,2014
+Jurassic Park III,1.0,1.0,,93000000,,,Universal Pictures,50771645,,,,PG-13,368780809,,,92.0,1.0,1.0,2001
+My Big Fat Greek Wedding,,,,5000000,1.0,,IFC Films,597362,1.0,,,PG,368744044,,1.0,95.0,,,2002
+Die Hard with a Vengeance,1.0,1.0,,90000000,,,Twentieth Century Fox,22162245,,,,R,366101666,,,128.0,,1.0,1995
+Shazam!,1.0,1.0,,100000000,1.0,,Warner Bros.,53505326,,,1.0,PG-13,365971656,,,132.0,,,2019
+The Nun,,,,22000000,,,Warner Bros.,53807379,,,,R,365550119,1.0,,96.0,,1.0,2018
+Alvin and the Chipmunks,,1.0,1.0,60000000,1.0,,Twentieth Century Fox,44307417,,1.0,1.0,PG,365352546,1.0,,92.0,,,2007
+Notting Hill,,,,42000000,1.0,,Universal Pictures,21811180,1.0,,,PG-13,124182015,,1.0,124.0,,,1999
+A Bug's Life,,1.0,1.0,120000000,1.0,,Walt Disney Studios Motion Pictures,291121,,1.0,,,363258859,,,95.0,,,1998
+Night at the Museum: Secret of the Tomb,,1.0,,127000000,1.0,,Twentieth Century Fox,17100520,,1.0,1.0,PG,363204635,,,98.0,,,2014
+Ocean's Twelve,,,,110000000,,1.0,Warner Bros.,39153380,,,,PG-13,362744280,,,125.0,,1.0,2004
+Planet of the Apes,1.0,1.0,,100000000,,,Twentieth Century Fox,68532960,,,,PG-13,362211740,,,119.0,1.0,1.0,2001
+The Hangover Part III,,,,103000000,1.0,1.0,Warner Bros.,41671198,,,,R,362000072,,,100.0,,,2013
+The World Is Not Enough,1.0,1.0,,135000000,,1.0,Metro-Goldwyn-Mayer (MGM),35519007,,,,PG-13,126943684,,,128.0,,1.0,1999
+Fast & Furious,1.0,,,85000000,,,Universal Pictures,70950500,,,,PG-13,360364265,,,107.0,,1.0,2009
+Noah,1.0,1.0,,125000000,,,Paramount Pictures,43720472,1.0,,,PG-13,359200044,,,138.0,,,2014
+The Karate Kid,1.0,,,40000000,,,Sony Pictures Entertainment (SPE),55665805,1.0,1.0,,PG,359126022,1.0,,140.0,,,2010
+Hotel Transylvania,,1.0,1.0,85000000,1.0,,Sony Pictures Entertainment (SPE),42522194,,1.0,1.0,PG,358375603,1.0,1.0,91.0,,,2012
+Minority Report,1.0,,,102000000,,1.0,Twentieth Century Fox,35677125,,,,PG-13,358372926,1.0,,145.0,1.0,1.0,2002
+The Legend of Tarzan,1.0,1.0,,180000000,,,Warner Bros.,38527856,1.0,,1.0,PG-13,356700357,,1.0,110.0,,,2016
+American Beauty,,,,15000000,,,DreamWorks Distribution,861531,1.0,,,R,356296601,,,122.0,,,1999
+Rain Man,,,,25000000,,,Metro-Goldwyn-Mayer (MGM),7005719,1.0,,,,354825435,,,133.0,,,1988
+The Great Gatsby,,,,105000000,,,Warner Bros.,50085185,1.0,,,PG-13,353641895,,1.0,143.0,,,2013
+Dumbo,,1.0,,170000000,,,Walt Disney Studios Motion Pictures,45990748,,1.0,1.0,PG,353284621,,,112.0,,,2019
+"I, Robot",1.0,,,120000000,,,Twentieth Century Fox,52179887,1.0,,,PG-13,353133898,,,115.0,1.0,1.0,2004
+Basic Instinct,,,,49000000,,,TriStar Pictures,15129385,1.0,,,R,117727224,1.0,,127.0,,1.0,1992
+Murder on the Orient Express,,,,55000000,,1.0,Twentieth Century Fox,28681472,1.0,,,PG-13,352789811,1.0,,114.0,,,2017
+X-Men: First Class,1.0,1.0,,160000000,,,Twentieth Century Fox,55101604,,,,PG-13,352616690,,,131.0,1.0,,2011
+The Angry Birds Movie,,1.0,1.0,73000000,1.0,1.0,Sony Pictures Entertainment (SPE),38155177,,1.0,,PG,352333929,,,97.0,,,2016
+Catch Me If You Can,,,,52000000,,1.0,DreamWorks Distribution,30053627,1.0,,,PG-13,352114312,1.0,,141.0,,,2002
+Now You See Me,,,,75000000,,1.0,Lionsgate,29350389,,,,PG-13,351723989,1.0,,115.0,,1.0,2013
+Hannibal,,,,87000000,,1.0,Metro-Goldwyn-Mayer (MGM),58003121,1.0,,,R,351692268,,,131.0,,1.0,2001
+The Mask,1.0,,,23000000,1.0,1.0,New Line Cinema,23117068,,,1.0,PG-13,351583407,,,101.0,,,1994
+Peter Rabbit,,1.0,1.0,50000000,1.0,,Sony Pictures Entertainment (SPE),25010928,,1.0,1.0,PG,351266433,,,95.0,,,2018
+Speed,1.0,1.0,,30000000,,,Twentieth Century Fox,14456194,,,,R,121248145,,,116.0,,1.0,1994
+Dinosaur,,1.0,1.0,127500000,,,Walt Disney Studios Motion Pictures,38854851,1.0,1.0,1.0,PG,349822765,,,82.0,,,2000
+Mary Poppins Returns,,,,130000000,1.0,,Walt Disney Studios Motion Pictures,23523121,,1.0,1.0,PG,349537494,1.0,,130.0,,,2018
+The Lorax,,1.0,1.0,70000000,1.0,,Universal Pictures,70217070,1.0,1.0,1.0,PG,348840316,1.0,,86.0,,,2012
+The Maze Runner,1.0,,,34000000,,,Twentieth Century Fox,32512804,,,,PG-13,348319861,1.0,,117.09462915601023,1.0,1.0,2014
+The Smurfs 2,,1.0,1.0,105000000,1.0,,Sony Pictures Entertainment (SPE),17548389,,1.0,1.0,PG,347545360,,,105.0,,,2013
+National Treasure,1.0,1.0,,100000000,,,Walt Disney Studios Motion Pictures,35142554,,,,PG,347512318,1.0,,131.0,,1.0,2004
+Rush Hour 2,1.0,,,90000000,1.0,1.0,New Line Cinema,67408222,,,,PG-13,347325802,,,90.0,,1.0,2001
+Trolls,,1.0,1.0,125000000,1.0,,Twentieth Century Fox,46581142,,1.0,1.0,PG,346864462,1.0,1.0,92.0,,,2016
+xXx: Return of Xander Cage,1.0,1.0,,85000000,,,Paramount Pictures,20130142,,,,PG-13,346118277,,,107.0,,1.0,2017
+How the Grinch Stole Christmas,,,,123000000,1.0,,Universal Pictures,55082330,,1.0,1.0,PG,345141403,,,104.0,,,2000
+Star Trek Beyond,1.0,1.0,,185000000,,,Paramount Pictures,59253211,,,,PG-13,343471816,,,122.0,1.0,1.0,2016
+Alvin and the Chipmunks: Chipwrecked,,1.0,1.0,75000000,1.0,,Twentieth Century Fox,23244744,,1.0,,G,342695435,1.0,,87.0,,,2011
+Wanted,1.0,,,75000000,,1.0,Universal Pictures,50927085,,,,R,342463063,,,110.0,,1.0,2008
+The Flintstones,,,,46000000,1.0,,Universal Pictures,29688730,,1.0,1.0,PG,341631208,,,91.0,,,1994
+A Quiet Place,,,,17000000,,,Paramount Pictures,50203562,1.0,,,PG-13,340939361,1.0,,90.0,1.0,,2018
+Enchanted,,,1.0,85000000,1.0,,Walt Disney Studios Motion Pictures,34440317,,1.0,1.0,PG,340487652,1.0,1.0,107.0,,,2007
+300: Rise of an Empire,1.0,,,110000000,,,Warner Bros.,45038460,1.0,,,R,337580051,,,102.0,,,2014
+Batman Forever,1.0,1.0,,100000000,,,Warner Bros.,52784433,,,,PG-13,184031112,,,121.0,,,1995
+Prince of Persia: The Sands of Time,1.0,1.0,,200000000,,,Walt Disney Studios Motion Pictures,30095259,,,1.0,PG-13,336365676,,,116.0,,,2009
+The Curious Case of Benjamin Button,,,,150000000,,,Paramount Pictures,26853816,1.0,,1.0,PG-13,335802786,,1.0,166.0,,,2008
+Journey 2: The Mysterious Island,1.0,1.0,,79000000,1.0,,Warner Bros.,27335363,,1.0,1.0,PG,335260290,,,94.0,1.0,,2012
+The Rock,1.0,1.0,,75000000,,,Walt Disney Studios Motion Pictures,25069525,,,,R,134069511,,,136.0,,1.0,1996
+The Great Wall,1.0,1.0,,150000000,,,Universal Pictures,18469620,,,1.0,PG-13,334933831,,,103.0,,1.0,2016
+Fantastic Four,1.0,1.0,,100000000,,,Twentieth Century Fox,56061504,,,1.0,PG-13,333535934,,,106.0,1.0,,2005
+Indiana Jones and the Temple of Doom,1.0,1.0,,28000000,,,Paramount Pictures,25337110,,,,,179870271,,,118.0,,,1984
+Back to the Future Part II,,1.0,,40000000,1.0,,Universal Pictures,27835125,,,,,118549330,,,108.0,1.0,,1989
+22 Jump Street,1.0,,,50000000,1.0,1.0,Sony Pictures Entertainment (SPE),57071445,,,,R,331333876,,,112.0,,,2014
+Meet the Parents,,,,55000000,1.0,,Universal Pictures,28623300,,,,PG-13,330444045,,1.0,108.0,,,2000
+Who Framed Roger Rabbit,,1.0,1.0,70000000,1.0,1.0,Walt Disney Studios Motion Pictures,11226239,,1.0,1.0,,238092038,1.0,,104.0,,,1988
+Black Swan,,,,13000000,,,Fox Searchlight Pictures,1443809,1.0,,,R,329398046,,,108.0,,1.0,2010
+The Perfect Storm,1.0,1.0,,140000000,,,Warner Bros.,41325042,1.0,,,PG-13,328718434,,,130.0,,1.0,2000
+Se7en,,,,33000000,,1.0,New Line Cinema,13949807,1.0,,,R,100125643,1.0,,127.0,,1.0,1995
+John Wick: Chapter 3 - Parabellum,1.0,,,75000000,,1.0,Lionsgate,56818067,,,,R,326709727,,,130.0,,1.0,2019
+The Devil Wears Prada,,,,35000000,1.0,,Twentieth Century Fox,27537244,1.0,,,PG-13,326705902,,,109.0,,,2006
+Taken 3,1.0,,,48000000,,1.0,Twentieth Century Fox,39201657,,,,PG-13,326479141,,,108.0,,1.0,2015
+The Hunchback of Notre Dame,,,1.0,100000000,,,Walt Disney Studios Motion Pictures,21037414,1.0,1.0,,,325338851,1.0,1.0,91.0,,,1996
+A Christmas Carol,,1.0,1.0,200000000,,,Walt Disney Studios Motion Pictures,30051075,1.0,1.0,1.0,PG,325286646,1.0,,96.0,,,2009
+The SpongeBob Movie: Sponge Out of Water,,1.0,1.0,74000000,1.0,,Paramount Pictures,55365012,,1.0,1.0,PG,325186032,,,92.0,,,2015
+Schindler's List,,,,22000000,,,Universal Pictures,656636,1.0,,,R,96065768,1.0,,195.0,,,1993
+Megamind,1.0,,1.0,130000000,1.0,1.0,DreamWorks,46016833,,1.0,1.0,PG,321885765,,,95.0,1.0,,2010
+The Conjuring 2,,,,40000000,,,Warner Bros.,40406314,,,,R,320392818,1.0,,134.0,,1.0,2016
+Green Book,,,,23000000,1.0,,Universal Pictures,320429,1.0,,,PG-13,321752656,1.0,,130.0,,,2018
+Lethal Weapon 3,1.0,,,35000000,,1.0,Warner Bros.,33243086,,,,R,321731527,,,118.0,,1.0,1992
+The Ugly Truth,,,,38000000,1.0,,Sony Pictures Entertainment (SPE),27605576,,,,R,205298907,,1.0,96.0,,,2009
+Robin Hood,1.0,1.0,,200000000,,,Universal Pictures,36063385,1.0,,,PG-13,321669741,1.0,,140.0,,,2010
+Inglourious Basterds,,1.0,,70000000,,,The Weinstein Company,38054676,1.0,,,R,321455689,1.0,,153.0,,,2009
+The Conjuring,,,,20000000,,,Warner Bros.,41855326,,,,R,319494638,1.0,,112.0,,1.0,2013
+Sonic the Hedgehog,1.0,1.0,,85000000,1.0,,Paramount Pictures,58018348,,,,PG,319715683,,,99.0,1.0,,2020
+The Last Airbender,1.0,1.0,,150000000,,,Paramount Pictures,40325019,,1.0,1.0,PG,319713881,,,103.0,,,2010
+The Proposal,,,,40000000,1.0,,Walt Disney Studios Motion Pictures,33627598,1.0,,,PG-13,317375031,,1.0,108.0,,,2009
+A Beautiful Mind,,,,58000000,,,Universal Pictures,367151,1.0,,,PG-13,313542341,1.0,,135.0,,,2001
+Air Force One,1.0,,,85000000,,,Sony Pictures Entertainment (SPE),37132505,1.0,,,R,315156409,,,124.0,,1.0,1997
+The Expendables 2,1.0,1.0,,100000000,,,Lionsgate,28591370,,,,R,314975955,,,103.0,,1.0,2012
+Chicken Little,,1.0,1.0,150000000,1.0,,Walt Disney Studios Motion Pictures,40049778,,1.0,1.0,G,314432837,,,81.0,1.0,,2005
+The Polar Express,,1.0,1.0,165000000,1.0,,Warner Bros.,23323463,,1.0,1.0,,286000505,1.0,,100.0,,,2004
+As Good as It Gets,,,,50000000,1.0,,Sony Pictures Entertainment (SPE),12606928,1.0,,,PG-13,148478011,,1.0,139.0,,,1997
+Maze Runner: The Scorch Trials,1.0,1.0,,61000000,,,Twentieth Century Fox,30316510,,,,PG-13,312296056,,,117.09462915601023,1.0,1.0,2015
+Resident Evil: The Final Chapter,1.0,,,40000000,,,Screen Gems,13601682,,,,R,312242626,1.0,,107.0,1.0,,2016
+Austin Powers: The Spy Who Shagged Me,1.0,1.0,,33000000,1.0,1.0,New Line Cinema,17981900,,,,PG-13,312016928,,,95.0,,,1999
+The Lego Batman Movie,1.0,1.0,1.0,80000000,1.0,1.0,Warner Bros.,53003468,,1.0,1.0,PG,311950384,,1.0,104.0,1.0,,2017
+Knives Out,,,,40000000,1.0,1.0,Lionsgate,26769548,1.0,,,PG-13,311605581,1.0,,130.0,,1.0,2019
+Little Fockers,,,,100000000,1.0,,Universal Pictures,30833665,,,,PG-13,310650585,,1.0,98.0,,,2010
+Bolt,,1.0,1.0,150000000,1.0,1.0,Walt Disney Studios Motion Pictures,26223128,1.0,1.0,,PG,309979994,,,96.0,,,2008
+Runaway Bride,,,,70000000,1.0,,Paramount Pictures,35055556,,,,PG,309460292,,1.0,117.09462915601023,,,1999
+The Blind Side,,,,29000000,,,Warner Bros.,34119372,1.0,,,PG-13,309208309,1.0,,129.0,,,2009
+The Fault in Our Stars,,,,12000000,,,Twentieth Century Fox,48002523,1.0,,,PG-13,307166834,,1.0,126.0,,,2014
+The Pursuit of Happyness,,,,55000000,,,Sony Pictures Entertainment (SPE),26541709,1.0,,,PG-13,307127625,1.0,,117.0,,,2006
+Rise of the Guardians,1.0,1.0,1.0,145000000,1.0,,DreamWorks,23773465,1.0,1.0,1.0,PG,306941670,,,97.0,,,2012
+Chicago,,,,45000000,1.0,1.0,Miramax,2074929,,,,PG-13,306776732,1.0,,113.0,,,2002
+Annabelle: Creation,,,,15000000,,,Warner Bros.,35006404,,,,R,306515884,1.0,,109.0,,1.0,2017
+Skyscraper,1.0,1.0,,125000000,,,Universal Pictures,24905015,,,,PG-13,304868961,,,102.0,,1.0,2018
+A Good Day to Die Hard,1.0,,,92000000,,,Twentieth Century Fox,24834845,,,,R,304654182,,,98.0,,1.0,2013
+Passengers,,,,110000000,,,Sony Pictures Entertainment (SPE),14869736,1.0,,,PG-13,303144152,,1.0,116.0,1.0,1.0,2016
+Battleship,1.0,1.0,,209000000,,,Universal Pictures,25534825,,,,PG-13,303025485,,,131.0,1.0,1.0,2012
+G.I. Joe: The Rise of Cobra,1.0,1.0,,175000000,,,Paramount Pictures,54713046,,,,PG-13,302469017,,,118.0,1.0,1.0,2009
+Wrath of the Titans,1.0,1.0,,150000000,,,Warner Bros.,33457188,,,1.0,PG-13,301970083,,,99.0,,,2012
+Fantastic 4: Rise of the Silver Surfer,1.0,1.0,,130000000,,,Twentieth Century Fox,58051684,,,1.0,PG,301913131,,,92.0,1.0,,2007
+Hook,,1.0,,70000000,1.0,,TriStar Pictures,13522535,,1.0,1.0,,119654823,,,142.0,,,1991
+Superman,1.0,1.0,,55000000,,,Warner Bros.,7465343,1.0,,,PG,134218018,,,143.0,1.0,,1978
+Resident Evil: Afterlife,1.0,1.0,,60000000,,,Screen Gems,26650264,,,,R,300228084,1.0,,96.0,1.0,,2010
+Van Helsing,1.0,1.0,,160000000,,,Universal Pictures,51748040,,,1.0,PG-13,300157638,,,131.0,,,2004
+Stuart Little,,1.0,,133000000,1.0,,Sony Pictures Entertainment (SPE),15018223,,1.0,1.0,PG,300135367,,,84.0,,,1999
+Alice Through the Looking Glass,,1.0,,170000000,,,Walt Disney Studios Motion Pictures,26858726,,1.0,1.0,PG,299457024,,,113.0,,,2016
+My Best Friend's Wedding,,,,38000000,1.0,,Sony Pictures Entertainment (SPE),21678377,1.0,,,PG-13,299288605,,1.0,105.0,,,1997
+Horton Hears a Who!,,1.0,1.0,85000000,1.0,,Twentieth Century Fox,45012998,,1.0,1.0,,298572799,,,86.0,,,2008
+Ocean's Eight,1.0,,,70000000,1.0,1.0,Warner Bros.,41607378,,,,PG-13,297718711,,,110.0,,1.0,2018
+The Divergent Series: Insurgent,1.0,1.0,,110000000,,,Lionsgate,52263680,,,,PG-13,297002527,,,119.0,1.0,1.0,2015
+Austin Powers in Goldmember,1.0,1.0,,63000000,1.0,1.0,New Line Cinema,73071188,,,,PG-13,296938801,,,94.0,,,2002
+Miss Peregrine's Home for Peculiar Children,,1.0,,110000000,,,Twentieth Century Fox,28871140,1.0,1.0,1.0,PG-13,296482446,,,127.0,,1.0,2016
+X-Men,1.0,1.0,,75000000,,,Twentieth Century Fox,54471475,,,,PG-13,296339528,,,104.0,1.0,,2000
+Ghostbusters,1.0,,,144000000,1.0,,Sony Pictures Entertainment (SPE),46018755,,,1.0,PG-13,229147509,,,117.0,1.0,,2016
+Ferdinand,,1.0,1.0,111000000,1.0,,Twentieth Century Fox,13401586,1.0,1.0,1.0,PG,296069199,,,108.0,,,2017
+Shutter Island,,,,80000000,,,Paramount Pictures,41062440,,,,R,294804195,1.0,,138.0,,1.0,2010
+Bee Movie,,1.0,1.0,150000000,1.0,,DreamWorks,38021044,,1.0,,PG,293514336,,1.0,91.0,,,2007
+Salt,1.0,,,110000000,,,Sony Pictures Entertainment (SPE),36011243,,,,PG-13,293503354,,,100.0,,1.0,2010
+G-Force,1.0,1.0,1.0,150000000,1.0,,Walt Disney Studios Motion Pictures,31706934,,1.0,1.0,PG,292817841,,,88.0,1.0,,2009
+The Departed,,,,90000000,,1.0,Warner Bros.,26887467,1.0,,,R,291465034,,,151.0,,1.0,2006
+What Lies Beneath,,,,100000000,,,DreamWorks Distribution,29702959,1.0,,,PG-13,291420351,1.0,,130.0,,1.0,2000
+Pacific Rim: Uprising,1.0,1.0,,150000000,,,Universal Pictures,28116535,,,,PG-13,290930148,,,111.0,1.0,,2018
+The Bourne Supremacy,1.0,,,75000000,,,Universal Pictures,52521865,,,,PG-13,290633422,1.0,,108.0,,1.0,2004
+Sex and the City 2,,,,100000000,1.0,,Warner Bros.,31001870,1.0,,,R,290745055,,1.0,146.0,,,2010
+Shakespeare in Love,,,,25000000,1.0,,Miramax,224012,1.0,,,R,289317794,1.0,1.0,123.0,,,1998
+Divergent,1.0,1.0,,85000000,,,Lionsgate,54607747,,,,PG-13,288885818,1.0,,139.0,1.0,,2014
+Wedding Crashers,,,,40000000,1.0,,New Line Cinema,32200000,,,,R,288467645,,1.0,119.0,,,2005
+Bridesmaids,,,,32500000,1.0,,Universal Pictures,26247410,,,,R,288383523,,1.0,125.0,,,2011
+Maze Runner: The Death Cure,1.0,1.0,,62000000,,,Twentieth Century Fox,24167011,,,,PG-13,288175335,,,117.09462915601023,1.0,1.0,2018
+American Pie 2,,,,30000000,1.0,,Universal Pictures,45117985,,,,R,287553595,,,108.0,,,2001
+Pitch Perfect 2,,,,29000000,1.0,,Universal Pictures,69216890,,,,PG-13,287144079,1.0,,115.0,,,2015
+The Green Mile,,,,60000000,,1.0,Warner Bros.,18017152,1.0,,1.0,R,286801374,1.0,,189.0,,,1999
+Oblivion,1.0,1.0,,120000000,,,Universal Pictures,37054485,,,,PG-13,286168572,,,124.0,1.0,,2013
+Elysium,1.0,,,115000000,,,TriStar Pictures,29807393,1.0,,,R,286140700,,,109.0,1.0,,2013
+Lethal Weapon 4,1.0,,,140000000,,1.0,Warner Bros.,34048124,,,,R,285444603,,,127.0,,1.0,1998
+John Carter,1.0,1.0,,250000000,,,Walt Disney Studios Motion Pictures,30180188,,,,PG-13,284139100,,,132.0,1.0,,2012
+Turbo,,1.0,1.0,135000000,1.0,,Twentieth Century Fox,21312625,,1.0,,PG,282570682,1.0,,96.0,,,2013
+Paddington,,1.0,1.0,55000000,1.0,,Dimension Films,18966676,,1.0,1.0,PG,282370135,,,95.0,,,2014
+Bridget Jones's Diary,,,,25000000,1.0,,Miramax,10733933,1.0,,,R,281929795,,1.0,97.0,,,2001
+The Tourist,1.0,,,100000000,,,Sony Pictures Entertainment (SPE),16472458,,,,PG-13,278780441,,,103.0,,1.0,2010
+Split,,,,9000000,,,Universal Pictures,40010975,,,,PG-13,278454358,1.0,,117.0,,1.0,2017
+Scary Movie,,,,19000000,1.0,,Miramax,42346669,,,,R,278019771,,,88.0,,,2000
+xXx,1.0,1.0,,70000000,,,Revolution Studios,44506103,,,,PG-13,277448382,,,124.0,,1.0,2002
+The Bourne Legacy,1.0,1.0,,125000000,,,Universal Pictures,38142825,,,,PG-13,276144750,,,135.0,,1.0,2012
+Mr. Peabody & Sherman,,1.0,1.0,145000000,1.0,,Twentieth Century Fox,32207057,,1.0,,PG,275698039,,1.0,92.0,1.0,,2014
+Scooby-Doo,,1.0,,84000000,1.0,,Warner Bros.,54155312,,1.0,1.0,PG,275650703,1.0,,89.0,,,2002
+Lincoln,,,,65000000,,,Walt Disney Studios Motion Pictures,944308,1.0,,,PG-13,275293450,1.0,,150.0,,,2012
+Lara Croft: Tomb Raider,1.0,1.0,,115000000,,,Paramount Pictures,47735743,,,1.0,PG-13,274703340,,,100.0,,1.0,2001
+Tomb Raider,1.0,1.0,,94000000,,,Warner Bros.,23633317,,,1.0,PG-13,274650803,,,119.0,,1.0,2018
+The Expendables,1.0,1.0,,80000000,,,Lionsgate,34825135,,,,R,274470394,,,103.0,,1.0,2010
+Cloudy with a Chance of Meatballs 2,,1.0,1.0,78000000,1.0,,Sony Pictures Entertainment (SPE),34017930,1.0,1.0,1.0,PG,274325949,,,95.0,1.0,,2013
+The Nutty Professor,,,,54000000,1.0,,Universal Pictures,25411725,,,,PG-13,273961019,,1.0,95.0,1.0,,1996
+Jerry Maguire,,,,50000000,1.0,,Sony Pictures Entertainment (SPE),17084296,1.0,,,R,273552592,1.0,1.0,139.0,,,1996
+Bad Boys II,1.0,,,130000000,1.0,1.0,Sony Pictures Entertainment (SPE),46522560,,,,R,273339556,,,147.0,,1.0,2003
+Lilo & Stitch,,1.0,1.0,80000000,1.0,,Walt Disney Studios Motion Pictures,35260212,1.0,1.0,1.0,PG,273144151,,,85.0,1.0,,2002
+The Silence of the Lambs,,,,19000000,,1.0,Orion Pictures,13766814,1.0,,,,130742922,,,118.0,,1.0,1991
+Grown Ups,,,,80000000,1.0,,Sony Pictures Entertainment (SPE),40506562,,,,PG-13,271430189,,,102.0,,,2010
+Neighbors,,,,18000000,1.0,,Universal Pictures,49033915,,,,R,270665134,,,97.0,,,2014
+We're the Millers,,,,37000000,1.0,1.0,Warner Bros.,26419396,,,,R,269994119,,,110.0,,,2012
+Gran Torino,,,,33000000,,,Warner Bros.,271720,1.0,,,R,269958228,,,116.0,,,2008
+"10,000 BC",1.0,1.0,,105000000,,,Warner Bros.,35867488,1.0,,1.0,PG-13,269784201,1.0,,109.0,,,2008
+American Gangster,,,,100000000,,1.0,Universal Pictures,43565135,1.0,,,R,269755430,1.0,,157.0,,,2007
+Epic,1.0,1.0,1.0,100000000,,,Twentieth Century Fox,33531068,,1.0,1.0,PG,268426634,,,102.0,,,2013
+Exodus: Gods and Kings,1.0,1.0,,140000000,,,Twentieth Century Fox,24115934,1.0,,1.0,PG-13,268175631,,,150.0,,,2014
+The Princess and the Frog,,1.0,1.0,105000000,1.0,,Walt Disney Studios Motion Pictures,786190,,1.0,1.0,,267045765,1.0,1.0,97.0,,,2009
+Batman Returns,1.0,,,80000000,,1.0,Warner Bros.,45687711,,,1.0,PG-13,162831698,,,126.0,,,1992
+Something's Gotta Give,,,,80000000,1.0,,Sony Pictures Entertainment (SPE),16064723,1.0,,,PG-13,265328738,,1.0,128.0,,,2003
+Bridget Jones: The Edge of Reason,,,,40000000,1.0,,Universal Pictures,8684055,1.0,,,R,265126918,,1.0,108.0,,,2004
+The Incredible Hulk,1.0,1.0,,150000000,,,Universal Pictures,55414050,,,,PG-13,264770996,,,112.0,1.0,,2008
+Waterworld,1.0,1.0,,175000000,,,Universal Pictures,21171780,,,,PG-13,264218220,,,135.0,1.0,,1995
+Charlie's Angels,1.0,1.0,,93000000,1.0,1.0,Sony Pictures Entertainment (SPE),40128550,,,,PG-13,264105545,,,98.0,,1.0,2000
+Jumanji,,1.0,,65000000,1.0,,Sony Pictures Entertainment (SPE),11084370,,1.0,1.0,PG,100475249,,,104.0,,,1995
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,,,,18000000,1.0,,Twentieth Century Fox,26455463,,,,R,262552893,,,84.0,,,2006
+Robots,,1.0,1.0,75000000,1.0,,Twentieth Century Fox,36045301,,1.0,,PG,262511490,,,91.0,1.0,,2005
+Total Recall,1.0,1.0,,125000000,,,Sony Pictures Entertainment (SPE),25577758,,,,PG-13,198467168,,,118.0,1.0,1.0,2012
+Terminator: Dark Fate,1.0,1.0,,185000000,,,Paramount Pictures,29033832,,,,R,261119292,,,128.0,1.0,1.0,2019
+The Lone Ranger,1.0,1.0,,215000000,,,Walt Disney Studios Motion Pictures,29210849,,,,PG-13,260502115,1.0,,150.0,,,2013
+Super 8,,,,50000000,,,Paramount Pictures,35451168,,,,PG-13,260095986,1.0,,112.0,1.0,1.0,2011
+Mojin: The Lost Legend,1.0,1.0,,37000000,,,Well Go USA Entertainment,279974,1.0,,1.0,,259368448,1.0,,127.0,,1.0,2015
+Blade Runner 2049,1.0,,,150000000,,,Warner Bros.,32753122,1.0,,,R,259239658,1.0,,117.09462915601023,1.0,1.0,2017
+Charlie's Angels: Full Throttle,1.0,1.0,,120000000,1.0,1.0,Sony Pictures Entertainment (SPE),37634221,,,,PG-13,259175788,,,106.0,,,2003
+Parasite,,,,11400000,1.0,,Neon,393216,1.0,,,R,258633992,,,132.0,,1.0,2019
+Rush Hour 3,1.0,,,140000000,1.0,1.0,New Line Cinema,50237000,,,,PG-13,258097122,,,91.0,,1.0,2007
+The Full Monty,,,,3500000,1.0,,Fox Searchlight Pictures,176585,1.0,,,R,257938649,,,91.0,,,1997
+Kung Fu Yoga,1.0,1.0,,65000000,1.0,,Well Go USA Entertainment,111979,,1.0,1.0,,257743016,1.0,,107.0,,,2017
+Annabelle,,,,6500000,,,Warner Bros.,37134255,,,,R,257047661,1.0,,99.0,,1.0,2014
+The Village,,,,60000000,,,Walt Disney Studios Motion Pictures,50746142,1.0,,,PG-13,256697520,1.0,,108.0,,1.0,2003
+Erin Brockovich,,,,52000000,,,Universal Pictures,28138465,1.0,,,R,256271286,1.0,,131.0,,,2000
+Halloween,,,,10000000,,1.0,Universal Pictures,76221545,,,,R,255485178,1.0,,106.0,,1.0,2018
+Us,,,,20000000,,,Universal Pictures,71117625,,,,R,255184580,1.0,,116.0,,1.0,2019
+Cliffhanger,1.0,1.0,,70000000,,,TriStar Pictures,16176967,,,,R,84049211,,,113.0,,1.0,1993
+Men in Black: International,1.0,1.0,,110000000,1.0,,Sony Pictures Entertainment (SPE),30035838,,,,PG-13,253890701,,,114.0,1.0,,2019
+High School Musical 3: Senior Year,,,,11000000,1.0,,Walt Disney Studios Motion Pictures,42030184,1.0,1.0,,G,252909177,1.0,1.0,112.0,,,2008
+Hercules,1.0,1.0,,100000000,,,Paramount Pictures,29800263,,,1.0,PG-13,244819862,,,98.0,,,2014
+X-Men: Dark Phoenix,1.0,1.0,,200000000,,,Twentieth Century Fox,32828348,,,,PG-13,252442974,,,113.0,1.0,,2019
+True Grit,,,,38000000,,,Paramount Pictures,24830443,1.0,,,PG-13,252276927,1.0,,110.0,,,2010
+Bean,,1.0,,18000000,1.0,,Gramercy Pictures (I),2255233,,1.0,,PG-13,251212670,,,89.0,,,1997
+American Hustle,,,,40000000,,1.0,Sony Pictures Entertainment (SPE),740455,1.0,,,R,251171807,,,138.0,,,2013
+Enemy of the State,1.0,,,90000000,,,Walt Disney Studios Motion Pictures,20038573,,,,R,250849789,,,132.0,,1.0,1998
+You've Got Mail,,,,65000000,1.0,,Warner Bros.,18426749,1.0,,,PG,250821495,,1.0,119.0,,,1998
+Eragon,1.0,1.0,,100000000,,,Twentieth Century Fox,23239907,,1.0,1.0,PG,250425512,,,104.0,,,2006
+The Mask of Zorro,1.0,1.0,,95000000,1.0,,Sony Pictures Entertainment (SPE),22525855,,,,PG-13,250288523,1.0,1.0,136.0,,1.0,1998
+The Ring,,,,48000000,,,DreamWorks Distribution,15015393,,,,PG-13,249348933,1.0,,115.0,,,2002
+The Blair Witch Project,,,,60000,,,Artisan Entertainment,1512054,,,,R,248639099,1.0,,81.0,,,1999
+Unbreakable,,,,75000000,,,Walt Disney Studios Motion Pictures,30330771,1.0,,,PG-13,248118121,1.0,,106.0,1.0,1.0,2000
+Dumb and Dumber,,,,17000000,1.0,,New Line Cinema,16363442,,,,,247275374,,,107.0,,,1994
+Glass,,,,20000000,,,Universal Pictures,40328920,1.0,,,PG-13,246999039,,,129.0,1.0,1.0,2019
+Grown Ups 2,,,,80000000,1.0,,Sony Pictures Entertainment (SPE),41508572,,,,PG-13,246984278,,,101.0,,,2013
+The Peanuts Movie,,1.0,1.0,99000000,1.0,,Twentieth Century Fox,44213073,1.0,1.0,,G,246233113,,,88.0,,,2015
+The Godfather,,,,6000000,,1.0,Paramount Pictures,302393,1.0,,,,243862778,,,175.0,,,1972
+Rango,,1.0,1.0,135000000,1.0,1.0,Paramount Pictures,38079323,1.0,1.0,,PG,245724603,1.0,,107.0,,,2011
+Four Weddings and a Funeral,,,,4400000,1.0,,Gramercy Pictures (I),138486,1.0,,,R,52700832,,1.0,117.0,,,1994
+Face/Off,1.0,,,80000000,,1.0,Paramount Pictures,23387530,,,,R,245676146,,,138.0,1.0,1.0,1997
+Teenage Mutant Ninja Turtles 2: Out of the Shadows,1.0,1.0,,135000000,1.0,,Paramount Pictures,35316382,,,,PG-13,245623848,,,112.0,1.0,,2016
+Dark Shadows,,,,150000000,1.0,,Warner Bros.,29685274,,,1.0,PG-13,245527149,1.0,,113.0,,,2012
+Dolittle,,1.0,,175000000,1.0,,Universal Pictures,21844045,,1.0,1.0,PG,245461797,,,101.0,,,2020
+Hulk,1.0,,,137000000,,,Universal Pictures,62128420,,,,PG-13,245285165,,,138.0,1.0,,2003
+Love Actually,,,,40000000,1.0,,Universal Pictures,6886080,1.0,,,R,244931766,,1.0,135.0,,,2003
+Back to the Future Part III,,1.0,,40000000,1.0,,Universal Pictures,19089645,,,,,87727583,1.0,,118.0,1.0,,1990
+Pixels,1.0,,,88000000,1.0,,Sony Pictures Entertainment (SPE),24011616,,,1.0,PG-13,244874809,,,105.0,1.0,,2015
+Rush Hour,1.0,,,33000000,1.0,1.0,New Line Cinema,33001803,,,,PG-13,244386864,,,98.0,,1.0,1998
+Journey to the Center of the Earth,1.0,1.0,,60000000,,,Warner Bros.,21018141,,1.0,1.0,PG,244232688,,,93.0,1.0,,2008
+After Earth,1.0,1.0,,130000000,,,Sony Pictures Entertainment (SPE),27520040,,,,PG-13,243611982,,,100.0,1.0,,2013
+A Few Good Men,,,,41000000,,,Columbia Pictures,15517468,1.0,,,R,243240178,,,138.0,,1.0,1992
+Cloudy with a Chance of Meatballs,,1.0,1.0,100000000,1.0,,Sony Pictures Entertainment (SPE),30304648,1.0,1.0,1.0,PG,243006126,,,90.0,1.0,,2009
+8 Mile,,,,41000000,,,Universal Pictures,51240555,1.0,,,R,242875078,1.0,,110.0,,,2002
+RoboCop,1.0,,,100000000,,1.0,Sony Pictures Entertainment (SPE),21681430,,,,PG-13,242688965,,,117.0,1.0,1.0,2014
+Eraser,1.0,,,100000000,,,Warner Bros.,24566446,1.0,,,R,242295562,,,115.0,,1.0,1996
+Alien: Covenant,,,,97000000,,,Twentieth Century Fox,36160621,,,,R,240891763,1.0,,122.0,1.0,1.0,2017
+Sully,,,,60000000,,,Warner Bros.,35028301,1.0,,,PG-13,240797623,1.0,,96.0,,,2016
+Assassin's Creed,1.0,1.0,,125000000,,,Twentieth Century Fox,10278225,,,,PG-13,240697856,,,115.0,1.0,,2016
+Click,,,,82500000,1.0,,Revolution Studios,40011365,1.0,,1.0,PG-13,240685326,,1.0,107.0,,,2006
+Resident Evil: Retribution,1.0,,,65000000,,,Screen Gems,21052227,,,,R,240159255,1.0,,95.0,1.0,1.0,2012
+Die Hard 2,1.0,,,70000000,,,Twentieth Century Fox,21744661,,,,,117540947,,,124.0,,1.0,1990
+Planes,,1.0,1.0,50000000,1.0,,Walt Disney Studios Motion Pictures,22232291,,1.0,,PG,239258712,1.0,,91.0,,,2013
+Crazy Rich Asians,,,,30000000,1.0,,Warner Bros.,26510140,1.0,,,PG-13,238532921,,1.0,117.09462915601023,,,2018
+Batman & Robin,1.0,,,125000000,,,Warner Bros.,42872605,,,,PG-13,107325195,,,125.0,1.0,,1997
+Downton Abbey,,,,13000000,,,Focus Features,31033665,1.0,,,PG,237860050,,1.0,122.0,,,2019
+Gulliver's Travels,,1.0,,112000000,1.0,,Twentieth Century Fox,6307691,,1.0,1.0,PG,237382724,,,85.0,,,2010
+Gone in 60 Seconds,1.0,,,90000000,,1.0,Walt Disney Studios Motion Pictures,25336048,,,,PG-13,237202299,,,118.0,,1.0,2000
+Silver Linings Playbook,,,,21000000,1.0,,The Weinstein Company,443003,1.0,,,R,236412453,,1.0,122.0,,,2012
+2 Fast 2 Furious,1.0,,,76000000,,1.0,Universal Pictures,50472480,,,,PG-13,236350661,,,107.0,,1.0,2003
+Hidden Figures,,,,25000000,,,Twentieth Century Fox,515499,1.0,,,PG,235956898,1.0,,127.0,,,2016
+A.I. Artificial Intelligence,,,,100000000,,,Warner Bros.,29352630,1.0,,,PG-13,235926552,,,146.0,1.0,,2001
+Spy,1.0,,,65000000,1.0,,Twentieth Century Fox,29085719,,,,R,235666219,,,117.09462915601023,,,2015
+American Pie,,,,11000000,1.0,,Universal Pictures,18709680,,,,R,235483004,,,95.0,,,1999
+American Reunion,,,,50000000,1.0,,Universal Pictures,21514080,,,,R,234989584,,,113.0,,,2012
+Big Daddy,,,,34200000,1.0,,Sony Pictures Entertainment (SPE),41536370,1.0,,,PG-13,234801895,,,93.0,,,1999
+The Day the Earth Stood Still,,,,80000000,,,Twentieth Century Fox,30480153,1.0,,,PG-13,233093859,,,104.0,1.0,1.0,2008
+American Wedding,,,,55000000,1.0,,Universal Pictures,33369440,,,,R,232722935,,,96.0,,,2003
+The Girl with the Dragon Tattoo,,,,90000000,,1.0,Sony Pictures Entertainment (SPE),12768604,1.0,,,R,232617430,1.0,,158.0,,1.0,2011
+Juno,,,,7500000,1.0,,Fox Searchlight Pictures,413869,1.0,,,PG-13,232372681,,,96.0,,,2007
+Argo,,,,44500000,,,Warner Bros.,19458109,1.0,,,R,232325503,1.0,,117.09462915601023,,1.0,2012
+The English Patient,,,,27000000,,,Miramax,278439,1.0,,,R,231976425,1.0,1.0,162.0,,,1996
+Annabelle Comes Home,,,,30000000,,,Warner Bros.,20269723,,,,R,231252591,1.0,,106.0,,1.0,2019
+Constantine,1.0,,,100000000,,,Warner Bros.,29769098,,,1.0,R,230884728,1.0,,121.0,,,2005
+Get Smart,1.0,1.0,,80000000,1.0,,Warner Bros.,38683480,,,,PG-13,230685453,,,110.0,,,2008
+The Heat,1.0,,,43000000,1.0,1.0,Twentieth Century Fox,39115043,,,,R,229930771,,,117.0,,,1996
+Ghost Rider,1.0,,,110000000,,,Sony Pictures Entertainment (SPE),45388836,,,1.0,PG-13,228738393,,,110.0,,1.0,2007
+Sleepless in Seattle,,,,21000000,1.0,,TriStar Pictures,17253733,1.0,,,PG,126680884,,1.0,105.0,,,1993
+The Green Hornet,1.0,,,120000000,1.0,1.0,Sony Pictures Entertainment (SPE),33526876,,,,PG-13,227817248,,,119.0,,,2011
+Baby Driver,1.0,,,34000000,,1.0,TriStar Pictures,20553320,1.0,,,R,226945087,1.0,,113.0,,1.0,2017
+Immortals,1.0,,,75000000,,,Relativity Media,32206425,1.0,,1.0,R,226904017,,1.0,110.0,,,2011
+Taken,1.0,,,25000000,,1.0,Twentieth Century Fox,24717037,,,,PG-13,226837760,,,90.0,,1.0,2008
+Percy Jackson & the Olympians: The Lightning Thief,,1.0,,95000000,,,Twentieth Century Fox,31236067,,1.0,1.0,PG,226497209,,,118.0,,,2010
+Hansel & Gretel: Witch Hunters,1.0,,,50000000,,,Paramount Pictures,19690956,,,1.0,R,226349749,1.0,,88.0,,,2013
+Valerian and the City of a Thousand Planets,1.0,1.0,,177200000,,,STX Entertainment,17007624,,,1.0,PG-13,225874228,,,136.0,1.0,,2017
+Ford v Ferrari,1.0,,,97600000,,,Twentieth Century Fox,31474958,1.0,,,PG-13,225508210,1.0,,152.0,,,2019
+Jumper,1.0,1.0,,85000000,,,Twentieth Century Fox,27354808,,,,PG-13,225132113,,,88.0,1.0,1.0,2008
+The Social Network,,,,40000000,,,Sony Pictures Entertainment (SPE),22445653,1.0,,,PG-13,224920315,1.0,,117.09462915601023,,,2010
+Chicken Run,,1.0,1.0,45000000,1.0,,DreamWorks Distribution,17506162,1.0,1.0,,,224834564,,,117.09462915601023,,,2000
+Con Air,1.0,,,75000000,,1.0,Walt Disney Studios Motion Pictures,24131738,,,,R,224012234,,,115.0,,1.0,1997
+Elf,,1.0,,33000000,1.0,,New Line Cinema,32100000,,1.0,1.0,PG,220443451,,1.0,97.0,,,2003
+Interview with the Vampire: The Vampire Chronicles,,,,60000000,,,Warner Bros.,36389705,1.0,,,R,223664608,1.0,,123.0,,,1994
+Yes Man,,,,70000000,1.0,,Warner Bros.,18262471,,,,PG-13,223241637,,1.0,104.0,,,2008
+Non-Stop,1.0,,,50000000,,,Universal Pictures,28875635,,,,PG-13,222809600,1.0,,106.0,,1.0,2014
+Fahrenheit 9/11,,,,6000000,,,Lionsgate,23920637,1.0,,,R,222446882,1.0,,122.0,,,2004
+Wild Wild West,1.0,,,170000000,1.0,,Warner Bros.,27687484,,,,PG-13,222104681,1.0,,106.0,1.0,,1999
+Geostorm,1.0,,,120000000,,,Warner Bros.,13707376,,,,PG-13,221600160,,,109.0,1.0,1.0,2017
+Scary Movie 3,,,,48000000,1.0,,Dimension Films,49700000,,,,PG-13,220673217,,,84.0,,,2003
+Collateral,,,,65000000,,1.0,DreamWorks Distribution,24701458,1.0,,,R,220239925,,,117.09462915601023,,1.0,2004
+Inferno,1.0,1.0,,75000000,,1.0,Sony Pictures Entertainment (SPE),14860425,1.0,,,PG-13,220021259,1.0,,121.0,,1.0,2016
+Knocked Up,,,,30000000,1.0,,Universal Pictures,30690990,,,,R,219922417,,1.0,129.0,,,2007
+Green Lantern,1.0,1.0,,200000000,,,Warner Bros.,53174303,,,,PG-13,219851172,,,114.0,1.0,,2011
+What Happens in Vegas,,,,35000000,1.0,,Twentieth Century Fox,20172474,,,,PG-13,219375562,,1.0,99.0,,,2008
+It's Complicated,,,,85000000,1.0,,Universal Pictures,22100820,1.0,,,R,219103655,,1.0,121.0,,,2009
+The Terminal,,,,60000000,1.0,,DreamWorks Distribution,19053199,1.0,,,PG-13,219100084,,1.0,128.0,,,2004
+Captain Phillips,,1.0,,55000000,,1.0,Sony Pictures Entertainment (SPE),25718314,1.0,,,PG-13,218791811,1.0,,134.0,,1.0,2013
+The Prince of Egypt,,1.0,1.0,70000000,,,DreamWorks Distribution,14524321,1.0,1.0,1.0,PG,218613188,1.0,,99.0,,,1998
+Jack Reacher,1.0,,,60000000,,,Paramount Pictures,15210156,,,,PG-13,218340595,,,130.0,,1.0,2012
+Kingdom of Heaven,1.0,1.0,,130000000,,,Twentieth Century Fox,19635996,1.0,,,R,218122627,1.0,,144.0,,,2005
+The Emoji Movie,,1.0,1.0,50000000,1.0,,Sony Pictures Entertainment (SPE),24531923,,1.0,1.0,PG,217776646,,,86.0,,,2017
+Dracula Untold,1.0,,,70000000,,,Universal Pictures,23514615,1.0,,1.0,PG-13,217124280,1.0,,92.0,,,2014
+Central Intelligence,1.0,,,50000000,1.0,1.0,Warner Bros.,35535250,,,,PG-13,216972543,,,107.0,,,2016
+Million Dollar Baby,,,,30000000,,,Warner Bros.,179953,1.0,,,PG-13,216763646,1.0,,132.0,,,2004
+The Help,,,,25000000,,,Walt Disney Studios Motion Pictures,26044590,1.0,,,PG-13,216639112,,,146.0,,,2011
+Twins,,,,15000000,1.0,1.0,Universal Pictures,11174980,,,,,216614388,,,107.0,,,1988
+Little Women,,,,40000000,,,Sony Pictures Entertainment (SPE),16755310,1.0,,,PG,216601214,,1.0,135.0,,,2019
+Valentine's Day,,,,52000000,1.0,,Warner Bros.,56260707,,,,PG-13,216485654,,1.0,125.0,,,2010
+Bad Teacher,,,,20000000,1.0,,Sony Pictures Entertainment (SPE),31603106,,,,R,216197492,,1.0,92.0,,,2011
+Clear and Present Danger,1.0,,,62000000,,1.0,Paramount Pictures,20348017,1.0,,,PG-13,215887717,,,141.0,,1.0,1994
+Ted 2,,,,68000000,1.0,,Universal Pictures,33507870,,,,R,215863606,,,115.0,,,2015
+Dracula,,,,40000000,,,Columbia Pictures,30521679,,,,R,82522790,1.0,,128.0,,,1992
+Vertical Limit,1.0,1.0,,75000000,,,Sony Pictures Entertainment (SPE),15507845,1.0,,,PG-13,215663859,,,124.0,,1.0,2000
+The Patriot,1.0,,,110000000,,,Sony Pictures Entertainment (SPE),22413710,1.0,,,R,215294342,1.0,,165.0,,,2000
+The Sorcerer's Apprentice,1.0,1.0,,150000000,,,Walt Disney Studios Motion Pictures,17619622,,1.0,1.0,PG,215283742,,,109.0,,,2010
+Just Go with It,,,,80000000,1.0,,Sony Pictures Entertainment (SPE),30514732,,,,PG-13,214945591,,1.0,117.0,,,2011
+Dirty Dancing,,,,6000000,,,Vestron Pictures,3900000,1.0,,,,63446382,1.0,1.0,100.0,,,1987
+Creed II,,,,50000000,,,Metro-Goldwyn-Mayer (MGM),35574710,1.0,,,PG-13,214215889,1.0,,130.0,,,2018
+Public Enemies,,,,100000000,,1.0,Universal Pictures,25271675,1.0,,,R,214104620,1.0,,140.0,,,2009
+The Bourne Identity,1.0,,,60000000,,,Universal Pictures,27118640,,,,PG-13,214034224,1.0,,119.0,,1.0,2002
+Disclosure,,,,55000000,,,Warner Bros.,10068126,1.0,,,R,214015089,,,128.0,,1.0,1994
+Pulp Fiction,,,,8000000,,1.0,Miramax,9311882,1.0,,,R,107928762,,,154.0,,,1994
+The Aviator,,,,110000000,,,Miramax,858021,1.0,,,PG-13,213719942,1.0,,170.0,,,2004
+"Crouching Tiger, Hidden Dragon",1.0,1.0,,17000000,,,Sony Pictures Classics,663205,,,1.0,PG-13,213525736,,1.0,117.09462915601023,,,2000
+Braveheart,,,,72000000,,,Paramount Pictures,9938276,1.0,,,R,75609945,1.0,,178.0,,,1995
+Into the Woods,,1.0,,50000000,1.0,,Walt Disney Studios Motion Pictures,31051923,1.0,,1.0,PG,212902372,1.0,,125.0,,,2014
+Bedtime Stories,,1.0,,80000000,1.0,,Walt Disney Studios Motion Pictures,27450296,,1.0,1.0,PG,212874864,,1.0,99.0,1.0,,2008
+Miss Congeniality,1.0,,,45000000,1.0,1.0,Warner Bros.,10046534,,,,PG-13,212742720,,1.0,109.0,,,2000
+Entrapment,1.0,,,66000000,,1.0,Twentieth Century Fox,20145595,,,,PG-13,212404396,,1.0,113.0,,1.0,1999
+End of Days,1.0,,,100000000,,,Universal Pictures,20523595,,,1.0,R,211989043,1.0,,122.0,,1.0,1999
+Bridget Jones's Baby,,,,35000000,1.0,,Universal Pictures,8571785,1.0,,,R,211952420,,1.0,123.0,,,2016
+Fury,1.0,,,68000000,,,Sony Pictures Entertainment (SPE),23702421,1.0,,,R,211817906,1.0,,134.0,,,2014
+Battle Los Angeles,1.0,,,70000000,,,Sony Pictures Entertainment (SPE),35573187,,,,PG-13,211819354,,,116.0,1.0,,2011
+Australia,,1.0,,130000000,1.0,,Twentieth Century Fox,14800723,1.0,,,PG-13,211787511,1.0,1.0,165.0,,,2008
+Due Date,,,,65000000,1.0,,Warner Bros.,32689406,1.0,,,R,211780824,,,95.0,,,2010
+Master and Commander: The Far Side of the World,1.0,1.0,,150000000,,,Twentieth Century Fox,25105990,1.0,,,PG-13,211622535,1.0,,138.0,,,2003
+A Series of Unfortunate Events,,1.0,,140000000,1.0,,Paramount Pictures,30061756,,1.0,1.0,PG,211468235,,,108.0,,,2004
+District 9,1.0,,,30000000,,,TriStar Pictures,37354308,,,,R,210888950,,,112.0,1.0,1.0,2009
+The Others,,,,17000000,,,Miramax,14089952,,,,PG-13,209947037,1.0,,101.0,,1.0,2001
+Horrible Bosses,,,,35000000,1.0,1.0,Warner Bros.,28302165,,,,R,209838559,,,98.0,,,2011
+Red Dragon,,,,78000000,,1.0,Universal Pictures,36540945,1.0,,,R,209196298,,,124.0,,1.0,2002
+Tomorrowland,1.0,1.0,,190000000,,,Walt Disney Studios Motion Pictures,33028165,,1.0,1.0,PG,209035668,1.0,,130.0,1.0,,2015
+Me Before You,,,,20000000,,,Warner Bros.,18723269,1.0,,,PG-13,208314186,,1.0,106.0,,,2016
+Safe House,1.0,,,85000000,,,Universal Pictures,40172720,,,,R,208076205,,,115.0,,1.0,2012
+S.W.A.T.,1.0,1.0,,80000000,,1.0,Sony Pictures Entertainment (SPE),37062535,,,,PG-13,207725639,,,117.0,,1.0,2003
+The Fast and the Furious,1.0,,,38000000,,1.0,Universal Pictures,40089015,,,,PG-13,207283925,,,106.0,,1.0,2001
+Paranormal Activity 3,,,,5000000,,,Paramount Pictures,52568183,,,,R,207039844,1.0,,83.0,,,2011
+Philadelphia,,,,26000000,,,TriStar Pictures,143433,1.0,,,PG-13,206678440,,,125.0,,,1993
+Sleepy Hollow,,,,100000000,,,Paramount Pictures,30060467,,,1.0,R,206071502,1.0,,105.0,,,1999
+The Holiday,,,,85000000,1.0,,Sony Pictures Entertainment (SPE),12778913,,,,PG-13,205841885,,1.0,136.0,,,2006
+London Has Fallen,1.0,,,60000000,,,Focus Features,21635601,,,,R,205754447,,,99.0,,1.0,2016
+The Break-Up,,,,52000000,1.0,,Universal Pictures,39172785,1.0,,,PG-13,205668210,,1.0,106.0,,,2006
+White House Down,1.0,,,150000000,,,Sony Pictures Entertainment (SPE),24852258,1.0,,,PG-13,205366737,,,131.0,,1.0,2013
+A Dog's Purpose,,1.0,,22000000,1.0,,Universal Pictures,18222810,1.0,1.0,1.0,PG,205035819,,,100.0,,,2017
+Fun with Dick and Jane,,,,100000000,1.0,1.0,Sony Pictures Entertainment (SPE),14383515,,,,PG-13,204681899,,,90.0,,,2005
+Eat Pray Love,,,,60000000,,,Sony Pictures Entertainment (SPE),23104523,1.0,,,PG-13,204594016,1.0,1.0,133.0,,,2010
+You Don't Mess with the Zohan,,,,90000000,1.0,,Sony Pictures Entertainment (SPE),38531374,,,,PG-13,204313400,,,113.0,,,2008
+The Addams Family,,,,30000000,1.0,,Paramount Pictures,24203754,,,1.0,,113502426,,,99.0,,,1991
+King Arthur,1.0,1.0,,120000000,,,Walt Disney Studios Motion Pictures,15193907,1.0,,,PG-13,203567857,1.0,,126.0,,,2004
+Yogi Bear,,1.0,1.0,80000000,1.0,,Warner Bros.,16411322,,1.0,,PG,203509374,,,81.0,,,2010
+Everest,1.0,1.0,,55000000,,,Universal Pictures,7222035,1.0,,,PG-13,203427584,1.0,,121.0,,1.0,2015
+Vanilla Sky,,,,68000000,,,Paramount Pictures,25015518,,,1.0,R,203388341,1.0,1.0,136.0,1.0,1.0,2001
+Arrival,,,,47000000,,,Paramount Pictures,24074047,1.0,,,PG-13,203388186,,,116.0,1.0,,2016
+Need for Speed,1.0,,,66000000,,1.0,Walt Disney Studios Motion Pictures,17844939,,,,PG-13,203277636,,,132.0,,1.0,2014
+Garfield,,1.0,1.0,50000000,1.0,,Twentieth Century Fox,21727611,,1.0,1.0,PG,203172417,,,80.0,,,2004
+Patch Adams,,,,90000000,1.0,,Universal Pictures,25262280,1.0,,,PG-13,202292902,1.0,1.0,115.0,,,1998
+Teenage Mutant Ninja Turtles: The Movie,1.0,1.0,,13500000,1.0,,New Line Cinema,25398367,,1.0,,,135265915,,,93.0,1.0,,1990
+Kindergarten Cop,1.0,,,15000000,1.0,1.0,Universal Pictures,7918560,,,,,201957688,,,111.0,,,1990
+Birds of Prey,1.0,1.0,,84500000,1.0,1.0,Warner Bros.,33010017,,,,R,201858461,,,109.0,,,2020
+Straight Outta Compton,,,,28000000,,,Universal Pictures,60200180,1.0,,,R,201634991,1.0,,147.0,,,2015
+21 Jump Street,1.0,,,42000000,1.0,1.0,Sony Pictures Entertainment (SPE),36302612,,,,R,201585328,,,109.0,,,2012
+Valkyrie,,,,75000000,,,United Artists,21027007,1.0,,,PG-13,201545517,1.0,,121.0,,1.0,2008
+Open Season,,1.0,1.0,85000000,1.0,,Sony Pictures Entertainment (SPE),23624548,1.0,1.0,,PG,200811689,,,86.0,,,2006
+Cats & Dogs,1.0,,,60000000,1.0,,Warner Bros.,21707617,,1.0,1.0,PG,200687492,,,87.0,,,2001
+The Hunt for Red October,1.0,1.0,,30000000,,,Paramount Pictures,17161835,,,,,200512643,,,135.0,,1.0,1990
+Percy Jackson: Sea of Monsters,,1.0,,90000000,,,Twentieth Century Fox,14401054,,1.0,1.0,PG,199850315,,,106.0,,1.0,2013
+Two Weeks Notice,,,,60000000,1.0,,Warner Bros.,14328494,,,,PG-13,199043242,,1.0,101.0,,,2002
+RED,1.0,,,58000000,1.0,1.0,Summit Entertainment,21761408,,,,PG-13,199006387,,,111.0,,1.0,2010
+The Pacifier,1.0,,,56000000,1.0,,Walt Disney Studios Motion Pictures,30552694,1.0,1.0,,PG,198636868,,,95.0,,,2005
+50 First Dates,,,,75000000,1.0,,Sony Pictures Entertainment (SPE),39852237,1.0,,,PG-13,198520934,,1.0,99.0,,,2004
+Christopher Robin,,1.0,1.0,75000000,1.0,,Walt Disney Studios Motion Pictures,24585139,1.0,1.0,1.0,PG,197744377,1.0,,104.0,,,2018
+Jack the Giant Slayer,,1.0,,195000000,1.0,,Warner Bros.,27202226,,1.0,1.0,PG-13,197687603,,,114.0,,,2013
+Smurfs: The Lost Village,,1.0,1.0,60000000,1.0,,Sony Pictures Entertainment (SPE),13210449,,1.0,1.0,PG,197183546,,,90.0,,,2017
+Spy Kids 3-D: Game Over,1.0,1.0,,38000000,1.0,,Dimension Films,32500000,,1.0,,PG,197011982,,,84.0,1.0,,2003
+Panic Room,,,,48000000,,1.0,Sony Pictures Entertainment (SPE),30056751,1.0,,,R,196397415,,,112.0,,1.0,2002
+The Other Woman,,,,40000000,1.0,,Twentieth Century Fox,24763752,,,,PG-13,196710396,,1.0,109.0,,,2014
+Beowulf,1.0,1.0,1.0,150000000,,,Paramount Pictures,27515871,,,1.0,PG-13,196393745,,,115.0,,,2007
+The Vow,,,,30000000,,,Screen Gems,41202458,1.0,,,PG-13,196114570,,1.0,104.0,,,2012
+Anger Management,,,,75000000,1.0,,Revolution Studios,42220847,,,,PG-13,195745823,,,106.0,,,2003
+Tropic Thunder,1.0,,,92000000,1.0,,DreamWorks,25812796,,,,R,195702811,1.0,,107.0,,,2008
+The BFG,,1.0,,140000000,,,Walt Disney Studios Motion Pictures,18775350,,1.0,1.0,PG,195243411,,,117.0,,,2016
+Rocketman,,,,40000000,,,Paramount Pictures,25725722,1.0,,,R,195179299,1.0,,121.0,,,2019
+The Intern,,,,35000000,1.0,,Warner Bros.,17728313,1.0,,,PG-13,194564672,,,121.0,,,2015
+Wallace & Gromit: The Curse of the Were-Rabbit,,1.0,1.0,30000000,1.0,,DreamWorks Distribution,16025987,,1.0,1.0,,194111171,1.0,,85.0,1.0,,2005
+The Sum of All Fears,1.0,,,68000000,,,Paramount Pictures,31178526,1.0,,,PG-13,193921372,1.0,,124.0,,1.0,2002
+Gangs of New York,,,,100000000,,1.0,Miramax,9100000,1.0,,,R,193772504,,,167.0,,,2002
+Paranormal Activity,,,,15000,,,Paramount Pictures,77873,,,,R,193355800,1.0,,86.0,,,2009
+The Equalizer,1.0,,,55000000,,1.0,Sony Pictures Entertainment (SPE),34137828,,,,R,192330738,,,132.0,,1.0,2014
+The Lego Movie 2: The Second Part,,1.0,1.0,99000000,1.0,,Warner Bros.,34115335,,1.0,1.0,PG,192306508,,,107.0,1.0,,2019
+The Longest Yard,,,,82000000,1.0,1.0,Paramount Pictures,47606480,,,,PG-13,191466556,1.0,,113.0,,,2005
+The Santa Clause,,,,22000000,1.0,,Walt Disney Studios Motion Pictures,19321992,1.0,1.0,1.0,PG,144833357,,,97.0,,,1994
+Cheaper by the Dozen,,,,40000000,1.0,,Twentieth Century Fox,27557647,,1.0,,PG,190212113,,,98.0,,,2003
+The Equalizer 2,1.0,,,62000000,,1.0,Sony Pictures Entertainment (SPE),36011640,,,,R,190400157,,,121.0,,1.0,2018
+Hollow Man,1.0,,,95000000,,,Sony Pictures Entertainment (SPE),26414386,,,,R,190213455,1.0,,112.0,1.0,1.0,2000
+Rambo III,1.0,1.0,,63000000,,,TriStar Pictures,13034238,,,,,189015611,,,102.0,,,1988
+The Secret Life of Walter Mitty,,1.0,,90000000,1.0,,Twentieth Century Fox,12765508,1.0,,1.0,PG,188133322,,1.0,114.0,,,2013
+12 Years a Slave,,,,20000000,,,Fox Searchlight Pictures,923715,1.0,,,R,187733202,1.0,,134.0,,,2013
+Mr. Popper's Penguins,,,,55000000,1.0,,Twentieth Century Fox,18445355,,1.0,1.0,PG,187361754,,,94.0,,,2011
+The Grudge,,,,10000000,,,Sony Pictures Entertainment (SPE),39128715,,,,PG-13,187281115,1.0,,91.0,,1.0,2004
+I Now Pronounce You Chuck & Larry,,,,85000000,1.0,,Universal Pictures,34233750,,,,PG-13,187134117,,1.0,115.0,,,2007
+Walk the Line,,,,28000000,,,Twentieth Century Fox,22347341,1.0,,,PG-13,186797986,1.0,1.0,136.0,,,2005
+The Jungle Book 2,,1.0,1.0,20000000,,,Walt Disney Studios Motion Pictures,11441733,,1.0,,,135703599,1.0,,72.0,,,2003
+The Final Destination,1.0,,,40000000,,,Warner Bros.,27408309,,,,R,186167139,1.0,,82.0,,1.0,2009
+Atlantis: The Lost Empire,1.0,1.0,1.0,120000000,,,Walt Disney Studios Motion Pictures,329011,,1.0,1.0,PG,186053725,,,95.0,1.0,,2001
+Inside Man,,,,45000000,,1.0,Universal Pictures,28954945,1.0,,,R,186003591,1.0,,129.0,,1.0,2006
+The Waterboy,,,,23000000,1.0,,Walt Disney Studios Motion Pictures,39414071,,,,PG-13,185991646,1.0,,90.0,,,1998
+Pitch Perfect 3,,,,45000000,1.0,,Universal Pictures,19928525,,,,PG-13,185400345,1.0,,93.0,,,2017
+Watchmen,1.0,,,130000000,,,Warner Bros.,55214334,1.0,,,R,185382813,1.0,,162.0,1.0,,2009
+Moulin Rouge!,,,,50000000,,,Twentieth Century Fox,167540,1.0,,,PG-13,179213434,1.0,1.0,127.0,,,2001
+Hop,,1.0,1.0,63000000,1.0,,Universal Pictures,37543710,,1.0,1.0,PG,183953723,,,95.0,,,2011
+Bad Moms,,,,20000000,1.0,,STX Entertainment,23817340,,,,R,183936074,,,100.0,,,2016
+Jupiter Ascending,1.0,1.0,,176000000,,,Warner Bros.,18372372,,,,PG-13,183887723,,,127.0,1.0,,2015
+Knowing,1.0,,,50000000,,,Summit Entertainment,24604751,1.0,,,PG-13,183658498,,,121.0,1.0,1.0,2007
+102 Dalmatians,,1.0,,85000000,1.0,,Walt Disney Studios Motion Pictures,19883351,,1.0,,,183611771,,,100.0,,,2000
+Storks,,1.0,1.0,70000000,1.0,,Warner Bros.,21311407,1.0,1.0,1.0,PG,183388953,,,87.0,,,2016
+Paul Blart: Mall Cop,1.0,,,26000000,1.0,1.0,Sony Pictures Entertainment (SPE),31832636,,1.0,,PG,183348429,,,91.0,,,2009
+Wayne's World,,,,20000000,1.0,,Paramount Pictures,18122710,,,,PG-13,183097323,1.0,,94.0,,,1992
+Mirror Mirror,,1.0,,85000000,1.0,,Relativity Media,18132085,1.0,1.0,1.0,PG,183018522,,,106.0,,,2012
+The Haunted Mansion,,,,90000000,1.0,,Walt Disney Studios Motion Pictures,24278410,,1.0,1.0,PG,182290266,1.0,,99.0,,,2003
+While You Were Sleeping,,,,17000000,1.0,,Walt Disney Studios Motion Pictures,9288915,1.0,,,PG,81057016,,1.0,103.0,,,1995
+The Bridges of Madison County,,,,24000000,,,Warner Bros.,10519257,1.0,,,PG-13,182016617,,1.0,135.0,,,1995
+Poseidon,1.0,1.0,,160000000,,,Warner Bros.,22155410,,,,PG-13,181674817,,,98.0,,1.0,2006
+Hot Shots!,1.0,,,26000000,1.0,,Twentieth Century Fox,10848182,,,,,181096164,,,84.0,,,1991
+Road to Perdition,,,,80000000,,1.0,DreamWorks Distribution,22079481,1.0,,,R,181001478,,,117.0,,1.0,2002
+Kill Bill: Vol. 1,1.0,,,30000000,,1.0,Miramax,22200000,1.0,,,R,180899045,,,111.0,,1.0,2003
+The Scorpion King,1.0,1.0,,60000000,,,Universal Pictures,36075875,,,1.0,PG-13,178799308,,,92.0,,,2002
+Sweet Home Alabama,,,,30000000,1.0,,Walt Disney Studios Motion Pictures,35648740,,,,PG-13,180622424,,1.0,108.0,,,2002
+Daddy's Home 2,,,,69000000,1.0,,Paramount Pictures,29651193,,,,PG-13,180613180,,,100.0,,,2017
+Hacksaw Ridge,,,,40000000,,,Lionsgate,15190758,1.0,,,R,180563636,1.0,,139.0,,,2016
+Deja Vu,1.0,,,75000000,,1.0,Walt Disney Studios Motion Pictures,20574802,,,,PG-13,180557550,,,126.0,1.0,1.0,2006
+The Post,,,,50000000,,,Twentieth Century Fox,526011,1.0,,,PG-13,179769457,,,116.0,,,2017
+Abominable,,1.0,1.0,75000000,1.0,,Universal Pictures,20612100,1.0,1.0,1.0,PG,179053956,,,97.0,,,2019
+The Dictator,,,,65000000,1.0,,Paramount Pictures,17435092,,,,R,179379533,,,83.0,,,2012
+The League of Extraordinary Gentlemen,1.0,1.0,,78000000,,,Twentieth Century Fox,23075892,,,1.0,PG-13,179265204,,,110.0,1.0,,2003
+Daredevil,1.0,,,78000000,,1.0,Twentieth Century Fox,40310419,,,,PG-13,179179718,,,103.0,,,2003
+City Slickers,,,,27000000,1.0,,Columbia Pictures,13032121,,,,,179033791,1.0,,113.0,,,1991
+Eagle Eye,1.0,,,80000000,,,DreamWorks,29150721,,,,PG-13,178767383,1.0,,118.0,,1.0,2008
+Along Came Polly,,,,42000000,1.0,,Universal Pictures,27721185,,,,PG-13,178311729,,1.0,90.0,,,2004
+Flushed Away,,1.0,1.0,149000000,1.0,,DreamWorks,18814323,,1.0,,PG,178281554,,1.0,85.0,,,2006
+Scary Movie 4,,,,45000000,1.0,,Dimension Films,40222875,,,,PG-13,178262620,,,83.0,,,2006
+Dante's Peak,1.0,1.0,,116000000,,,Universal Pictures,18479435,,,,PG-13,178127760,,,108.0,,1.0,1997
+Brokeback Mountain,,,,14000000,,,Focus Features,547425,1.0,,,R,178062759,,1.0,134.0,,,2005
+Patriot Games,1.0,,,45000000,,,Paramount Pictures,18511191,,,,R,178051587,,,117.0,,1.0,1992
+Baywatch,1.0,,,69000000,1.0,1.0,Paramount Pictures,18503871,,,,R,177856751,,,116.0,,,2017
+Double Jeopardy,,,,70000000,,1.0,Paramount Pictures,23162542,1.0,,,R,177841558,1.0,,105.0,,1.0,1999
+War Horse,1.0,1.0,,66000000,,,Walt Disney Studios Motion Pictures,7515402,1.0,,,PG-13,177584879,1.0,,146.0,,,2011
+Paranormal Activity 2,,,,3000000,,,Paramount Pictures,40678424,,,,R,177512032,1.0,,91.0,,,2010
+Alien vs. Predator,1.0,1.0,,60000000,,,Twentieth Century Fox,38291056,,,,PG-13,177427090,1.0,,101.0,1.0,1.0,2004
+Hero,1.0,1.0,,31000000,,,Miramax,17800000,,,,PG-13,177395557,1.0,,117.09462915601023,,,2002
+The 40-Year-Old Virgin,,,,26000000,1.0,,Universal Pictures,21422815,,,,R,177378645,,1.0,116.0,,,2005
+Lee Daniels' The Butler,,,,30000000,,,The Weinstein Company,24637312,1.0,,,PG-13,177313795,1.0,,132.0,,,2013
+The Haunting,,,,80000000,,,DreamWorks Distribution,33435140,,,1.0,PG-13,177311151,1.0,,113.0,,1.0,1999
+The A-Team,1.0,1.0,,110000000,,,Twentieth Century Fox,25669455,,,,PG-13,177238796,,,117.0,,1.0,2010
+Tootsie,,,,21000000,1.0,,Columbia Pictures,5540470,1.0,,,,177200000,,1.0,116.0,,,1982
+In the Line of Fire,1.0,,,40000000,,1.0,Columbia Pictures,15269388,1.0,,,R,176997168,,,128.0,,1.0,1993
+Analyze This,,,,80000000,1.0,1.0,Warner Bros.,18383507,,,,R,176885658,,,103.0,,,1999
+The Hitman's Bodyguard,1.0,,,30000000,1.0,1.0,Lionsgate,21384504,,,,R,176586701,,,118.0,,1.0,2017
+Looper,1.0,,,30000000,,,TriStar Pictures,20801552,1.0,,,R,176506819,,,113.0,1.0,1.0,2012
+Dr. Dolittle 2,,,,70000000,1.0,,Twentieth Century Fox,25037039,,1.0,1.0,PG,176104344,,,87.0,,,2001
+The Italian Job,1.0,,,60000000,,1.0,Paramount Pictures,19457944,,,,PG-13,176070171,,,111.0,,1.0,2003
+The Bucket List,,1.0,,45000000,1.0,,Warner Bros.,335837,1.0,,,PG-13,175372502,,,97.0,,,2007
+Sleeping with the Enemy,,,,19000000,,,Twentieth Century Fox,13777943,1.0,,,R,174999005,,,99.0,,1.0,1991
+Cowboys & Aliens,1.0,,,163000000,,,Universal Pictures,36431290,,,,PG-13,174822325,1.0,,119.0,1.0,1.0,2011
+The Mule,,,,50000000,,1.0,Warner Bros.,17509431,1.0,,,R,174804407,,,116.0,,1.0,2018
+George of the Jungle,1.0,1.0,,55000000,1.0,,Walt Disney Studios Motion Pictures,16540791,,1.0,,PG,174463257,,1.0,92.0,,,1997
+Evan Almighty,,,,175000000,1.0,,Universal Pictures,31192615,,1.0,1.0,PG,174440724,,,96.0,,,2007
+Amélie,,,,10000000,1.0,,Miramax,136470,,,,R,173921954,,1.0,122.0,,,2001
+Identity Thief,,,,35000000,1.0,1.0,Universal Pictures,34551025,1.0,,,R,173965010,,,111.0,,,2013
+The Nutcracker and the Four Realms,,1.0,,120000000,,,Walt Disney Studios Motion Pictures,20352491,,1.0,1.0,PG,173961069,,,99.0,,,2018
+Big Momma's House,1.0,,,30000000,1.0,1.0,Twentieth Century Fox,25661041,,,,PG-13,173959438,,,99.0,,,2000
+In Time,1.0,,,40000000,,,Twentieth Century Fox,12050368,,,,PG-13,173930596,,,109.0,1.0,1.0,2011
+Anchorman 2: The Legend Continues,,,,50000000,1.0,,Paramount Pictures,26232425,,,,PG-13,171464676,,,119.0,,,2013
+Creed,,,,35000000,,,Warner Bros.,29632823,1.0,,,PG-13,173567581,1.0,,133.0,,,2015
+Gemini Man,1.0,,,138000000,,,Paramount Pictures,20552372,1.0,,,PG-13,173469516,,,117.0,1.0,1.0,2019
+The Girl on the Train,,,,45000000,,1.0,Universal Pictures,24536265,1.0,,,R,173185859,1.0,,112.0,,1.0,2016
+Scream,,,,14000000,,,Dimension Films,6354586,,,,R,103046663,1.0,,111.0,,,1996
+Cold Mountain,,1.0,,79000000,,,Miramax,14500000,1.0,,,R,173013509,1.0,1.0,154.0,,,2003
+Black Hawk Down,,,,92000000,,,Revolution Studios,179823,1.0,,,R,172989651,1.0,,144.0,,,2001
+The Grand Budapest Hotel,,1.0,,25000000,1.0,1.0,Fox Searchlight Pictures,811166,,,,R,172936941,,,99.0,,,2014
+The Santa Clause 2,,,,65000000,1.0,,Walt Disney Studios Motion Pictures,29008696,,1.0,1.0,,172855065,,,104.0,,,2002
+Cloverfield,1.0,,,25000000,,,Paramount Pictures,40058229,,,,PG-13,172394180,1.0,,85.0,1.0,1.0,2008

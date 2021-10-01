@@ -1,0 +1,801 @@
+title,Year of Release,Domestic Distributor,Domestic Opening,Budget,MPAA Rating,Running Time,Genres,Original Release Gross Worldwide
+Avatar,2009,Twentieth Century Fox,77025481,237000000,PG-13,162.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",2743577587
+Avengers: Endgame,2019,Walt Disney Studios Motion Pictures,357115007,356000000,PG-13,181.0,"['Action', 'Adventure', 'Drama', 'Science fiction']",2797501328
+Titanic,1997,Paramount Pictures,28638131,200000000,PG-13,194.0,"['Drama', 'Romance']",1843478449
+Star Wars: Episode VII - The Force Awakens,2015,Walt Disney Studios Motion Pictures,247966675,245000000,PG-13,138.0,"['Action', 'Adventure', 'Science fiction']",2068223624
+Jurassic World,2015,Universal Pictures,208806270,150000000,PG-13,124.0,"['Action', 'Adventure', 'Science fiction']",1670400637
+The Lion King,1994,Walt Disney Studios Motion Pictures,1586753,45000000,G,88.0,"['Adventure', 'Animation', 'Drama', 'Family', 'Musical']",858555561
+The Avengers,2012,Walt Disney Studios Motion Pictures,207438708,220000000,PG-13,143.0,"['Action', 'Adventure', 'Science fiction']",1518812988
+Furious 7,2015,Universal Pictures,147187040,190000000,PG-13,137.0,"['Action', 'Adventure', 'Thriller']",1515047671
+Frozen II,2019,Walt Disney Studios Motion Pictures,130263358,150000000,PG,103.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",1450026933
+Avengers: Age of Ultron,2015,Walt Disney Studios Motion Pictures,191271109,250000000,PG-13,141.0,"['Action', 'Adventure', 'Science fiction']",1402805868
+Star Wars: Episode VIII - The Last Jedi,2017,Walt Disney Studios Motion Pictures,220009584,317000000,PG-13,152.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",1332539889
+Jurassic World: Fallen Kingdom,2018,Universal Pictures,148024610,170000000,PG-13,128.0,"['Action', 'Adventure', 'Science fiction']",1308467944
+Frozen,2013,Walt Disney Studios Motion Pictures,243390,150000000,PG,102.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",1280802282
+Beauty and the Beast,1991,Walt Disney Studios Motion Pictures,162146,25000000,,84.0,"['Animation', 'Family', 'Fantasy', 'Musical', 'Romance']",248802521
+The Fate of the Furious,2017,Universal Pictures,98786705,250000000,PG-13,136.0,"['Action', 'Adventure', 'Crime', 'Thriller']",1236005118
+Iron Man 3,2013,Walt Disney Studios Motion Pictures,174144585,200000000,PG-13,130.0,"['Action', 'Adventure', 'Science fiction']",1214811252
+Minions,2015,Universal Pictures,115718405,74000000,PG,91.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Science fiction']",1159398397
+Captain America: Civil War,2016,Walt Disney Studios Motion Pictures,179139142,250000000,PG-13,147.0,"['Action', 'Adventure', 'Science fiction']",1153296293
+The Lord of the Rings: The Return of the King,2003,New Line Cinema,72629713,94000000,PG-13,201.0,"['Action', 'Adventure', 'Drama', 'Fantasy']",1140682011
+Spider-Man: Far from Home,2019,Sony Pictures Entertainment (SPE),92579212,160000000,PG-13,129.0,"['Action', 'Adventure', 'Science fiction']",1131927996
+Captain Marvel,2019,Walt Disney Studios Motion Pictures,153433423,160000000,PG-13,123.0,"['Action', 'Adventure', 'Science fiction']",1128274794
+Transformers: Dark of the Moon,2011,DreamWorks,97852865,195000000,PG-13,154.0,"['Action', 'Adventure', 'Science fiction']",1123794079
+Skyfall,2012,Sony Pictures Entertainment (SPE),88364714,200000000,PG-13,143.0,"['Action', 'Adventure', 'Thriller']",1108561013
+Transformers: Age of Extinction,2014,Paramount Pictures,100038390,210000000,PG-13,165.0,"['Action', 'Adventure', 'Science fiction']",1104054072
+The Dark Knight Rises,2012,Warner Bros.,160887295,250000000,PG-13,164.0,['Action'],1081041287
+Star Wars: Episode IX - The Rise of Skywalker,2019,Walt Disney Studios Motion Pictures,177383864,275000000,PG-13,141.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",1074144248
+Joker,2019,Warner Bros.,96202337,55000000,R,122.0,"['Crime', 'Drama', 'Thriller']",1074251311
+Toy Story 4,2019,Walt Disney Studios Motion Pictures,120908065,200000000,G,100.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",1073394593
+Toy Story 3,2010,Walt Disney Studios Motion Pictures,110307189,200000000,,103.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",1066969703
+Pirates of the Caribbean: Dead Man's Chest,2006,Walt Disney Studios Motion Pictures,135634554,225000000,PG-13,151.0,"['Action', 'Adventure', 'Fantasy']",1066179725
+Rogue One: A Star Wars Story,2016,Walt Disney Studios Motion Pictures,155081681,200000000,PG-13,133.0,"['Action', 'Adventure', 'Science fiction']",1056057273
+Aladdin,1992,Walt Disney Studios Motion Pictures,196664,28000000,,90.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",346476295
+Pirates of the Caribbean: On Stranger Tides,2011,Walt Disney Studios Motion Pictures,90151958,250000000,PG-13,137.0,"['Action', 'Adventure', 'Fantasy']",1045713802
+Despicable Me 3,2017,Universal Pictures,72434025,80000000,PG,89.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Science fiction']",1034799409
+Jurassic Park,1993,Universal Pictures,47026828,63000000,PG-13,127.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",912667947
+Star Wars: Episode I - The Phantom Menace,1999,Twentieth Century Fox,64820970,115000000,PG,136.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",924305084
+Alice in Wonderland,2010,Walt Disney Studios Motion Pictures,116101023,200000000,PG,108.0,"['Adventure', 'Family', 'Fantasy']",1025467110
+Harry Potter and the Sorcerer's Stone,2001,Warner Bros.,90294621,125000000,PG,152.0,"['Adventure', 'Family', 'Fantasy']",974755371
+The Dark Knight,2008,Warner Bros.,158411483,185000000,PG-13,152.0,"['Action', 'Crime', 'Drama', 'Thriller']",1003045358
+Despicable Me 2,2013,Universal Pictures,83517315,76000000,PG,98.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Science fiction']",970766005
+Jumanji: Welcome to the Jungle,2017,Sony Pictures Entertainment (SPE),36169328,90000000,PG-13,119.0,"['Action', 'Adventure', 'Comedy', 'Fantasy']",962077546
+Pirates of the Caribbean: At World's End,2007,Walt Disney Studios Motion Pictures,114732820,300000000,PG-13,169.0,"['Action', 'Adventure', 'Fantasy']",960996492
+The Lord of the Rings: The Two Towers,2002,New Line Cinema,62007528,94000000,PG-13,179.0,"['Action', 'Adventure', 'Drama', 'Fantasy']",936689735
+Harry Potter and the Order of the Phoenix,2007,Warner Bros.,77108414,150000000,PG-13,138.0,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery']",941676843
+Finding Nemo,2003,Walt Disney Studios Motion Pictures,70251710,94000000,,100.0,"['Adventure', 'Animation', 'Comedy', 'Family']",871014978
+Harry Potter and the Half-Blood Prince,2009,Warner Bros.,77835727,250000000,PG,153.0,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery']",933959197
+Shrek 2,2004,DreamWorks Distribution,108037878,150000000,PG,93.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",928760770
+Bohemian Rhapsody,2018,Twentieth Century Fox,51061119,52000000,PG-13,134.0,"['Biography', 'Drama', 'Music']",903655259
+The Lord of the Rings: The Fellowship of the Ring,2001,New Line Cinema,47211490,93000000,PG-13,178.0,"['Action', 'Adventure', 'Drama', 'Fantasy']",880839846
+Harry Potter and the Goblet of Fire,2005,Warner Bros.,102685961,150000000,PG-13,157.0,"['Adventure', 'Family', 'Fantasy', 'Mystery']",895921036
+Spider-Man 3,2007,Sony Pictures Entertainment (SPE),151116516,258000000,PG-13,139.0,"['Action', 'Adventure', 'Science fiction']",894983373
+Ice Age: Dawn of the Dinosaurs,2009,Twentieth Century Fox,41690382,90000000,PG,94.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",886686817
+Spectre,2015,Sony Pictures Entertainment (SPE),70403148,245000000,PG-13,148.0,"['Action', 'Adventure', 'Thriller']",880674609
+Spider-Man: Homecoming,2017,Sony Pictures Entertainment (SPE),117027503,175000000,PG-13,133.0,"['Action', 'Adventure', 'Science fiction']",880166924
+Harry Potter and the Chamber of Secrets,2002,Warner Bros.,88357488,100000000,PG,161.0,"['Adventure', 'Family', 'Fantasy', 'Mystery']",878979634
+Ice Age: Continental Drift,2012,Twentieth Century Fox,46629259,95000000,PG,88.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",877244782
+The Secret Life of Pets,2016,Universal Pictures,104352905,75000000,PG,87.0,"['Adventure', 'Animation', 'Comedy', 'Family']",875457937
+Batman v Superman: Dawn of Justice,2016,Warner Bros.,166007347,250000000,PG-13,152.0,"['Action', 'Adventure', 'Science fiction']",873634919
+Wolf Warrior 2,2017,The H Collective,219022,30100000,,123.0,"['Action', 'Adventure', 'Drama', 'Thriller', 'War']",870325439
+Star Wars: Episode III - Revenge of the Sith,2005,Twentieth Century Fox,108435841,113000000,PG-13,140.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",868352530
+The Hunger Games: Catching Fire,2013,Lionsgate,158074286,130000000,PG-13,146.0,"['Action', 'Drama', 'Mystery', 'Science fiction', 'Thriller']",865011746
+Guardians of the Galaxy Vol. 2,2017,Walt Disney Studios Motion Pictures,146510104,200000000,PG-13,136.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",863756051
+Inside Out,2015,Walt Disney Studios Motion Pictures,90440272,175000000,PG,95.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",857611174
+Venom,2018,Sony Pictures Entertainment (SPE),80255756,100000000,PG-13,112.0,"['Action', 'Adventure', 'Science fiction']",856085151
+Thor: Ragnarok,2017,Walt Disney Studios Motion Pictures,122744989,180000000,PG-13,130.0,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Science fiction']",853977126
+Inception,2010,Warner Bros.,62785337,160000000,PG-13,148.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",826137188
+Transformers: Revenge of the Fallen,2009,DreamWorks,108966307,200000000,PG-13,149.0,"['Action', 'Adventure', 'Science fiction']",836303693
+The Twilight Saga: Breaking Dawn - Part 2,2012,Lionsgate,141067634,120000000,PG-13,115.0,"['Adventure', 'Drama', 'Fantasy', 'Romance']",829746820
+Spider-Man,2002,Sony Pictures Entertainment (SPE),114844116,139000000,PG-13,121.0,"['Action', 'Adventure', 'Science fiction']",821708551
+Wonder Woman,2017,Warner Bros.,103251471,149000000,PG-13,141.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction', 'War']",821847012
+Independence Day,1996,Twentieth Century Fox,50228264,75000000,PG-13,145.0,"['Action', 'Adventure', 'Science fiction']",817400891
+Fantastic Beasts and Where to Find Them,2016,Warner Bros.,74403387,180000000,PG-13,132.0,"['Adventure', 'Family', 'Fantasy']",814037575
+Shrek the Third,2007,DreamWorks,121629270,160000000,PG,93.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",813367380
+Jumanji: The Next Level,2019,Sony Pictures Entertainment (SPE),59251543,125000000,PG-13,123.0,"['Action', 'Adventure', 'Comedy', 'Fantasy']",800059707
+Harry Potter and the Prisoner of Azkaban,2004,Warner Bros.,93687367,130000000,PG,142.0,"['Adventure', 'Family', 'Fantasy', 'Mystery']",795634069
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,Walt Disney Studios Motion Pictures,62983253,230000000,PG-13,129.0,"['Action', 'Adventure', 'Fantasy']",794861794
+E.T. the Extra-Terrestrial,1982,Universal Pictures,11835389,10500000,PG,115.0,"['Family', 'Science fiction']",359197037
+Mission: Impossible - Fallout,2018,Paramount Pictures,61236534,178000000,PG-13,147.0,"['Action', 'Adventure', 'Thriller']",791115104
+2012,2009,Sony Pictures Entertainment (SPE),65237614,200000000,PG-13,158.0,"['Action', 'Adventure', 'Science fiction']",769679473
+Indiana Jones and the Kingdom of the Crystal Skull,2008,Paramount Pictures,100137835,185000000,PG-13,122.0,"['Action', 'Adventure']",790653942
+Spider-Man 2,2004,Sony Pictures Entertainment (SPE),88156227,200000000,PG-13,127.0,"['Action', 'Adventure', 'Science fiction']",788976453
+Fast & Furious 6,2013,Universal Pictures,97375245,160000000,PG-13,130.0,"['Action', 'Adventure', 'Thriller']",788679850
+Deadpool 2,2018,Twentieth Century Fox,125507153,110000000,R,119.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",734546611
+Deadpool,2016,Twentieth Century Fox,132434639,58000000,R,108.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",782612155
+Star Wars: Episode IV - A New Hope,1977,Twentieth Century Fox,1554475,11000000,PG,121.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",307263857
+Guardians of the Galaxy,2014,Walt Disney Studios Motion Pictures,94320883,170000000,PG-13,121.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",772776600
+The Da Vinci Code,2006,Sony Pictures Entertainment (SPE),77073388,125000000,PG-13,149.0,"['Mystery', 'Thriller']",760006945
+Fast & Furious Presents: Hobbs & Shaw,2019,Universal Pictures,60038950,200000000,,137.0,"['Action', 'Adventure', 'Thriller']",759056935
+Maleficent,2014,Walt Disney Studios Motion Pictures,69431298,180000000,PG,97.0,"['Action', 'Adventure', 'Family', 'Fantasy', 'Romance']",758410378
+The Amazing Spider-Man,2012,Sony Pictures Entertainment (SPE),62004688,230000000,PG-13,136.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",757930663
+The Hunger Games: Mockingjay - Part 1,2014,Lionsgate,121897634,125000000,PG-13,123.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",755356711
+Shrek Forever After,2010,DreamWorks,70838207,165000000,PG,93.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Romance']",752600867
+Madagascar 3: Europe's Most Wanted,2012,DreamWorks,60316738,145000000,PG,95.0,"['Adventure', 'Animation', 'Comedy', 'Family']",746921274
+Suicide Squad,2016,Warner Bros.,133682248,175000000,PG-13,123.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",746846894
+X-Men: Days of Future Past,2014,Twentieth Century Fox,90823660,200000000,PG-13,132.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",746045700
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Walt Disney Studios Motion Pictures,65556312,180000000,PG,143.0,"['Adventure', 'Family', 'Fantasy']",745013115
+The Matrix Reloaded,2003,Warner Bros.,91774413,150000000,R,138.0,"['Action', 'Science fiction']",739412035
+Up,2009,Walt Disney Studios Motion Pictures,68108790,175000000,PG,96.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",735099082
+Gravity,2013,Warner Bros.,55785112,100000000,PG-13,91.0,"['Adventure', 'Drama', 'Science fiction', 'Thriller']",723192705
+Captain America: The Winter Soldier,2014,Walt Disney Studios Motion Pictures,95023721,170000000,PG-13,136.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",714421503
+The Twilight Saga: Breaking Dawn - Part 1,2011,Summit Entertainment,138122261,110000000,PG-13,117.0,"['Adventure', 'Drama', 'Fantasy', 'Romance', 'Thriller']",712205856
+The Twilight Saga: New Moon,2009,Summit Entertainment,142839137,50000000,PG-13,130.0,"['Adventure', 'Drama', 'Fantasy', 'Romance']",709827462
+Dawn of the Planet of the Apes,2014,Twentieth Century Fox,72611427,170000000,PG-13,130.0,"['Action', 'Adventure', 'Drama', 'Science fiction']",710644566
+Transformers,2007,DreamWorks,70502384,150000000,PG-13,144.0,"['Action', 'Adventure', 'Science fiction']",709709780
+It,2017,Warner Bros.,123403419,35000000,R,135.0,['Horror'],700381748
+Interstellar,2014,Paramount Pictures,47510360,165000000,PG-13,169.0,"['Adventure', 'Drama', 'Science fiction']",677896797
+The Twilight Saga: Eclipse,2010,Summit Entertainment,64832191,68000000,PG-13,124.0,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance', 'Thriller']",698491347
+Mission: Impossible - Ghost Protocol,2011,Paramount Pictures,12785204,145000000,PG-13,132.0,"['Action', 'Adventure', 'Thriller']",694713380
+The Hunger Games,2012,Lionsgate,152535747,78000000,PG-13,142.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",694394724
+Mission: Impossible - Rogue Nation,2015,Paramount Pictures,55520089,150000000,PG-13,131.0,"['Action', 'Adventure', 'Thriller']",682714267
+Forrest Gump,1994,Paramount Pictures,24450602,55000000,PG-13,142.0,"['Drama', 'Romance']",329694499
+Doctor Strange,2016,Walt Disney Studios Motion Pictures,85058311,165000000,PG-13,115.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",677718395
+The Sixth Sense,1999,Walt Disney Studios Motion Pictures,26681262,40000000,PG-13,107.0,"['Drama', 'Mystery', 'Thriller']",672806292
+Man of Steel,2013,Warner Bros.,116619362,225000000,PG-13,143.0,"['Action', 'Adventure', 'Science fiction']",668045518
+Ice Age: The Meltdown,2006,Twentieth Century Fox,68033544,80000000,PG,91.0,"['Adventure', 'Animation', 'Comedy', 'Family']",660998756
+Kung Fu Panda 2,2011,DreamWorks,47656302,150000000,PG,90.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",665692281
+The Hunger Games: Mockingjay - Part 2,2015,Lionsgate,102665981,160000000,PG-13,137.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",658344137
+Big Hero 6,2014,Walt Disney Studios Motion Pictures,56215889,165000000,PG,102.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Science fiction']",657827828
+Fantastic Beasts: The Crimes of Grindelwald,2018,Warner Bros.,62163104,200000000,PG-13,134.0,"['Adventure', 'Family', 'Fantasy']",654855901
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Walt Disney Studios Motion Pictures,46630690,140000000,PG-13,143.0,"['Action', 'Adventure', 'Fantasy']",654264015
+Star Wars: Episode II - Attack of the Clones,2002,Twentieth Century Fox,80027814,115000000,PG,142.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",645256452
+Thor: The Dark World,2013,Walt Disney Studios Motion Pictures,85737841,170000000,PG-13,112.0,"['Action', 'Adventure', 'Fantasy']",644783140
+Sing,2016,Universal Pictures,35258145,75000000,PG,108.0,"['Animation', 'Comedy', 'Family', 'Musical']",634151679
+Kung Fu Panda,2008,DreamWorks,60239130,130000000,PG,92.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",631744560
+The Incredibles,2004,Walt Disney Studios Motion Pictures,70467623,92000000,,115.0,"['Action', 'Adventure', 'Animation', 'Family']",631442092
+The Martian,2015,Twentieth Century Fox,54308575,108000000,PG-13,144.0,"['Adventure', 'Drama', 'Science fiction']",630161890
+Hancock,2008,Sony Pictures Entertainment (SPE),62603879,150000000,PG-13,92.0,"['Action', 'Drama', 'Fantasy']",629443428
+Fast Five,2011,Universal Pictures,86198765,125000000,PG-13,130.0,"['Action', 'Adventure', 'Crime', 'Thriller']",626137675
+Men in Black 3,2012,Sony Pictures Entertainment (SPE),54592779,225000000,PG-13,106.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",624026776
+Iron Man 2,2010,Paramount Pictures,128122480,200000000,PG-13,124.0,"['Action', 'Adventure', 'Science fiction']",623933331
+Ratatouille,2007,Walt Disney Studios Motion Pictures,47027395,150000000,G,111.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",623726085
+How to Train Your Dragon 2,2014,Twentieth Century Fox,49451322,145000000,PG,102.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",621537519
+Logan,2017,Twentieth Century Fox,88411916,97000000,R,137.0,"['Action', 'Drama', 'Science fiction', 'Thriller']",619021436
+The Lost World: Jurassic Park,1997,Universal Pictures,72132785,73000000,PG-13,129.0,"['Action', 'Adventure', 'Science fiction']",618638999
+Casino Royale,2006,Sony Pictures Entertainment (SPE),40833156,150000000,PG-13,144.0,"['Action', 'Adventure', 'Thriller']",605999592
+The Passion of the Christ,2004,Newmarket Films,83848082,30000000,R,127.0,['Drama'],611486736
+Mamma Mia!,2008,Universal Pictures,27751240,52000000,PG-13,108.0,"['Comedy', 'Musical', 'Romance']",609841637
+Life of Pi,2012,Twentieth Century Fox,22451514,120000000,PG,127.0,"['Adventure', 'Drama', 'Fantasy']",609016565
+Transformers: The Last Knight,2017,Paramount Pictures,44680073,217000000,PG-13,154.0,"['Action', 'Adventure', 'Science fiction']",605425157
+Madagascar: Escape 2 Africa,2008,DreamWorks,63106589,150000000,PG,89.0,"['Adventure', 'Animation', 'Comedy', 'Family']",603900354
+War of the Worlds,2005,Paramount Pictures,64878725,132000000,PG-13,116.0,"['Action', 'Adventure', 'Science fiction']",603873119
+Tangled,2010,Walt Disney Studios Motion Pictures,48767052,260000000,PG,100.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",592461732
+Quantum of Solace,2008,Sony Pictures Entertainment (SPE),67528882,200000000,PG-13,106.0,"['Action', 'Adventure', 'Thriller']",589580482
+Men in Black,1997,Sony Pictures Entertainment (SPE),51068455,90000000,PG-13,98.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",250690539
+The Croods,2013,Twentieth Century Fox,43639736,135000000,PG,98.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",587204668
+The Hangover Part II,2011,Warner Bros.,85946294,80000000,R,102.0,['Comedy'],586764305
+Iron Man,2008,Paramount Pictures,98618668,140000000,PG-13,126.0,"['Action', 'Adventure', 'Science fiction']",585366247
+I Am Legend,2007,Warner Bros.,77211321,150000000,PG-13,101.0,"['Action', 'Adventure', 'Drama', 'Science fiction', 'Thriller']",585410052
+Ready Player One,2018,Warner Bros.,41764050,175000000,PG-13,140.0,"['Action', 'Adventure', 'Science fiction']",582890172
+"Monsters, Inc.",2001,Walt Disney Studios Motion Pictures,62577067,115000000,G,92.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",528773250
+Fifty Shades of Grey,2015,Universal Pictures,85171450,40000000,R,125.0,"['Drama', 'Romance', 'Thriller']",569651467
+Kong: Skull Island,2017,Warner Bros.,61025472,185000000,PG-13,118.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",566652812
+The Smurfs,2011,Sony Pictures Entertainment (SPE),35611637,110000000,PG,103.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",563749323
+King Kong,2005,Universal Pictures,50130145,207000000,PG-13,187.0,"['Action', 'Adventure', 'Drama', 'Romance']",562363449
+Cars 2,2011,Walt Disney Studios Motion Pictures,66135507,200000000,G,106.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sport']",559852396
+Puss in Boots,2011,DreamWorks,34077439,130000000,PG,90.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",554987477
+Armageddon,1998,Walt Disney Studios Motion Pictures,36089972,140000000,PG-13,151.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",553709788
+The Day After Tomorrow,2004,Twentieth Century Fox,68743584,125000000,PG-13,124.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",552639571
+Ted,2012,Universal Pictures,54415205,50000000,R,106.0,['Comedy'],549368315
+American Sniper,2014,Warner Bros.,633456,58800000,R,133.0,"['Action', 'Biography', 'Drama', 'War']",547426372
+Mission: Impossible II,2000,Paramount Pictures,57845297,125000000,PG-13,123.0,"['Action', 'Adventure', 'Thriller']",546388108
+X-Men: Apocalypse,2016,Twentieth Century Fox,65769562,178000000,PG-13,144.0,"['Action', 'Adventure', 'Science fiction']",543934105
+Despicable Me,2010,Universal Pictures,56397125,69000000,PG,95.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Science fiction']",543113985
+Cinderella,2015,Walt Disney Studios Motion Pictures,67877361,95000000,PG,105.0,"['Drama', 'Family', 'Fantasy', 'Musical', 'Romance']",542351353
+World War Z,2013,Paramount Pictures,66411834,190000000,PG-13,116.0,"['Action', 'Adventure', 'Horror', 'Science fiction']",540007876
+Brave,2012,Walt Disney Studios Motion Pictures,66323594,185000000,PG,93.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",538983207
+Star Wars: Episode V - The Empire Strikes Back,1980,Twentieth Century Fox,4910483,18000000,PG,124.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",209398025
+The Simpsons Movie,2007,Twentieth Century Fox,74036787,75000000,PG-13,87.0,"['Adventure', 'Animation', 'Comedy']",536414270
+The Revenant,2015,Twentieth Century Fox,474560,135000000,R,156.0,"['Action', 'Adventure', 'Drama', 'History', 'Western']",532950503
+The Meg,2018,Warner Bros.,45402195,130000000,PG-13,113.0,"['Action', 'Horror', 'Science fiction', 'Thriller']",530243742
+Ralph Breaks the Internet,2018,Walt Disney Studios Motion Pictures,56237634,175000000,PG,112.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",529323962
+Hotel Transylvania 3: Summer Vacation,2018,Sony Pictures Entertainment (SPE),44076225,80000000,PG,97.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Horror', 'Romance']",528583774
+Dunkirk,2017,Warner Bros.,50513488,100000000,PG-13,106.0,"['Action', 'Drama', 'History', 'Thriller', 'War']",525245546
+How to Train Your Dragon: The Hidden World,2019,Universal Pictures,55022245,129000000,PG,104.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Romance']",521799505
+Godzilla,1998,Sony Pictures Entertainment (SPE),44047541,130000000,PG-13,139.0,"['Action', 'Science fiction', 'Thriller']",379014294
+Sherlock Holmes,2009,Warner Bros.,62304277,90000000,PG-13,128.0,"['Action', 'Adventure', 'Mystery']",524028679
+Meet the Fockers,2004,Universal Pictures,46120980,80000000,PG-13,115.0,"['Comedy', 'Romance']",522657936
+WALL·E,2008,Walt Disney Studios Motion Pictures,63087526,180000000,,98.0,"['Adventure', 'Animation', 'Family', 'Romance', 'Science fiction']",521311860
+Kung Fu Panda 3,2016,Twentieth Century Fox,41282042,145000000,PG,95.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",521170825
+Terminator 2: Judgment Day,1991,TriStar Pictures,31765506,102000000,R,137.0,"['Action', 'Science fiction']",204843345
+Ant-Man,2015,Walt Disney Studios Motion Pictures,57225526,130000000,PG-13,117.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",519311965
+The Grinch,2018,Universal Pictures,67572855,75000000,PG,85.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Music']",511595957
+Ghost,1990,Paramount Pictures,12191540,22000000,,127.0,"['Drama', 'Fantasy', 'Romance', 'Thriller']",217631306
+Rio 2,2014,Twentieth Century Fox,39327869,103000000,G,101.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family', 'Musical']",498781117
+Troy,2004,Warner Bros.,46865412,175000000,R,163.0,"['Drama', 'History']",497409852
+Toy Story 2,1999,Walt Disney Studios Motion Pictures,300163,90000000,,92.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",487059677
+How to Train Your Dragon,2010,DreamWorks,43732319,165000000,PG,98.0,"['Action', 'Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",494878759
+Twister,1996,Warner Bros.,41059405,92000000,,113.0,"['Action', 'Adventure', 'Thriller']",241721524
+Oz the Great and Powerful,2013,Walt Disney Studios Motion Pictures,79110453,215000000,PG,130.0,"['Adventure', 'Family', 'Fantasy']",493311825
+Clash of the Titans,2010,Warner Bros.,61235105,125000000,PG-13,106.0,"['Action', 'Adventure', 'Fantasy']",493214993
+Maleficent: Mistress of Evil,2019,Walt Disney Studios Motion Pictures,36948713,185000000,PG,119.0,"['Adventure', 'Family', 'Fantasy']",491730089
+War for the Planet of the Apes,2017,Twentieth Century Fox,56262929,150000000,PG-13,140.0,"['Action', 'Adventure', 'Drama', 'Science fiction', 'Thriller']",490719763
+Shrek,2001,DreamWorks Distribution,42347760,60000000,PG,90.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",484409218
+Mr. & Mrs. Smith,2005,Twentieth Century Fox,50342878,110000000,PG-13,117.09462915601023,"['Action', 'Comedy', 'Crime', 'Thriller']",487287646
+Angels & Demons,2009,Sony Pictures Entertainment (SPE),46204168,150000000,PG-13,138.0,"['Action', 'Mystery', 'Thriller']",485930816
+Teenage Mutant Ninja Turtles,2014,Paramount Pictures,65575105,125000000,PG-13,101.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",485004754
+Bruce Almighty,2003,Universal Pictures,67953330,81000000,PG-13,101.0,"['Comedy', 'Fantasy']",484592874
+Rio,2011,Twentieth Century Fox,39225962,90000000,PG,96.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family', 'Musical']",483866518
+Saving Private Ryan,1998,DreamWorks Distribution,30576104,70000000,R,169.0,"['Drama', 'War']",481840909
+Rise of the Planet of the Apes,2011,Twentieth Century Fox,54806191,93000000,PG-13,105.0,"['Action', 'Drama', 'Science fiction', 'Thriller']",481800873
+Home Alone,1990,Twentieth Century Fox,17081997,18000000,,103.0,"['Comedy', 'Family']",285761244
+Star Wars: Episode VI - Return of the Jedi,1983,Twentieth Century Fox,23019618,32500000,PG,131.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",252583617
+Charlie and the Chocolate Factory,2005,Warner Bros.,56178450,150000000,PG,115.0,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Musical']",474968763
+Hotel Transylvania 2,2015,Sony Pictures Entertainment (SPE),48464322,80000000,PG,89.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Horror', 'Romance']",474800000
+Indiana Jones and the Last Crusade,1989,Paramount Pictures,29355021,48000000,PG-13,127.0,"['Action', 'Adventure']",197171806
+San Andreas,2015,Warner Bros.,54588173,110000000,PG-13,114.0,"['Action', 'Adventure', 'Thriller']",473990832
+It Chapter Two,2019,Warner Bros.,91062152,79000000,R,169.0,"['Drama', 'Fantasy', 'Horror']",473093228
+Jaws,1975,Universal Pictures,7061513,7000000,,124.0,"['Adventure', 'Thriller']",260000000
+Wreck-It Ralph,2012,Walt Disney Studios Motion Pictures,49038712,165000000,PG,101.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",471222889
+The Hangover,2009,Warner Bros.,44979319,35000000,R,100.0,['Comedy'],468812793
+The Lego Movie,2014,Warner Bros.,69050279,60000000,PG,100.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",468060692
+Bumblebee,2018,Paramount Pictures,21654047,135000000,PG-13,114.0,"['Action', 'Adventure', 'Science fiction']",467989645
+Star Trek Into Darkness,2013,Paramount Pictures,70165559,190000000,PG-13,132.0,"['Action', 'Adventure', 'Science fiction']",467365246
+The Matrix,1999,Warner Bros.,27788331,63000000,R,136.0,"['Action', 'Science fiction']",463517383
+Gladiator,2000,DreamWorks Distribution,34819017,103000000,R,155.0,"['Action', 'Adventure', 'Drama']",460583960
+Pretty Woman,1990,Walt Disney Studios Motion Pictures,11280591,14000000,R,119.0,"['Comedy', 'Romance']",178406268
+Cars,2006,Walt Disney Studios Motion Pictures,60119509,120000000,,117.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sport']",461983149
+X-Men: The Last Stand,2006,Twentieth Century Fox,102750665,210000000,PG-13,104.0,"['Action', 'Adventure', 'Science fiction']",460435291
+Lucy,2014,Universal Pictures,43899340,40000000,R,89.0,"['Action', 'Science fiction', 'Thriller']",458863600
+Mission: Impossible,1996,Paramount Pictures,45436830,80000000,PG-13,110.0,"['Action', 'Adventure', 'Thriller']",180981856
+300,2007,Warner Bros.,70885301,65000000,R,117.0,"['Action', 'Drama']",456068181
+The Last Samurai,2003,Warner Bros.,24271354,140000000,R,154.0,"['Action', 'Drama']",454627263
+Ocean's Eleven,2001,Warner Bros.,38107822,85000000,PG-13,116.0,"['Crime', 'Thriller']",450717150
+Thor,2011,Paramount Pictures,65723338,150000000,PG-13,115.0,"['Action', 'Adventure', 'Fantasy']",449326618
+Pearl Harbor,2001,Walt Disney Studios Motion Pictures,59078912,140000000,PG-13,183.0,"['Action', 'Drama', 'History', 'Romance', 'War']",449220945
+La La Land,2016,Lionsgate,881104,30000000,PG-13,128.0,"['Comedy', 'Drama', 'Music', 'Musical', 'Romance']",447407695
+Tarzan,1999,Walt Disney Studios Motion Pictures,34221968,130000000,G,88.0,"['Adventure', 'Animation', 'Comedy', 'Family']",448191819
+Men in Black II,2002,Sony Pictures Entertainment (SPE),52148751,140000000,PG-13,88.0,"['Action', 'Adventure', 'Comedy', 'Mystery', 'Science fiction']",441818803
+The Bourne Ultimatum,2007,Universal Pictures,69283690,110000000,PG-13,115.0,"['Action', 'Adventure', 'Mystery', 'Thriller']",444100035
+The Mummy Returns,2001,Universal Pictures,68139035,98000000,PG-13,130.0,"['Action', 'Adventure', 'Fantasy', 'Thriller']",433013274
+Alvin and the Chipmunks: The Squeakquel,2009,Twentieth Century Fox,48875415,75000000,PG,88.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Music', 'Musical']",443140005
+Les Misérables,2012,Universal Pictures,27281735,61000000,PG-13,158.0,"['Drama', 'Musical', 'Romance']",441809770
+Mrs. Doubtfire,1993,Twentieth Century Fox,20468847,25000000,PG-13,125.0,"['Comedy', 'Drama', 'Family']",219195243
+Terminator Genisys,2015,Paramount Pictures,27018486,155000000,PG-13,126.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",440603537
+Warcraft,2016,Universal Pictures,24166110,160000000,PG-13,123.0,"['Action', 'Adventure', 'Fantasy', 'War']",439048914
+The Greatest Showman,2017,Twentieth Century Fox,8805843,84000000,PG,105.0,"['Biography', 'Drama', 'Musical']",434993183
+A Star Is Born,2018,Warner Bros.,42908051,36000000,R,136.0,"['Drama', 'Music', 'Romance']",436188866
+Pokémon Detective Pikachu,2019,Warner Bros.,54365242,150000000,PG,104.0,"['Action', 'Adventure', 'Comedy', 'Family', 'Mystery', 'Science fiction']",433005346
+Terminator 3: Rise of the Machines,2003,Warner Bros.,44041440,200000000,R,109.0,"['Action', 'Science fiction']",433371112
+Die Another Day,2002,Metro-Goldwyn-Mayer (MGM),47072040,142000000,PG-13,133.0,"['Action', 'Adventure', 'Thriller']",431971116
+The Secret Life of Pets 2,2019,Universal Pictures,46652680,80000000,PG,86.0,"['Adventure', 'Animation', 'Comedy', 'Family']",430051293
+Cast Away,2000,Twentieth Century Fox,28883406,90000000,PG-13,143.0,"['Adventure', 'Drama', 'Romance']",429632142
+Rampage,2018,Warner Bros.,35753093,120000000,PG-13,107.0,"['Action', 'Adventure', 'Science fiction']",428028233
+The King's Speech,2010,The Weinstein Company,355450,15000000,R,118.0,"['Biography', 'Drama', 'History']",423999102
+The Matrix Revolutions,2003,Warner Bros.,48475154,150000000,R,129.0,"['Action', 'Science fiction']",427343298
+Bad Boys for Life,2020,Sony Pictures Entertainment (SPE),62504105,90000000,R,124.0,"['Action', 'Comedy', 'Crime', 'Thriller']",426505244
+Django Unchained,2012,The Weinstein Company,30122888,100000000,R,165.0,"['Drama', 'Western']",425368238
+Dances with Wolves,1990,Orion Pictures,598257,22000000,,181.0,"['Adventure', 'Drama', 'Western']",184208848
+The Chronicles of Narnia: Prince Caspian,2008,Walt Disney Studios Motion Pictures,55034805,225000000,PG,150.0,"['Action', 'Adventure', 'Family', 'Fantasy']",419665568
+Sex and the City,2008,Warner Bros.,57038404,65000000,R,145.0,"['Comedy', 'Drama', 'Romance']",418765321
+The Mummy,2017,Universal Pictures,31688375,125000000,PG-13,111.0,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Thriller']",409231607
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,Twentieth Century Fox,24005069,155000000,PG,113.0,"['Adventure', 'Family', 'Fantasy']",415686217
+Jason Bourne,2016,Universal Pictures,59215365,120000000,PG-13,123.0,"['Action', 'Thriller']",415484914
+The Wolverine,2013,Twentieth Century Fox,53113752,120000000,PG-13,126.0,"['Action', 'Science fiction']",414828246
+Kingsman: The Secret Service,2015,Twentieth Century Fox,36206331,81000000,R,129.0,"['Action', 'Adventure', 'Comedy', 'Thriller']",414351546
+Night at the Museum: Battle of the Smithsonian,2009,Twentieth Century Fox,54173286,150000000,PG,105.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",413106170
+Batman,1989,Warner Bros.,40489746,35000000,,126.0,"['Action', 'Adventure']",251188924
+Pacific Rim,2013,Warner Bros.,37285325,190000000,PG-13,131.0,"['Action', 'Adventure', 'Science fiction']",411002906
+Kingsman: The Golden Circle,2017,Twentieth Century Fox,39023010,104000000,R,141.0,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",410902662
+Ice Age: Collision Course,2016,Twentieth Century Fox,21373064,105000000,PG,94.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Science fiction']",408579038
+Twilight,2008,Summit Entertainment,69637740,37000000,PG-13,122.0,"['Drama', 'Fantasy', 'Romance']",407187715
+Signs,2002,Walt Disney Studios Motion Pictures,60117080,72000000,PG-13,106.0,"['Drama', 'Mystery', 'Science fiction', 'Thriller']",408247917
+X2: X-Men United,2003,Twentieth Century Fox,85558731,110000000,PG-13,134.0,"['Action', 'Science fiction', 'Thriller']",407711549
+Alita: Battle Angel,2019,Twentieth Century Fox,28525613,170000000,PG-13,122.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",404980543
+The Mummy: Tomb of the Dragon Emperor,2008,Universal Pictures,40457770,145000000,PG-13,112.0,"['Action', 'Fantasy', 'Horror', 'War']",403449830
+Prometheus,2012,Twentieth Century Fox,51050101,130000000,R,124.0,"['Adventure', 'Mystery', 'Science fiction']",403354469
+Mamma Mia! Here We Go Again,2018,Universal Pictures,34952180,75000000,PG-13,114.0,"['Comedy', 'Musical', 'Romance']",395044706
+TRON: Legacy,2010,Walt Disney Studios Motion Pictures,44026211,170000000,PG,125.0,"['Action', 'Adventure', 'Science fiction']",400062763
+Mission: Impossible III,2006,Paramount Pictures,47743273,150000000,PG-13,126.0,"['Action', 'Adventure', 'Thriller']",398479497
+Snow White and the Huntsman,2012,Universal Pictures,56217700,170000000,PG-13,127.0,"['Action', 'Adventure', 'Drama', 'Fantasy']",396592829
+Grease,1978,Paramount Pictures,8941717,6000000,PG,110.0,"['Musical', 'Romance']",159978870
+Solo: A Star Wars Story,2018,Walt Disney Studios Motion Pictures,84420489,275000000,PG-13,135.0,"['Action', 'Adventure', 'Science fiction']",392924807
+The Wolf of Wall Street,2013,Paramount Pictures,18361578,100000000,R,117.09462915601023,"['Biography', 'Crime', 'Drama']",392000694
+Superman Returns,2006,Warner Bros.,52535096,270000000,PG-13,154.0,"['Action', 'Science fiction']",391081192
+Robin Hood: Prince of Thieves,1991,Warner Bros.,25625602,48000000,,143.0,"['Action', 'Adventure', 'Drama', 'Romance']",390493908
+Indiana Jones and the Raiders of the Lost Ark,1981,Paramount Pictures,8305823,18000000,PG,115.0,"['Action', 'Adventure']",212222025
+Independence Day: Resurgence,2016,Twentieth Century Fox,41039944,165000000,PG-13,117.09462915601023,"['Action', 'Adventure', 'Science fiction']",389681935
+Live Free or Die Hard,2007,Twentieth Century Fox,33369559,110000000,PG-13,128.0,"['Action', 'Thriller']",388156011
+Godzilla: King of the Monsters,2019,Warner Bros.,47776293,170000000,PG-13,132.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",386600138
+Home,2015,Twentieth Century Fox,52107731,135000000,PG,94.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",386041607
+Star Trek,2009,Paramount Pictures,75204289,150000000,PG-13,127.0,"['Action', 'Adventure', 'Science fiction']",385680446
+1917,2019,Universal Pictures,576216,95000000,R,119.0,"['Action', 'Drama', 'War']",384983987
+Happy Feet,2006,Warner Bros.,41533432,100000000,PG,108.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Music', 'Musical', 'Romance']",384335608
+Ice Age,2002,Twentieth Century Fox,46312454,59000000,PG,81.0,"['Adventure', 'Animation', 'Comedy', 'Family']",383257136
+Back to the Future,1985,Universal Pictures,11152500,19000000,,116.0,"['Adventure', 'Comedy', 'Science fiction']",222067229
+Fifty Shades Darker,2017,Universal Pictures,46607250,55000000,R,118.0,"['Drama', 'Romance']",381545846
+Monsters vs. Aliens,2009,DreamWorks,59321095,175000000,PG,94.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",381509870
+True Lies,1994,Twentieth Century Fox,25869770,115000000,R,141.0,"['Action', 'Comedy', 'Thriller']",378882411
+Slumdog Millionaire,2008,Fox Searchlight Pictures,360018,15000000,R,117.09462915601023,"['Drama', 'Romance']",378410113
+Taken 2,2012,Twentieth Century Fox,49514769,45000000,PG-13,92.0,"['Action', 'Crime', 'Thriller']",376141306
+G.I. Joe: Retaliation,2013,Paramount Pictures,40501814,130000000,PG-13,110.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",375740705
+Mad Max: Fury Road,2015,Warner Bros.,45428128,150000000,R,117.09462915601023,"['Action', 'Adventure', 'Science fiction', 'Thriller']",374736354
+Spider-Man: Into the Spider-Verse,2018,Sony Pictures Entertainment (SPE),35363376,90000000,PG,117.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",375540831
+Shark Tale,2004,DreamWorks Distribution,47604606,75000000,PG,90.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",374583879
+Once Upon a Time... In Hollywood,2019,Sony Pictures Entertainment (SPE),41082018,90000000,R,161.0,"['Comedy', 'Drama']",374375059
+What Women Want,2000,Paramount Pictures,33614543,70000000,PG-13,127.0,"['Comedy', 'Fantasy', 'Romance']",374111707
+Batman Begins,2005,Warner Bros.,48745440,150000000,PG-13,140.0,"['Action', 'Adventure']",371853783
+Penguins of Madagascar,2014,Twentieth Century Fox,25447444,132000000,PG,92.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Science fiction']",373515621
+X-Men Origins: Wolverine,2009,Twentieth Century Fox,85058003,150000000,PG-13,107.0,"['Action', 'Science fiction']",373062864
+The Golden Compass,2007,New Line Cinema,26125000,180000000,PG-13,113.0,"['Adventure', 'Family', 'Fantasy']",372234864
+Fifty Shades Freed,2018,Universal Pictures,38560195,55000000,R,105.0,"['Drama', 'Romance', 'Thriller']",371985018
+Hitch,2005,Sony Pictures Entertainment (SPE),43142214,70000000,PG-13,118.0,"['Comedy', 'Romance']",371594210
+Terminator Salvation,2009,Warner Bros.,42558390,200000000,PG-13,115.0,"['Action', 'Science fiction']",371353001
+Captain America: The First Avenger,2011,Paramount Pictures,65058524,140000000,PG-13,124.0,"['Action', 'Adventure', 'Science fiction']",370569774
+Edge of Tomorrow,2014,Warner Bros.,28760246,178000000,PG-13,113.0,"['Action', 'Adventure', 'Science fiction']",370541256
+There's Something About Mary,1998,Twentieth Century Fox,13740644,23000000,R,119.0,"['Comedy', 'Romance']",369884651
+Gone Girl,2014,Twentieth Century Fox,37513109,61000000,R,149.0,"['Drama', 'Mystery', 'Thriller']",369330363
+Jurassic Park III,2001,Universal Pictures,50771645,93000000,PG-13,92.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",368780809
+My Big Fat Greek Wedding,2002,IFC Films,597362,5000000,PG,95.0,"['Comedy', 'Drama', 'Romance']",368744044
+Die Hard with a Vengeance,1995,Twentieth Century Fox,22162245,90000000,R,128.0,"['Action', 'Adventure', 'Thriller']",366101666
+Shazam!,2019,Warner Bros.,53505326,100000000,PG-13,132.0,"['Action', 'Adventure', 'Comedy', 'Fantasy']",365971656
+The Nun,2018,Warner Bros.,53807379,22000000,R,96.0,"['Horror', 'Mystery', 'Thriller']",365550119
+Alvin and the Chipmunks,2007,Twentieth Century Fox,44307417,60000000,PG,92.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Music', 'Musical']",365352546
+Notting Hill,1999,Universal Pictures,21811180,42000000,PG-13,124.0,"['Comedy', 'Drama', 'Romance']",124182015
+A Bug's Life,1998,Walt Disney Studios Motion Pictures,291121,120000000,,95.0,"['Adventure', 'Animation', 'Comedy', 'Family']",363258859
+Night at the Museum: Secret of the Tomb,2014,Twentieth Century Fox,17100520,127000000,PG,98.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",363204635
+Ocean's Twelve,2004,Warner Bros.,39153380,110000000,PG-13,125.0,"['Crime', 'Thriller']",362744280
+Planet of the Apes,2001,Twentieth Century Fox,68532960,100000000,PG-13,119.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",362211740
+The Hangover Part III,2013,Warner Bros.,41671198,103000000,R,100.0,"['Comedy', 'Crime']",362000072
+The World Is Not Enough,1999,Metro-Goldwyn-Mayer (MGM),35519007,135000000,PG-13,128.0,"['Action', 'Adventure', 'Crime', 'Thriller']",126943684
+Fast & Furious,2009,Universal Pictures,70950500,85000000,PG-13,107.0,"['Action', 'Thriller']",360364265
+Noah,2014,Paramount Pictures,43720472,125000000,PG-13,138.0,"['Action', 'Adventure', 'Drama']",359200044
+The Karate Kid,2010,Sony Pictures Entertainment (SPE),55665805,40000000,PG,140.0,"['Action', 'Drama', 'Family', 'Sport']",359126022
+Hotel Transylvania,2012,Sony Pictures Entertainment (SPE),42522194,85000000,PG,91.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Horror', 'Romance']",358375603
+Minority Report,2002,Twentieth Century Fox,35677125,102000000,PG-13,145.0,"['Action', 'Crime', 'Mystery', 'Science fiction', 'Thriller']",358372926
+The Legend of Tarzan,2016,Warner Bros.,38527856,180000000,PG-13,110.0,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",356700357
+American Beauty,1999,DreamWorks Distribution,861531,15000000,R,122.0,['Drama'],356296601
+Rain Man,1988,Metro-Goldwyn-Mayer (MGM),7005719,25000000,,133.0,['Drama'],354825435
+The Great Gatsby,2013,Warner Bros.,50085185,105000000,PG-13,143.0,"['Drama', 'Romance']",353641895
+Dumbo,2019,Walt Disney Studios Motion Pictures,45990748,170000000,PG,112.0,"['Adventure', 'Family', 'Fantasy']",353284621
+"I, Robot",2004,Twentieth Century Fox,52179887,120000000,PG-13,115.0,"['Action', 'Drama', 'Science fiction', 'Thriller']",353133898
+Basic Instinct,1992,TriStar Pictures,15129385,49000000,R,127.0,"['Drama', 'Mystery', 'Thriller']",117727224
+Murder on the Orient Express,2017,Twentieth Century Fox,28681472,55000000,PG-13,114.0,"['Crime', 'Drama', 'Mystery']",352789811
+X-Men: First Class,2011,Twentieth Century Fox,55101604,160000000,PG-13,131.0,"['Action', 'Adventure', 'Science fiction']",352616690
+The Angry Birds Movie,2016,Sony Pictures Entertainment (SPE),38155177,73000000,PG,97.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family']",352333929
+Catch Me If You Can,2002,DreamWorks Distribution,30053627,52000000,PG-13,141.0,"['Biography', 'Crime', 'Drama']",352114312
+Now You See Me,2013,Lionsgate,29350389,75000000,PG-13,115.0,"['Crime', 'Mystery', 'Thriller']",351723989
+Hannibal,2001,Metro-Goldwyn-Mayer (MGM),58003121,87000000,R,131.0,"['Crime', 'Drama', 'Thriller']",351692268
+The Mask,1994,New Line Cinema,23117068,23000000,PG-13,101.0,"['Action', 'Comedy', 'Crime', 'Fantasy']",351583407
+Peter Rabbit,2018,Sony Pictures Entertainment (SPE),25010928,50000000,PG,95.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",351266433
+Speed,1994,Twentieth Century Fox,14456194,30000000,R,116.0,"['Action', 'Adventure', 'Thriller']",121248145
+Dinosaur,2000,Walt Disney Studios Motion Pictures,38854851,127500000,PG,82.0,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",349822765
+Mary Poppins Returns,2018,Walt Disney Studios Motion Pictures,23523121,130000000,PG,130.0,"['Comedy', 'Family', 'Fantasy', 'Musical']",349537494
+The Lorax,2012,Universal Pictures,70217070,70000000,PG,86.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']",348840316
+The Maze Runner,2014,Twentieth Century Fox,32512804,34000000,PG-13,117.09462915601023,"['Action', 'Mystery', 'Science fiction', 'Thriller']",348319861
+The Smurfs 2,2013,Sony Pictures Entertainment (SPE),17548389,105000000,PG,105.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",347545360
+National Treasure,2004,Walt Disney Studios Motion Pictures,35142554,100000000,PG,131.0,"['Action', 'Adventure', 'Mystery', 'Thriller']",347512318
+Rush Hour 2,2001,New Line Cinema,67408222,90000000,PG-13,90.0,"['Action', 'Comedy', 'Crime', 'Thriller']",347325802
+Trolls,2016,Twentieth Century Fox,46581142,125000000,PG,92.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",346864462
+xXx: Return of Xander Cage,2017,Paramount Pictures,20130142,85000000,PG-13,107.0,"['Action', 'Adventure', 'Thriller']",346118277
+How the Grinch Stole Christmas,2000,Universal Pictures,55082330,123000000,PG,104.0,"['Comedy', 'Family', 'Fantasy']",345141403
+Star Trek Beyond,2016,Paramount Pictures,59253211,185000000,PG-13,122.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",343471816
+Alvin and the Chipmunks: Chipwrecked,2011,Twentieth Century Fox,23244744,75000000,G,87.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Musical']",342695435
+Wanted,2008,Universal Pictures,50927085,75000000,R,110.0,"['Action', 'Crime', 'Thriller']",342463063
+The Flintstones,1994,Universal Pictures,29688730,46000000,PG,91.0,"['Comedy', 'Family', 'Fantasy']",341631208
+A Quiet Place,2018,Paramount Pictures,50203562,17000000,PG-13,90.0,"['Drama', 'Horror', 'Science fiction']",340939361
+Enchanted,2007,Walt Disney Studios Motion Pictures,34440317,85000000,PG,107.0,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",340487652
+300: Rise of an Empire,2014,Warner Bros.,45038460,110000000,R,102.0,"['Action', 'Drama']",337580051
+Batman Forever,1995,Warner Bros.,52784433,100000000,PG-13,121.0,"['Action', 'Adventure']",184031112
+Prince of Persia: The Sands of Time,2009,Walt Disney Studios Motion Pictures,30095259,200000000,PG-13,116.0,"['Action', 'Adventure', 'Fantasy']",336365676
+The Curious Case of Benjamin Button,2008,Paramount Pictures,26853816,150000000,PG-13,166.0,"['Drama', 'Fantasy', 'Romance']",335802786
+Journey 2: The Mysterious Island,2012,Warner Bros.,27335363,79000000,PG,94.0,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",335260290
+The Rock,1996,Walt Disney Studios Motion Pictures,25069525,75000000,R,136.0,"['Action', 'Adventure', 'Thriller']",134069511
+The Great Wall,2016,Universal Pictures,18469620,150000000,PG-13,103.0,"['Action', 'Adventure', 'Fantasy', 'Thriller']",334933831
+Fantastic Four,2005,Twentieth Century Fox,56061504,100000000,PG-13,106.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",333535934
+Indiana Jones and the Temple of Doom,1984,Paramount Pictures,25337110,28000000,,118.0,"['Action', 'Adventure']",179870271
+Back to the Future Part II,1989,Universal Pictures,27835125,40000000,,108.0,"['Adventure', 'Comedy', 'Science fiction']",118549330
+22 Jump Street,2014,Sony Pictures Entertainment (SPE),57071445,50000000,R,112.0,"['Action', 'Comedy', 'Crime']",331333876
+Meet the Parents,2000,Universal Pictures,28623300,55000000,PG-13,108.0,"['Comedy', 'Romance']",330444045
+Who Framed Roger Rabbit,1988,Walt Disney Studios Motion Pictures,11226239,70000000,,104.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Fantasy', 'Mystery']",238092038
+Black Swan,2010,Fox Searchlight Pictures,1443809,13000000,R,108.0,"['Drama', 'Thriller']",329398046
+The Perfect Storm,2000,Warner Bros.,41325042,140000000,PG-13,130.0,"['Action', 'Adventure', 'Drama', 'Thriller']",328718434
+Se7en,1995,New Line Cinema,13949807,33000000,R,127.0,"['Crime', 'Drama', 'Mystery', 'Thriller']",100125643
+John Wick: Chapter 3 - Parabellum,2019,Lionsgate,56818067,75000000,R,130.0,"['Action', 'Crime', 'Thriller']",326709727
+The Devil Wears Prada,2006,Twentieth Century Fox,27537244,35000000,PG-13,109.0,"['Comedy', 'Drama']",326705902
+Taken 3,2015,Twentieth Century Fox,39201657,48000000,PG-13,108.0,"['Action', 'Crime', 'Thriller']",326479141
+The Hunchback of Notre Dame,1996,Walt Disney Studios Motion Pictures,21037414,100000000,,91.0,"['Animation', 'Drama', 'Family', 'Musical', 'Romance']",325338851
+A Christmas Carol,2009,Walt Disney Studios Motion Pictures,30051075,200000000,PG,96.0,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Music', 'Mystery']",325286646
+The SpongeBob Movie: Sponge Out of Water,2015,Paramount Pictures,55365012,74000000,PG,92.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",325186032
+Schindler's List,1993,Universal Pictures,656636,22000000,R,195.0,"['Biography', 'Drama', 'History']",96065768
+Megamind,2010,DreamWorks,46016833,130000000,PG,95.0,"['Action', 'Animation', 'Comedy', 'Crime', 'Family', 'Fantasy', 'Science fiction']",321885765
+The Conjuring 2,2016,Warner Bros.,40406314,40000000,R,134.0,"['Horror', 'Mystery', 'Thriller']",320392818
+Green Book,2018,Universal Pictures,320429,23000000,PG-13,130.0,"['Biography', 'Comedy', 'Drama', 'Music']",321752656
+Lethal Weapon 3,1992,Warner Bros.,33243086,35000000,R,118.0,"['Action', 'Crime', 'Thriller']",321731527
+The Ugly Truth,2009,Sony Pictures Entertainment (SPE),27605576,38000000,R,96.0,"['Comedy', 'Romance']",205298907
+Robin Hood,2010,Universal Pictures,36063385,200000000,PG-13,140.0,"['Action', 'Adventure', 'Drama', 'History']",321669741
+Inglourious Basterds,2009,The Weinstein Company,38054676,70000000,R,153.0,"['Adventure', 'Drama', 'War']",321455689
+The Conjuring,2013,Warner Bros.,41855326,20000000,R,112.0,"['Horror', 'Mystery', 'Thriller']",319494638
+Sonic the Hedgehog,2020,Paramount Pictures,58018348,85000000,PG,99.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",319715683
+The Last Airbender,2010,Paramount Pictures,40325019,150000000,PG,103.0,"['Action', 'Adventure', 'Family', 'Fantasy']",319713881
+The Proposal,2009,Walt Disney Studios Motion Pictures,33627598,40000000,PG-13,108.0,"['Comedy', 'Drama', 'Romance']",317375031
+A Beautiful Mind,2001,Universal Pictures,367151,58000000,PG-13,135.0,"['Biography', 'Drama']",313542341
+Air Force One,1997,Sony Pictures Entertainment (SPE),37132505,85000000,R,124.0,"['Action', 'Drama', 'Thriller']",315156409
+The Expendables 2,2012,Lionsgate,28591370,100000000,R,103.0,"['Action', 'Adventure', 'Thriller']",314975955
+Chicken Little,2005,Walt Disney Studios Motion Pictures,40049778,150000000,G,81.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",314432837
+The Polar Express,2004,Warner Bros.,23323463,165000000,,100.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical']",286000505
+As Good as It Gets,1997,Sony Pictures Entertainment (SPE),12606928,50000000,PG-13,139.0,"['Comedy', 'Drama', 'Romance']",148478011
+Maze Runner: The Scorch Trials,2015,Twentieth Century Fox,30316510,61000000,PG-13,117.09462915601023,"['Action', 'Adventure', 'Science fiction', 'Thriller']",312296056
+Resident Evil: The Final Chapter,2016,Screen Gems,13601682,40000000,R,107.0,"['Action', 'Horror', 'Science fiction']",312242626
+Austin Powers: The Spy Who Shagged Me,1999,New Line Cinema,17981900,33000000,PG-13,95.0,"['Action', 'Adventure', 'Comedy', 'Crime']",312016928
+The Lego Batman Movie,2017,Warner Bros.,53003468,80000000,PG,104.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Family', 'Fantasy', 'Romance', 'Science fiction']",311950384
+Knives Out,2019,Lionsgate,26769548,40000000,PG-13,130.0,"['Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",311605581
+Little Fockers,2010,Universal Pictures,30833665,100000000,PG-13,98.0,"['Comedy', 'Romance']",310650585
+Bolt,2008,Walt Disney Studios Motion Pictures,26223128,150000000,PG,96.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family']",309979994
+Runaway Bride,1999,Paramount Pictures,35055556,70000000,PG,117.09462915601023,"['Comedy', 'Romance']",309460292
+The Blind Side,2009,Warner Bros.,34119372,29000000,PG-13,129.0,"['Biography', 'Drama', 'Sport']",309208309
+The Fault in Our Stars,2014,Twentieth Century Fox,48002523,12000000,PG-13,126.0,"['Drama', 'Romance']",307166834
+The Pursuit of Happyness,2006,Sony Pictures Entertainment (SPE),26541709,55000000,PG-13,117.0,"['Biography', 'Drama']",307127625
+Rise of the Guardians,2012,DreamWorks,23773465,145000000,PG,97.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",306941670
+Chicago,2002,Miramax,2074929,45000000,PG-13,113.0,"['Comedy', 'Crime', 'Musical']",306776732
+Annabelle: Creation,2017,Warner Bros.,35006404,15000000,R,109.0,"['Horror', 'Mystery', 'Thriller']",306515884
+Skyscraper,2018,Universal Pictures,24905015,125000000,PG-13,102.0,"['Action', 'Adventure', 'Thriller']",304868961
+A Good Day to Die Hard,2013,Twentieth Century Fox,24834845,92000000,R,98.0,"['Action', 'Thriller']",304654182
+Passengers,2016,Sony Pictures Entertainment (SPE),14869736,110000000,PG-13,116.0,"['Drama', 'Romance', 'Science fiction', 'Thriller']",303144152
+Battleship,2012,Universal Pictures,25534825,209000000,PG-13,131.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",303025485
+G.I. Joe: The Rise of Cobra,2009,Paramount Pictures,54713046,175000000,PG-13,118.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",302469017
+Wrath of the Titans,2012,Warner Bros.,33457188,150000000,PG-13,99.0,"['Action', 'Adventure', 'Fantasy']",301970083
+Fantastic 4: Rise of the Silver Surfer,2007,Twentieth Century Fox,58051684,130000000,PG,92.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",301913131
+Hook,1991,TriStar Pictures,13522535,70000000,,142.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",119654823
+Superman,1978,Warner Bros.,7465343,55000000,PG,143.0,"['Action', 'Adventure', 'Drama', 'Science fiction']",134218018
+Resident Evil: Afterlife,2010,Screen Gems,26650264,60000000,R,96.0,"['Action', 'Adventure', 'Horror', 'Science fiction']",300228084
+Van Helsing,2004,Universal Pictures,51748040,160000000,PG-13,131.0,"['Action', 'Adventure', 'Fantasy']",300157638
+Stuart Little,1999,Sony Pictures Entertainment (SPE),15018223,133000000,PG,84.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",300135367
+Alice Through the Looking Glass,2016,Walt Disney Studios Motion Pictures,26858726,170000000,PG,113.0,"['Adventure', 'Family', 'Fantasy']",299457024
+My Best Friend's Wedding,1997,Sony Pictures Entertainment (SPE),21678377,38000000,PG-13,105.0,"['Comedy', 'Drama', 'Romance']",299288605
+Horton Hears a Who!,2008,Twentieth Century Fox,45012998,85000000,,86.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",298572799
+Ocean's Eight,2018,Warner Bros.,41607378,70000000,PG-13,110.0,"['Action', 'Comedy', 'Crime', 'Thriller']",297718711
+The Divergent Series: Insurgent,2015,Lionsgate,52263680,110000000,PG-13,119.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",297002527
+Austin Powers in Goldmember,2002,New Line Cinema,73071188,63000000,PG-13,94.0,"['Action', 'Adventure', 'Comedy', 'Crime']",296938801
+Miss Peregrine's Home for Peculiar Children,2016,Twentieth Century Fox,28871140,110000000,PG-13,127.0,"['Adventure', 'Drama', 'Family', 'Fantasy', 'Thriller']",296482446
+X-Men,2000,Twentieth Century Fox,54471475,75000000,PG-13,104.0,"['Action', 'Adventure', 'Science fiction']",296339528
+Ghostbusters,2016,Sony Pictures Entertainment (SPE),46018755,144000000,PG-13,117.0,"['Action', 'Comedy', 'Fantasy', 'Science fiction']",229147509
+Ferdinand,2017,Twentieth Century Fox,13401586,111000000,PG,108.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",296069199
+Shutter Island,2010,Paramount Pictures,41062440,80000000,R,138.0,"['Mystery', 'Thriller']",294804195
+Bee Movie,2007,DreamWorks,38021044,150000000,PG,91.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Romance']",293514336
+Salt,2010,Sony Pictures Entertainment (SPE),36011243,110000000,PG-13,100.0,"['Action', 'Thriller']",293503354
+G-Force,2009,Walt Disney Studios Motion Pictures,31706934,150000000,PG,88.0,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",292817841
+The Departed,2006,Warner Bros.,26887467,90000000,R,151.0,"['Crime', 'Drama', 'Thriller']",291465034
+What Lies Beneath,2000,DreamWorks Distribution,29702959,100000000,PG-13,130.0,"['Drama', 'Horror', 'Mystery', 'Thriller']",291420351
+Pacific Rim: Uprising,2018,Universal Pictures,28116535,150000000,PG-13,111.0,"['Action', 'Adventure', 'Science fiction']",290930148
+The Bourne Supremacy,2004,Universal Pictures,52521865,75000000,PG-13,108.0,"['Action', 'Mystery', 'Thriller']",290633422
+Sex and the City 2,2010,Warner Bros.,31001870,100000000,R,146.0,"['Comedy', 'Drama', 'Romance']",290745055
+Shakespeare in Love,1998,Miramax,224012,25000000,R,123.0,"['Comedy', 'Drama', 'History', 'Romance']",289317794
+Divergent,2014,Lionsgate,54607747,85000000,PG-13,139.0,"['Action', 'Adventure', 'Mystery', 'Science fiction']",288885818
+Wedding Crashers,2005,New Line Cinema,32200000,40000000,R,119.0,"['Comedy', 'Romance']",288467645
+Bridesmaids,2011,Universal Pictures,26247410,32500000,R,125.0,"['Comedy', 'Romance']",288383523
+Maze Runner: The Death Cure,2018,Twentieth Century Fox,24167011,62000000,PG-13,117.09462915601023,"['Action', 'Adventure', 'Science fiction', 'Thriller']",288175335
+American Pie 2,2001,Universal Pictures,45117985,30000000,R,108.0,['Comedy'],287553595
+Pitch Perfect 2,2015,Universal Pictures,69216890,29000000,PG-13,115.0,"['Comedy', 'Music']",287144079
+The Green Mile,1999,Warner Bros.,18017152,60000000,R,189.0,"['Crime', 'Drama', 'Fantasy', 'Mystery']",286801374
+Oblivion,2013,Universal Pictures,37054485,120000000,PG-13,124.0,"['Action', 'Adventure', 'Science fiction']",286168572
+Elysium,2013,TriStar Pictures,29807393,115000000,R,109.0,"['Action', 'Drama', 'Science fiction']",286140700
+Lethal Weapon 4,1998,Warner Bros.,34048124,140000000,R,127.0,"['Action', 'Crime', 'Thriller']",285444603
+John Carter,2012,Walt Disney Studios Motion Pictures,30180188,250000000,PG-13,132.0,"['Action', 'Adventure', 'Science fiction']",284139100
+Turbo,2013,Twentieth Century Fox,21312625,135000000,PG,96.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sport']",282570682
+Paddington,2014,Dimension Films,18966676,55000000,PG,95.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",282370135
+Bridget Jones's Diary,2001,Miramax,10733933,25000000,R,97.0,"['Comedy', 'Drama', 'Romance']",281929795
+The Tourist,2010,Sony Pictures Entertainment (SPE),16472458,100000000,PG-13,103.0,"['Action', 'Thriller']",278780441
+Split,2017,Universal Pictures,40010975,9000000,PG-13,117.0,"['Horror', 'Thriller']",278454358
+Scary Movie,2000,Miramax,42346669,19000000,R,88.0,['Comedy'],278019771
+xXx,2002,Revolution Studios,44506103,70000000,PG-13,124.0,"['Action', 'Adventure', 'Thriller']",277448382
+The Bourne Legacy,2012,Universal Pictures,38142825,125000000,PG-13,135.0,"['Action', 'Adventure', 'Thriller']",276144750
+Mr. Peabody & Sherman,2014,Twentieth Century Fox,32207057,145000000,PG,92.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Romance', 'Science fiction']",275698039
+Scooby-Doo,2002,Warner Bros.,54155312,84000000,PG,89.0,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Mystery']",275650703
+Lincoln,2012,Walt Disney Studios Motion Pictures,944308,65000000,PG-13,150.0,"['Biography', 'Drama', 'History', 'War']",275293450
+Lara Croft: Tomb Raider,2001,Paramount Pictures,47735743,115000000,PG-13,100.0,"['Action', 'Adventure', 'Fantasy', 'Thriller']",274703340
+Tomb Raider,2018,Warner Bros.,23633317,94000000,PG-13,119.0,"['Action', 'Adventure', 'Fantasy', 'Thriller']",274650803
+The Expendables,2010,Lionsgate,34825135,80000000,R,103.0,"['Action', 'Adventure', 'Thriller']",274470394
+Cloudy with a Chance of Meatballs 2,2013,Sony Pictures Entertainment (SPE),34017930,78000000,PG,95.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Science fiction']",274325949
+The Nutty Professor,1996,Universal Pictures,25411725,54000000,PG-13,95.0,"['Comedy', 'Romance', 'Science fiction']",273961019
+Jerry Maguire,1996,Sony Pictures Entertainment (SPE),17084296,50000000,R,139.0,"['Comedy', 'Drama', 'Romance', 'Sport']",273552592
+Bad Boys II,2003,Sony Pictures Entertainment (SPE),46522560,130000000,R,147.0,"['Action', 'Comedy', 'Crime', 'Thriller']",273339556
+Lilo & Stitch,2002,Walt Disney Studios Motion Pictures,35260212,80000000,PG,85.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Science fiction']",273144151
+The Silence of the Lambs,1991,Orion Pictures,13766814,19000000,,118.0,"['Crime', 'Drama', 'Thriller']",130742922
+Grown Ups,2010,Sony Pictures Entertainment (SPE),40506562,80000000,PG-13,102.0,['Comedy'],271430189
+Neighbors,2014,Universal Pictures,49033915,18000000,R,97.0,['Comedy'],270665134
+We're the Millers,2012,Warner Bros.,26419396,37000000,R,110.0,"['Comedy', 'Crime']",269994119
+Gran Torino,2008,Warner Bros.,271720,33000000,R,116.0,['Drama'],269958228
+"10,000 BC",2008,Warner Bros.,35867488,105000000,PG-13,109.0,"['Action', 'Adventure', 'Drama', 'Fantasy', 'History']",269784201
+American Gangster,2007,Universal Pictures,43565135,100000000,R,157.0,"['Biography', 'Crime', 'Drama']",269755430
+Epic,2013,Twentieth Century Fox,33531068,100000000,PG,102.0,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy']",268426634
+Exodus: Gods and Kings,2014,Twentieth Century Fox,24115934,140000000,PG-13,150.0,"['Action', 'Adventure', 'Drama', 'Fantasy']",268175631
+The Princess and the Frog,2009,Walt Disney Studios Motion Pictures,786190,105000000,,97.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Musical', 'Romance']",267045765
+Batman Returns,1992,Warner Bros.,45687711,80000000,PG-13,126.0,"['Action', 'Crime', 'Fantasy']",162831698
+Something's Gotta Give,2003,Sony Pictures Entertainment (SPE),16064723,80000000,PG-13,128.0,"['Comedy', 'Drama', 'Romance']",265328738
+Bridget Jones: The Edge of Reason,2004,Universal Pictures,8684055,40000000,R,108.0,"['Comedy', 'Drama', 'Romance']",265126918
+The Incredible Hulk,2008,Universal Pictures,55414050,150000000,PG-13,112.0,"['Action', 'Adventure', 'Science fiction']",264770996
+Waterworld,1995,Universal Pictures,21171780,175000000,PG-13,135.0,"['Action', 'Adventure', 'Science fiction']",264218220
+Charlie's Angels,2000,Sony Pictures Entertainment (SPE),40128550,93000000,PG-13,98.0,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",264105545
+Jumanji,1995,Sony Pictures Entertainment (SPE),11084370,65000000,PG,104.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",100475249
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Twentieth Century Fox,26455463,18000000,R,84.0,['Comedy'],262552893
+Robots,2005,Twentieth Century Fox,36045301,75000000,PG,91.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Science fiction']",262511490
+Total Recall,2012,Sony Pictures Entertainment (SPE),25577758,125000000,PG-13,118.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",198467168
+Terminator: Dark Fate,2019,Paramount Pictures,29033832,185000000,R,128.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",261119292
+The Lone Ranger,2013,Walt Disney Studios Motion Pictures,29210849,215000000,PG-13,150.0,"['Action', 'Adventure', 'Western']",260502115
+Super 8,2011,Paramount Pictures,35451168,50000000,PG-13,112.0,"['Mystery', 'Science fiction', 'Thriller']",260095986
+Mojin: The Lost Legend,2015,Well Go USA Entertainment,279974,37000000,,127.0,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror', 'Mystery', 'Thriller']",259368448
+Blade Runner 2049,2017,Warner Bros.,32753122,150000000,R,117.09462915601023,"['Action', 'Drama', 'Mystery', 'Science fiction', 'Thriller']",259239658
+Charlie's Angels: Full Throttle,2003,Sony Pictures Entertainment (SPE),37634221,120000000,PG-13,106.0,"['Action', 'Adventure', 'Comedy', 'Crime']",259175788
+Parasite,2019,Neon,393216,11400000,R,132.0,"['Comedy', 'Drama', 'Thriller']",258633992
+Rush Hour 3,2007,New Line Cinema,50237000,140000000,PG-13,91.0,"['Action', 'Comedy', 'Crime', 'Thriller']",258097122
+The Full Monty,1997,Fox Searchlight Pictures,176585,3500000,R,91.0,"['Comedy', 'Drama']",257938649
+Kung Fu Yoga,2017,Well Go USA Entertainment,111979,65000000,,107.0,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Mystery']",257743016
+Annabelle,2014,Warner Bros.,37134255,6500000,R,99.0,"['Horror', 'Mystery', 'Thriller']",257047661
+The Village,2003,Walt Disney Studios Motion Pictures,50746142,60000000,PG-13,108.0,"['Drama', 'Mystery', 'Thriller']",256697520
+Erin Brockovich,2000,Universal Pictures,28138465,52000000,R,131.0,"['Biography', 'Drama']",256271286
+Halloween,2018,Universal Pictures,76221545,10000000,R,106.0,"['Crime', 'Horror', 'Thriller']",255485178
+Us,2019,Universal Pictures,71117625,20000000,R,116.0,"['Horror', 'Mystery', 'Thriller']",255184580
+Cliffhanger,1993,TriStar Pictures,16176967,70000000,R,113.0,"['Action', 'Adventure', 'Thriller']",84049211
+Men in Black: International,2019,Sony Pictures Entertainment (SPE),30035838,110000000,PG-13,114.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",253890701
+High School Musical 3: Senior Year,2008,Walt Disney Studios Motion Pictures,42030184,11000000,G,112.0,"['Comedy', 'Drama', 'Family', 'Music', 'Musical', 'Romance']",252909177
+Hercules,2014,Paramount Pictures,29800263,100000000,PG-13,98.0,"['Action', 'Adventure', 'Fantasy']",244819862
+X-Men: Dark Phoenix,2019,Twentieth Century Fox,32828348,200000000,PG-13,113.0,"['Action', 'Adventure', 'Science fiction']",252442974
+True Grit,2010,Paramount Pictures,24830443,38000000,PG-13,110.0,"['Drama', 'Western']",252276927
+Bean,1997,Gramercy Pictures (I),2255233,18000000,PG-13,89.0,"['Adventure', 'Comedy', 'Family']",251212670
+American Hustle,2013,Sony Pictures Entertainment (SPE),740455,40000000,R,138.0,"['Crime', 'Drama']",251171807
+Enemy of the State,1998,Walt Disney Studios Motion Pictures,20038573,90000000,R,132.0,"['Action', 'Thriller']",250849789
+You've Got Mail,1998,Warner Bros.,18426749,65000000,PG,119.0,"['Comedy', 'Drama', 'Romance']",250821495
+Eragon,2006,Twentieth Century Fox,23239907,100000000,PG,104.0,"['Action', 'Adventure', 'Family', 'Fantasy']",250425512
+The Mask of Zorro,1998,Sony Pictures Entertainment (SPE),22525855,95000000,PG-13,136.0,"['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller', 'Western']",250288523
+The Ring,2002,DreamWorks Distribution,15015393,48000000,PG-13,115.0,"['Horror', 'Mystery']",249348933
+The Blair Witch Project,1999,Artisan Entertainment,1512054,60000,R,81.0,"['Horror', 'Mystery']",248639099
+Unbreakable,2000,Walt Disney Studios Motion Pictures,30330771,75000000,PG-13,106.0,"['Drama', 'Mystery', 'Science fiction', 'Thriller']",248118121
+Dumb and Dumber,1994,New Line Cinema,16363442,17000000,,107.0,['Comedy'],247275374
+Glass,2019,Universal Pictures,40328920,20000000,PG-13,129.0,"['Drama', 'Science fiction', 'Thriller']",246999039
+Grown Ups 2,2013,Sony Pictures Entertainment (SPE),41508572,80000000,PG-13,101.0,['Comedy'],246984278
+The Peanuts Movie,2015,Twentieth Century Fox,44213073,99000000,G,88.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",246233113
+The Godfather,1972,Paramount Pictures,302393,6000000,,175.0,"['Crime', 'Drama']",243862778
+Rango,2011,Paramount Pictures,38079323,135000000,PG,107.0,"['Adventure', 'Animation', 'Comedy', 'Crime', 'Drama', 'Family', 'Western']",245724603
+Four Weddings and a Funeral,1994,Gramercy Pictures (I),138486,4400000,R,117.0,"['Comedy', 'Drama', 'Romance']",52700832
+Face/Off,1997,Paramount Pictures,23387530,80000000,R,138.0,"['Action', 'Crime', 'Science fiction', 'Thriller']",245676146
+Teenage Mutant Ninja Turtles 2: Out of the Shadows,2016,Paramount Pictures,35316382,135000000,PG-13,112.0,"['Action', 'Adventure', 'Comedy', 'Science fiction']",245623848
+Dark Shadows,2012,Warner Bros.,29685274,150000000,PG-13,113.0,"['Comedy', 'Fantasy', 'Horror']",245527149
+Dolittle,2020,Universal Pictures,21844045,175000000,PG,101.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",245461797
+Hulk,2003,Universal Pictures,62128420,137000000,PG-13,138.0,"['Action', 'Science fiction']",245285165
+Love Actually,2003,Universal Pictures,6886080,40000000,R,135.0,"['Comedy', 'Drama', 'Romance']",244931766
+Back to the Future Part III,1990,Universal Pictures,19089645,40000000,,118.0,"['Adventure', 'Comedy', 'Science fiction', 'Western']",87727583
+Pixels,2015,Sony Pictures Entertainment (SPE),24011616,88000000,PG-13,105.0,"['Action', 'Comedy', 'Fantasy', 'Science fiction']",244874809
+Rush Hour,1998,New Line Cinema,33001803,33000000,PG-13,98.0,"['Action', 'Comedy', 'Crime', 'Thriller']",244386864
+Journey to the Center of the Earth,2008,Warner Bros.,21018141,60000000,PG,93.0,"['Action', 'Adventure', 'Family', 'Fantasy', 'Science fiction']",244232688
+After Earth,2013,Sony Pictures Entertainment (SPE),27520040,130000000,PG-13,100.0,"['Action', 'Adventure', 'Science fiction']",243611982
+A Few Good Men,1992,Columbia Pictures,15517468,41000000,R,138.0,"['Drama', 'Thriller']",243240178
+Cloudy with a Chance of Meatballs,2009,Sony Pictures Entertainment (SPE),30304648,100000000,PG,90.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Science fiction']",243006126
+8 Mile,2002,Universal Pictures,51240555,41000000,R,110.0,"['Drama', 'Music']",242875078
+RoboCop,2014,Sony Pictures Entertainment (SPE),21681430,100000000,PG-13,117.0,"['Action', 'Crime', 'Science fiction', 'Thriller']",242688965
+Eraser,1996,Warner Bros.,24566446,100000000,R,115.0,"['Action', 'Drama', 'Thriller']",242295562
+Alien: Covenant,2017,Twentieth Century Fox,36160621,97000000,R,122.0,"['Horror', 'Science fiction', 'Thriller']",240891763
+Sully,2016,Warner Bros.,35028301,60000000,PG-13,96.0,"['Biography', 'Drama']",240797623
+Assassin's Creed,2016,Twentieth Century Fox,10278225,125000000,PG-13,115.0,"['Action', 'Adventure', 'Science fiction']",240697856
+Click,2006,Revolution Studios,40011365,82500000,PG-13,107.0,"['Comedy', 'Drama', 'Fantasy', 'Romance']",240685326
+Resident Evil: Retribution,2012,Screen Gems,21052227,65000000,R,95.0,"['Action', 'Horror', 'Science fiction', 'Thriller']",240159255
+Die Hard 2,1990,Twentieth Century Fox,21744661,70000000,,124.0,"['Action', 'Thriller']",117540947
+Planes,2013,Walt Disney Studios Motion Pictures,22232291,50000000,PG,91.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Sport']",239258712
+Crazy Rich Asians,2018,Warner Bros.,26510140,30000000,PG-13,117.09462915601023,"['Comedy', 'Drama', 'Romance']",238532921
+Batman & Robin,1997,Warner Bros.,42872605,125000000,PG-13,125.0,"['Action', 'Science fiction']",107325195
+Downton Abbey,2019,Focus Features,31033665,13000000,PG,122.0,"['Drama', 'Romance']",237860050
+Gulliver's Travels,2010,Twentieth Century Fox,6307691,112000000,PG,85.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",237382724
+Gone in 60 Seconds,2000,Walt Disney Studios Motion Pictures,25336048,90000000,PG-13,118.0,"['Action', 'Crime', 'Thriller']",237202299
+Silver Linings Playbook,2012,The Weinstein Company,443003,21000000,R,122.0,"['Comedy', 'Drama', 'Romance']",236412453
+2 Fast 2 Furious,2003,Universal Pictures,50472480,76000000,PG-13,107.0,"['Action', 'Crime', 'Thriller']",236350661
+Hidden Figures,2016,Twentieth Century Fox,515499,25000000,PG,127.0,"['Biography', 'Drama', 'History']",235956898
+A.I. Artificial Intelligence,2001,Warner Bros.,29352630,100000000,PG-13,146.0,"['Drama', 'Science fiction']",235926552
+Spy,2015,Twentieth Century Fox,29085719,65000000,R,117.09462915601023,"['Action', 'Comedy']",235666219
+American Pie,1999,Universal Pictures,18709680,11000000,R,95.0,['Comedy'],235483004
+American Reunion,2012,Universal Pictures,21514080,50000000,R,113.0,['Comedy'],234989584
+Big Daddy,1999,Sony Pictures Entertainment (SPE),41536370,34200000,PG-13,93.0,"['Comedy', 'Drama']",234801895
+The Day the Earth Stood Still,2008,Twentieth Century Fox,30480153,80000000,PG-13,104.0,"['Drama', 'Science fiction', 'Thriller']",233093859
+American Wedding,2003,Universal Pictures,33369440,55000000,R,96.0,['Comedy'],232722935
+The Girl with the Dragon Tattoo,2011,Sony Pictures Entertainment (SPE),12768604,90000000,R,158.0,"['Crime', 'Drama', 'Mystery', 'Thriller']",232617430
+Juno,2007,Fox Searchlight Pictures,413869,7500000,PG-13,96.0,"['Comedy', 'Drama']",232372681
+Argo,2012,Warner Bros.,19458109,44500000,R,117.09462915601023,"['Biography', 'Drama', 'Thriller']",232325503
+The English Patient,1996,Miramax,278439,27000000,R,162.0,"['Drama', 'Romance', 'War']",231976425
+Annabelle Comes Home,2019,Warner Bros.,20269723,30000000,R,106.0,"['Horror', 'Mystery', 'Thriller']",231252591
+Constantine,2005,Warner Bros.,29769098,100000000,R,121.0,"['Action', 'Fantasy', 'Horror', 'Mystery']",230884728
+Get Smart,2008,Warner Bros.,38683480,80000000,PG-13,110.0,"['Action', 'Adventure', 'Comedy']",230685453
+The Heat,1996,Twentieth Century Fox,39115043,43000000,R,117.0,"['Action', 'Comedy', 'Crime']",229930771
+Ghost Rider,2007,Sony Pictures Entertainment (SPE),45388836,110000000,PG-13,110.0,"['Action', 'Fantasy', 'Thriller']",228738393
+Sleepless in Seattle,1993,TriStar Pictures,17253733,21000000,PG,105.0,"['Comedy', 'Drama', 'Romance']",126680884
+The Green Hornet,2011,Sony Pictures Entertainment (SPE),33526876,120000000,PG-13,119.0,"['Action', 'Comedy', 'Crime']",227817248
+Baby Driver,2017,TriStar Pictures,20553320,34000000,R,113.0,"['Action', 'Crime', 'Drama', 'Music', 'Thriller']",226945087
+Immortals,2011,Relativity Media,32206425,75000000,R,110.0,"['Action', 'Drama', 'Fantasy', 'Romance']",226904017
+Taken,2008,Twentieth Century Fox,24717037,25000000,PG-13,90.0,"['Action', 'Crime', 'Thriller']",226837760
+Percy Jackson & the Olympians: The Lightning Thief,2010,Twentieth Century Fox,31236067,95000000,PG,118.0,"['Adventure', 'Family', 'Fantasy']",226497209
+Hansel & Gretel: Witch Hunters,2013,Paramount Pictures,19690956,50000000,R,88.0,"['Action', 'Fantasy', 'Horror']",226349749
+Valerian and the City of a Thousand Planets,2017,STX Entertainment,17007624,177200000,PG-13,136.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",225874228
+Ford v Ferrari,2019,Twentieth Century Fox,31474958,97600000,PG-13,152.0,"['Action', 'Biography', 'Drama', 'Sport']",225508210
+Jumper,2008,Twentieth Century Fox,27354808,85000000,PG-13,88.0,"['Action', 'Adventure', 'Science fiction', 'Thriller']",225132113
+The Social Network,2010,Sony Pictures Entertainment (SPE),22445653,40000000,PG-13,117.09462915601023,"['Biography', 'Drama']",224920315
+Chicken Run,2000,DreamWorks Distribution,17506162,45000000,,117.09462915601023,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",224834564
+Con Air,1997,Walt Disney Studios Motion Pictures,24131738,75000000,R,115.0,"['Action', 'Crime', 'Thriller']",224012234
+Elf,2003,New Line Cinema,32100000,33000000,PG,97.0,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",220443451
+Interview with the Vampire: The Vampire Chronicles,1994,Warner Bros.,36389705,60000000,R,123.0,"['Drama', 'Horror']",223664608
+Yes Man,2008,Warner Bros.,18262471,70000000,PG-13,104.0,"['Comedy', 'Romance']",223241637
+Non-Stop,2014,Universal Pictures,28875635,50000000,PG-13,106.0,"['Action', 'Mystery', 'Thriller']",222809600
+Fahrenheit 9/11,2004,Lionsgate,23920637,6000000,R,122.0,"['Documentary', 'Drama', 'War']",222446882
+Wild Wild West,1999,Warner Bros.,27687484,170000000,PG-13,106.0,"['Action', 'Comedy', 'Science fiction', 'Western']",222104681
+Geostorm,2017,Warner Bros.,13707376,120000000,PG-13,109.0,"['Action', 'Science fiction', 'Thriller']",221600160
+Scary Movie 3,2003,Dimension Films,49700000,48000000,PG-13,84.0,['Comedy'],220673217
+Collateral,2004,DreamWorks Distribution,24701458,65000000,R,117.09462915601023,"['Crime', 'Drama', 'Thriller']",220239925
+Inferno,2016,Sony Pictures Entertainment (SPE),14860425,75000000,PG-13,121.0,"['Action', 'Adventure', 'Crime', 'Drama', 'Mystery', 'Thriller']",220021259
+Knocked Up,2007,Universal Pictures,30690990,30000000,R,129.0,"['Comedy', 'Romance']",219922417
+Green Lantern,2011,Warner Bros.,53174303,200000000,PG-13,114.0,"['Action', 'Adventure', 'Science fiction']",219851172
+What Happens in Vegas,2008,Twentieth Century Fox,20172474,35000000,PG-13,99.0,"['Comedy', 'Romance']",219375562
+It's Complicated,2009,Universal Pictures,22100820,85000000,R,121.0,"['Comedy', 'Drama', 'Romance']",219103655
+The Terminal,2004,DreamWorks Distribution,19053199,60000000,PG-13,128.0,"['Comedy', 'Drama', 'Romance']",219100084
+Captain Phillips,2013,Sony Pictures Entertainment (SPE),25718314,55000000,PG-13,134.0,"['Adventure', 'Biography', 'Crime', 'Drama', 'Thriller']",218791811
+The Prince of Egypt,1998,DreamWorks Distribution,14524321,70000000,PG,99.0,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy', 'Musical']",218613188
+Jack Reacher,2012,Paramount Pictures,15210156,60000000,PG-13,130.0,"['Action', 'Thriller']",218340595
+Kingdom of Heaven,2005,Twentieth Century Fox,19635996,130000000,R,144.0,"['Action', 'Adventure', 'Drama', 'History', 'War']",218122627
+The Emoji Movie,2017,Sony Pictures Entertainment (SPE),24531923,50000000,PG,86.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",217776646
+Dracula Untold,2014,Universal Pictures,23514615,70000000,PG-13,92.0,"['Action', 'Drama', 'Fantasy', 'Horror', 'War']",217124280
+Central Intelligence,2016,Warner Bros.,35535250,50000000,PG-13,107.0,"['Action', 'Comedy', 'Crime']",216972543
+Million Dollar Baby,2004,Warner Bros.,179953,30000000,PG-13,132.0,"['Drama', 'Sport']",216763646
+The Help,2011,Walt Disney Studios Motion Pictures,26044590,25000000,PG-13,146.0,['Drama'],216639112
+Twins,1988,Universal Pictures,11174980,15000000,,107.0,"['Comedy', 'Crime']",216614388
+Little Women,2019,Sony Pictures Entertainment (SPE),16755310,40000000,PG,135.0,"['Drama', 'Romance']",216601214
+Valentine's Day,2010,Warner Bros.,56260707,52000000,PG-13,125.0,"['Comedy', 'Romance']",216485654
+Bad Teacher,2011,Sony Pictures Entertainment (SPE),31603106,20000000,R,92.0,"['Comedy', 'Romance']",216197492
+Clear and Present Danger,1994,Paramount Pictures,20348017,62000000,PG-13,141.0,"['Action', 'Crime', 'Drama', 'Thriller']",215887717
+Ted 2,2015,Universal Pictures,33507870,68000000,R,115.0,['Comedy'],215863606
+Dracula,1992,Columbia Pictures,30521679,40000000,R,128.0,['Horror'],82522790
+Vertical Limit,2000,Sony Pictures Entertainment (SPE),15507845,75000000,PG-13,124.0,"['Action', 'Adventure', 'Drama', 'Thriller']",215663859
+The Patriot,2000,Sony Pictures Entertainment (SPE),22413710,110000000,R,165.0,"['Action', 'Drama', 'History', 'War']",215294342
+The Sorcerer's Apprentice,2010,Walt Disney Studios Motion Pictures,17619622,150000000,PG,109.0,"['Action', 'Adventure', 'Family', 'Fantasy']",215283742
+Just Go with It,2011,Sony Pictures Entertainment (SPE),30514732,80000000,PG-13,117.0,"['Comedy', 'Romance']",214945591
+Dirty Dancing,1987,Vestron Pictures,3900000,6000000,,100.0,"['Drama', 'Music', 'Romance']",63446382
+Creed II,2018,Metro-Goldwyn-Mayer (MGM),35574710,50000000,PG-13,130.0,"['Drama', 'Sport']",214215889
+Public Enemies,2009,Universal Pictures,25271675,100000000,R,140.0,"['Biography', 'Crime', 'Drama', 'History']",214104620
+The Bourne Identity,2002,Universal Pictures,27118640,60000000,PG-13,119.0,"['Action', 'Mystery', 'Thriller']",214034224
+Disclosure,1994,Warner Bros.,10068126,55000000,R,128.0,"['Drama', 'Thriller']",214015089
+Pulp Fiction,1994,Miramax,9311882,8000000,R,154.0,"['Crime', 'Drama']",107928762
+The Aviator,2004,Miramax,858021,110000000,PG-13,170.0,"['Biography', 'Drama']",213719942
+"Crouching Tiger, Hidden Dragon",2000,Sony Pictures Classics,663205,17000000,PG-13,117.09462915601023,"['Action', 'Adventure', 'Fantasy', 'Romance']",213525736
+Braveheart,1995,Paramount Pictures,9938276,72000000,R,178.0,"['Biography', 'Drama', 'History', 'War']",75609945
+Into the Woods,2014,Walt Disney Studios Motion Pictures,31051923,50000000,PG,125.0,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Musical']",212902372
+Bedtime Stories,2008,Walt Disney Studios Motion Pictures,27450296,80000000,PG,99.0,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance', 'Science fiction']",212874864
+Miss Congeniality,2000,Warner Bros.,10046534,45000000,PG-13,109.0,"['Action', 'Comedy', 'Crime', 'Romance']",212742720
+Entrapment,1999,Twentieth Century Fox,20145595,66000000,PG-13,113.0,"['Action', 'Crime', 'Romance', 'Thriller']",212404396
+End of Days,1999,Universal Pictures,20523595,100000000,R,122.0,"['Action', 'Fantasy', 'Horror', 'Thriller']",211989043
+Bridget Jones's Baby,2016,Universal Pictures,8571785,35000000,R,123.0,"['Comedy', 'Drama', 'Romance']",211952420
+Fury,2014,Sony Pictures Entertainment (SPE),23702421,68000000,R,134.0,"['Action', 'Drama', 'War']",211817906
+Battle Los Angeles,2011,Sony Pictures Entertainment (SPE),35573187,70000000,PG-13,116.0,"['Action', 'Science fiction']",211819354
+Australia,2008,Twentieth Century Fox,14800723,130000000,PG-13,165.0,"['Adventure', 'Comedy', 'Drama', 'Romance', 'War', 'Western']",211787511
+Due Date,2010,Warner Bros.,32689406,65000000,R,95.0,"['Comedy', 'Drama']",211780824
+Master and Commander: The Far Side of the World,2003,Twentieth Century Fox,25105990,150000000,PG-13,138.0,"['Action', 'Adventure', 'Drama', 'History', 'War']",211622535
+A Series of Unfortunate Events,2004,Paramount Pictures,30061756,140000000,PG,108.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",211468235
+District 9,2009,TriStar Pictures,37354308,30000000,R,112.0,"['Action', 'Science fiction', 'Thriller']",210888950
+The Others,2001,Miramax,14089952,17000000,PG-13,101.0,"['Horror', 'Mystery', 'Thriller']",209947037
+Horrible Bosses,2011,Warner Bros.,28302165,35000000,R,98.0,"['Comedy', 'Crime']",209838559
+Red Dragon,2002,Universal Pictures,36540945,78000000,R,124.0,"['Crime', 'Drama', 'Thriller']",209196298
+Tomorrowland,2015,Walt Disney Studios Motion Pictures,33028165,190000000,PG,130.0,"['Action', 'Adventure', 'Family', 'Fantasy', 'Mystery', 'Science fiction']",209035668
+Me Before You,2016,Warner Bros.,18723269,20000000,PG-13,106.0,"['Drama', 'Romance']",208314186
+Safe House,2012,Universal Pictures,40172720,85000000,R,115.0,"['Action', 'Thriller']",208076205
+S.W.A.T.,2003,Sony Pictures Entertainment (SPE),37062535,80000000,PG-13,117.0,"['Action', 'Adventure', 'Crime', 'Thriller']",207725639
+The Fast and the Furious,2001,Universal Pictures,40089015,38000000,PG-13,106.0,"['Action', 'Crime', 'Thriller']",207283925
+Paranormal Activity 3,2011,Paramount Pictures,52568183,5000000,R,83.0,"['Horror', 'Mystery']",207039844
+Philadelphia,1993,TriStar Pictures,143433,26000000,PG-13,125.0,['Drama'],206678440
+Sleepy Hollow,1999,Paramount Pictures,30060467,100000000,R,105.0,"['Fantasy', 'Horror', 'Mystery']",206071502
+The Holiday,2006,Sony Pictures Entertainment (SPE),12778913,85000000,PG-13,136.0,"['Comedy', 'Romance']",205841885
+London Has Fallen,2016,Focus Features,21635601,60000000,R,99.0,"['Action', 'Thriller']",205754447
+The Break-Up,2006,Universal Pictures,39172785,52000000,PG-13,106.0,"['Comedy', 'Drama', 'Romance']",205668210
+White House Down,2013,Sony Pictures Entertainment (SPE),24852258,150000000,PG-13,131.0,"['Action', 'Drama', 'Thriller']",205366737
+A Dog's Purpose,2017,Universal Pictures,18222810,22000000,PG,100.0,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",205035819
+Fun with Dick and Jane,2005,Sony Pictures Entertainment (SPE),14383515,100000000,PG-13,90.0,"['Comedy', 'Crime']",204681899
+Eat Pray Love,2010,Sony Pictures Entertainment (SPE),23104523,60000000,PG-13,133.0,"['Biography', 'Drama', 'Romance']",204594016
+You Don't Mess with the Zohan,2008,Sony Pictures Entertainment (SPE),38531374,90000000,PG-13,113.0,['Comedy'],204313400
+The Addams Family,1991,Paramount Pictures,24203754,30000000,,99.0,"['Comedy', 'Fantasy']",113502426
+King Arthur,2004,Walt Disney Studios Motion Pictures,15193907,120000000,PG-13,126.0,"['Action', 'Adventure', 'Drama', 'History', 'War']",203567857
+Yogi Bear,2010,Warner Bros.,16411322,80000000,PG,81.0,"['Adventure', 'Animation', 'Comedy', 'Family']",203509374
+Everest,2015,Universal Pictures,7222035,55000000,PG-13,121.0,"['Action', 'Adventure', 'Biography', 'Drama', 'Thriller']",203427584
+Vanilla Sky,2001,Paramount Pictures,25015518,68000000,R,136.0,"['Fantasy', 'Mystery', 'Romance', 'Science fiction', 'Thriller']",203388341
+Arrival,2016,Paramount Pictures,24074047,47000000,PG-13,116.0,"['Drama', 'Science fiction']",203388186
+Need for Speed,2014,Walt Disney Studios Motion Pictures,17844939,66000000,PG-13,132.0,"['Action', 'Crime', 'Thriller']",203277636
+Garfield,2004,Twentieth Century Fox,21727611,50000000,PG,80.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",203172417
+Patch Adams,1998,Universal Pictures,25262280,90000000,PG-13,115.0,"['Biography', 'Comedy', 'Drama', 'Romance']",202292902
+Teenage Mutant Ninja Turtles: The Movie,1990,New Line Cinema,25398367,13500000,,93.0,"['Action', 'Adventure', 'Comedy', 'Family', 'Science fiction']",135265915
+Kindergarten Cop,1990,Universal Pictures,7918560,15000000,,111.0,"['Action', 'Comedy', 'Crime']",201957688
+Birds of Prey,2020,Warner Bros.,33010017,84500000,R,109.0,"['Action', 'Adventure', 'Comedy', 'Crime']",201858461
+Straight Outta Compton,2015,Universal Pictures,60200180,28000000,R,147.0,"['Biography', 'Drama', 'History', 'Music']",201634991
+21 Jump Street,2012,Sony Pictures Entertainment (SPE),36302612,42000000,R,109.0,"['Action', 'Comedy', 'Crime']",201585328
+Valkyrie,2008,United Artists,21027007,75000000,PG-13,121.0,"['Drama', 'History', 'Thriller', 'War']",201545517
+Open Season,2006,Sony Pictures Entertainment (SPE),23624548,85000000,PG,86.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family']",200811689
+Cats & Dogs,2001,Warner Bros.,21707617,60000000,PG,87.0,"['Action', 'Comedy', 'Family', 'Fantasy']",200687492
+The Hunt for Red October,1990,Paramount Pictures,17161835,30000000,,135.0,"['Action', 'Adventure', 'Thriller']",200512643
+Percy Jackson: Sea of Monsters,2013,Twentieth Century Fox,14401054,90000000,PG,106.0,"['Adventure', 'Family', 'Fantasy', 'Thriller']",199850315
+Two Weeks Notice,2002,Warner Bros.,14328494,60000000,PG-13,101.0,"['Comedy', 'Romance']",199043242
+RED,2010,Summit Entertainment,21761408,58000000,PG-13,111.0,"['Action', 'Comedy', 'Crime', 'Thriller']",199006387
+The Pacifier,2005,Walt Disney Studios Motion Pictures,30552694,56000000,PG,95.0,"['Action', 'Comedy', 'Drama', 'Family']",198636868
+50 First Dates,2004,Sony Pictures Entertainment (SPE),39852237,75000000,PG-13,99.0,"['Comedy', 'Drama', 'Romance']",198520934
+Christopher Robin,2018,Walt Disney Studios Motion Pictures,24585139,75000000,PG,104.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Musical']",197744377
+Jack the Giant Slayer,2013,Warner Bros.,27202226,195000000,PG-13,114.0,"['Adventure', 'Comedy', 'Family', 'Fantasy']",197687603
+Smurfs: The Lost Village,2017,Sony Pictures Entertainment (SPE),13210449,60000000,PG,90.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",197183546
+Spy Kids 3-D: Game Over,2003,Dimension Films,32500000,38000000,PG,84.0,"['Action', 'Adventure', 'Comedy', 'Family', 'Science fiction']",197011982
+Panic Room,2002,Sony Pictures Entertainment (SPE),30056751,48000000,R,112.0,"['Crime', 'Drama', 'Thriller']",196397415
+The Other Woman,2014,Twentieth Century Fox,24763752,40000000,PG-13,109.0,"['Comedy', 'Romance']",196710396
+Beowulf,2007,Paramount Pictures,27515871,150000000,PG-13,115.0,"['Action', 'Adventure', 'Animation', 'Fantasy']",196393745
+The Vow,2012,Screen Gems,41202458,30000000,PG-13,104.0,"['Drama', 'Romance']",196114570
+Anger Management,2003,Revolution Studios,42220847,75000000,PG-13,106.0,['Comedy'],195745823
+Tropic Thunder,2008,DreamWorks,25812796,92000000,R,107.0,"['Action', 'Comedy', 'War']",195702811
+The BFG,2016,Walt Disney Studios Motion Pictures,18775350,140000000,PG,117.0,"['Adventure', 'Family', 'Fantasy']",195243411
+Rocketman,2019,Paramount Pictures,25725722,40000000,R,121.0,"['Biography', 'Drama', 'Music', 'Musical']",195179299
+The Intern,2015,Warner Bros.,17728313,35000000,PG-13,121.0,"['Comedy', 'Drama']",194564672
+Wallace & Gromit: The Curse of the Were-Rabbit,2005,DreamWorks Distribution,16025987,30000000,,85.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Mystery', 'Science fiction']",194111171
+The Sum of All Fears,2002,Paramount Pictures,31178526,68000000,PG-13,124.0,"['Action', 'Drama', 'Thriller', 'War']",193921372
+Gangs of New York,2002,Miramax,9100000,100000000,R,167.0,"['Crime', 'Drama']",193772504
+Paranormal Activity,2009,Paramount Pictures,77873,15000,R,86.0,"['Horror', 'Mystery']",193355800
+The Equalizer,2014,Sony Pictures Entertainment (SPE),34137828,55000000,R,132.0,"['Action', 'Crime', 'Thriller']",192330738
+The Lego Movie 2: The Second Part,2019,Warner Bros.,34115335,99000000,PG,107.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy', 'Science fiction']",192306508
+The Longest Yard,2005,Paramount Pictures,47606480,82000000,PG-13,113.0,"['Comedy', 'Crime', 'Sport']",191466556
+The Santa Clause,1994,Walt Disney Studios Motion Pictures,19321992,22000000,PG,97.0,"['Comedy', 'Drama', 'Family', 'Fantasy']",144833357
+Cheaper by the Dozen,2003,Twentieth Century Fox,27557647,40000000,PG,98.0,"['Comedy', 'Family']",190212113
+The Equalizer 2,2018,Sony Pictures Entertainment (SPE),36011640,62000000,R,121.0,"['Action', 'Crime', 'Thriller']",190400157
+Hollow Man,2000,Sony Pictures Entertainment (SPE),26414386,95000000,R,112.0,"['Action', 'Horror', 'Science fiction', 'Thriller']",190213455
+Rambo III,1988,TriStar Pictures,13034238,63000000,,102.0,"['Action', 'Adventure']",189015611
+The Secret Life of Walter Mitty,2013,Twentieth Century Fox,12765508,90000000,PG,114.0,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance']",188133322
+12 Years a Slave,2013,Fox Searchlight Pictures,923715,20000000,R,134.0,"['Biography', 'Drama', 'History']",187733202
+Mr. Popper's Penguins,2011,Twentieth Century Fox,18445355,55000000,PG,94.0,"['Comedy', 'Family', 'Fantasy']",187361754
+The Grudge,2004,Sony Pictures Entertainment (SPE),39128715,10000000,PG-13,91.0,"['Horror', 'Mystery', 'Thriller']",187281115
+I Now Pronounce You Chuck & Larry,2007,Universal Pictures,34233750,85000000,PG-13,115.0,"['Comedy', 'Romance']",187134117
+Walk the Line,2005,Twentieth Century Fox,22347341,28000000,PG-13,136.0,"['Biography', 'Drama', 'Music', 'Romance']",186797986
+The Jungle Book 2,2003,Walt Disney Studios Motion Pictures,11441733,20000000,,72.0,"['Adventure', 'Animation', 'Family', 'Musical']",135703599
+The Final Destination,2009,Warner Bros.,27408309,40000000,R,82.0,"['Action', 'Horror', 'Thriller']",186167139
+Atlantis: The Lost Empire,2001,Walt Disney Studios Motion Pictures,329011,120000000,PG,95.0,"['Action', 'Adventure', 'Animation', 'Family', 'Fantasy', 'Science fiction']",186053725
+Inside Man,2006,Universal Pictures,28954945,45000000,R,129.0,"['Crime', 'Drama', 'Mystery', 'Thriller']",186003591
+The Waterboy,1998,Walt Disney Studios Motion Pictures,39414071,23000000,PG-13,90.0,"['Comedy', 'Sport']",185991646
+Pitch Perfect 3,2017,Universal Pictures,19928525,45000000,PG-13,93.0,"['Comedy', 'Music']",185400345
+Watchmen,2009,Warner Bros.,55214334,130000000,R,162.0,"['Action', 'Drama', 'Mystery', 'Science fiction']",185382813
+Moulin Rouge!,2001,Twentieth Century Fox,167540,50000000,PG-13,127.0,"['Drama', 'Musical', 'Romance']",179213434
+Hop,2011,Universal Pictures,37543710,63000000,PG,95.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",183953723
+Bad Moms,2016,STX Entertainment,23817340,20000000,R,100.0,['Comedy'],183936074
+Jupiter Ascending,2015,Warner Bros.,18372372,176000000,PG-13,127.0,"['Action', 'Adventure', 'Science fiction']",183887723
+Knowing,2007,Summit Entertainment,24604751,50000000,PG-13,121.0,"['Action', 'Drama', 'Science fiction', 'Thriller']",183658498
+102 Dalmatians,2000,Walt Disney Studios Motion Pictures,19883351,85000000,,100.0,"['Adventure', 'Comedy', 'Family']",183611771
+Storks,2016,Warner Bros.,21311407,70000000,PG,87.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",183388953
+Paul Blart: Mall Cop,2009,Sony Pictures Entertainment (SPE),31832636,26000000,PG,91.0,"['Action', 'Comedy', 'Crime', 'Family']",183348429
+Wayne's World,1992,Paramount Pictures,18122710,20000000,PG-13,94.0,"['Comedy', 'Music']",183097323
+Mirror Mirror,2012,Relativity Media,18132085,85000000,PG,106.0,"['Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']",183018522
+The Haunted Mansion,2003,Walt Disney Studios Motion Pictures,24278410,90000000,PG,99.0,"['Comedy', 'Family', 'Fantasy', 'Horror', 'Mystery']",182290266
+While You Were Sleeping,1995,Walt Disney Studios Motion Pictures,9288915,17000000,PG,103.0,"['Comedy', 'Drama', 'Romance']",81057016
+The Bridges of Madison County,1995,Warner Bros.,10519257,24000000,PG-13,135.0,"['Drama', 'Romance']",182016617
+Poseidon,2006,Warner Bros.,22155410,160000000,PG-13,98.0,"['Action', 'Adventure', 'Thriller']",181674817
+Hot Shots!,1991,Twentieth Century Fox,10848182,26000000,,84.0,"['Action', 'Comedy']",181096164
+Road to Perdition,2002,DreamWorks Distribution,22079481,80000000,R,117.0,"['Crime', 'Drama', 'Thriller']",181001478
+Kill Bill: Vol. 1,2003,Miramax,22200000,30000000,R,111.0,"['Action', 'Crime', 'Drama', 'Thriller']",180899045
+The Scorpion King,2002,Universal Pictures,36075875,60000000,PG-13,92.0,"['Action', 'Adventure', 'Fantasy']",178799308
+Sweet Home Alabama,2002,Walt Disney Studios Motion Pictures,35648740,30000000,PG-13,108.0,"['Comedy', 'Romance']",180622424
+Daddy's Home 2,2017,Paramount Pictures,29651193,69000000,PG-13,100.0,['Comedy'],180613180
+Hacksaw Ridge,2016,Lionsgate,15190758,40000000,R,139.0,"['Biography', 'Drama', 'History', 'War']",180563636
+Deja Vu,2006,Walt Disney Studios Motion Pictures,20574802,75000000,PG-13,126.0,"['Action', 'Crime', 'Science fiction', 'Thriller']",180557550
+The Post,2017,Twentieth Century Fox,526011,50000000,PG-13,116.0,['Drama'],179769457
+Abominable,2019,Universal Pictures,20612100,75000000,PG,97.0,"['Adventure', 'Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",179053956
+The Dictator,2012,Paramount Pictures,17435092,65000000,R,83.0,['Comedy'],179379533
+The League of Extraordinary Gentlemen,2003,Twentieth Century Fox,23075892,78000000,PG-13,110.0,"['Action', 'Adventure', 'Fantasy', 'Science fiction']",179265204
+Daredevil,2003,Twentieth Century Fox,40310419,78000000,PG-13,103.0,"['Action', 'Crime']",179179718
+City Slickers,1991,Columbia Pictures,13032121,27000000,,113.0,"['Comedy', 'Western']",179033791
+Eagle Eye,2008,DreamWorks,29150721,80000000,PG-13,118.0,"['Action', 'Mystery', 'Thriller']",178767383
+Along Came Polly,2004,Universal Pictures,27721185,42000000,PG-13,90.0,"['Comedy', 'Romance']",178311729
+Flushed Away,2006,DreamWorks,18814323,149000000,PG,85.0,"['Adventure', 'Animation', 'Comedy', 'Family', 'Romance']",178281554
+Scary Movie 4,2006,Dimension Films,40222875,45000000,PG-13,83.0,['Comedy'],178262620
+Dante's Peak,1997,Universal Pictures,18479435,116000000,PG-13,108.0,"['Action', 'Adventure', 'Thriller']",178127760
+Brokeback Mountain,2005,Focus Features,547425,14000000,R,134.0,"['Drama', 'Romance']",178062759
+Patriot Games,1992,Paramount Pictures,18511191,45000000,R,117.0,"['Action', 'Thriller']",178051587
+Baywatch,2017,Paramount Pictures,18503871,69000000,R,116.0,"['Action', 'Comedy', 'Crime']",177856751
+Double Jeopardy,1999,Paramount Pictures,23162542,70000000,R,105.0,"['Crime', 'Drama', 'Mystery', 'Thriller']",177841558
+War Horse,2011,Walt Disney Studios Motion Pictures,7515402,66000000,PG-13,146.0,"['Action', 'Adventure', 'Drama', 'History', 'War']",177584879
+Paranormal Activity 2,2010,Paramount Pictures,40678424,3000000,R,91.0,"['Horror', 'Mystery']",177512032
+Alien vs. Predator,2004,Twentieth Century Fox,38291056,60000000,PG-13,101.0,"['Action', 'Adventure', 'Horror', 'Science fiction', 'Thriller']",177427090
+Hero,2002,Miramax,17800000,31000000,PG-13,117.09462915601023,"['Action', 'Adventure', 'History']",177395557
+The 40-Year-Old Virgin,2005,Universal Pictures,21422815,26000000,R,116.0,"['Comedy', 'Romance']",177378645
+Lee Daniels' The Butler,2013,The Weinstein Company,24637312,30000000,PG-13,132.0,"['Biography', 'Drama']",177313795
+The Haunting,1999,DreamWorks Distribution,33435140,80000000,PG-13,113.0,"['Fantasy', 'Horror', 'Mystery', 'Thriller']",177311151
+The A-Team,2010,Twentieth Century Fox,25669455,110000000,PG-13,117.0,"['Action', 'Adventure', 'Thriller']",177238796
+Tootsie,1982,Columbia Pictures,5540470,21000000,,116.0,"['Comedy', 'Drama', 'Romance']",177200000
+In the Line of Fire,1993,Columbia Pictures,15269388,40000000,R,128.0,"['Action', 'Crime', 'Drama', 'Thriller']",176997168
+Analyze This,1999,Warner Bros.,18383507,80000000,R,103.0,"['Comedy', 'Crime']",176885658
+The Hitman's Bodyguard,2017,Lionsgate,21384504,30000000,R,118.0,"['Action', 'Comedy', 'Crime', 'Thriller']",176586701
+Looper,2012,TriStar Pictures,20801552,30000000,R,113.0,"['Action', 'Drama', 'Science fiction', 'Thriller']",176506819
+Dr. Dolittle 2,2001,Twentieth Century Fox,25037039,70000000,PG,87.0,"['Comedy', 'Family', 'Fantasy']",176104344
+The Italian Job,2003,Paramount Pictures,19457944,60000000,PG-13,111.0,"['Action', 'Crime', 'Thriller']",176070171
+The Bucket List,2007,Warner Bros.,335837,45000000,PG-13,97.0,"['Adventure', 'Comedy', 'Drama']",175372502
+Sleeping with the Enemy,1991,Twentieth Century Fox,13777943,19000000,R,99.0,"['Drama', 'Thriller']",174999005
+Cowboys & Aliens,2011,Universal Pictures,36431290,163000000,PG-13,119.0,"['Action', 'Science fiction', 'Thriller', 'Western']",174822325
+The Mule,2018,Warner Bros.,17509431,50000000,R,116.0,"['Crime', 'Drama', 'Thriller']",174804407
+George of the Jungle,1997,Walt Disney Studios Motion Pictures,16540791,55000000,PG,92.0,"['Action', 'Adventure', 'Comedy', 'Family', 'Romance']",174463257
+Evan Almighty,2007,Universal Pictures,31192615,175000000,PG,96.0,"['Comedy', 'Family', 'Fantasy']",174440724
+Amélie,2001,Miramax,136470,10000000,R,122.0,"['Comedy', 'Romance']",173921954
+Identity Thief,2013,Universal Pictures,34551025,35000000,R,111.0,"['Comedy', 'Crime', 'Drama']",173965010
+The Nutcracker and the Four Realms,2018,Walt Disney Studios Motion Pictures,20352491,120000000,PG,99.0,"['Adventure', 'Family', 'Fantasy']",173961069
+Big Momma's House,2000,Twentieth Century Fox,25661041,30000000,PG-13,99.0,"['Action', 'Comedy', 'Crime']",173959438
+In Time,2011,Twentieth Century Fox,12050368,40000000,PG-13,109.0,"['Action', 'Science fiction', 'Thriller']",173930596
+Anchorman 2: The Legend Continues,2013,Paramount Pictures,26232425,50000000,PG-13,119.0,['Comedy'],171464676
+Creed,2015,Warner Bros.,29632823,35000000,PG-13,133.0,"['Drama', 'Sport']",173567581
+Gemini Man,2019,Paramount Pictures,20552372,138000000,PG-13,117.0,"['Action', 'Drama', 'Science fiction', 'Thriller']",173469516
+The Girl on the Train,2016,Universal Pictures,24536265,45000000,R,112.0,"['Crime', 'Drama', 'Mystery', 'Thriller']",173185859
+Scream,1996,Dimension Films,6354586,14000000,R,111.0,"['Horror', 'Mystery']",103046663
+Cold Mountain,2003,Miramax,14500000,79000000,R,154.0,"['Adventure', 'Drama', 'History', 'Romance', 'War']",173013509
+Black Hawk Down,2001,Revolution Studios,179823,92000000,R,144.0,"['Drama', 'History', 'War']",172989651
+The Grand Budapest Hotel,2014,Fox Searchlight Pictures,811166,25000000,R,99.0,"['Adventure', 'Comedy', 'Crime']",172936941
+The Santa Clause 2,2002,Walt Disney Studios Motion Pictures,29008696,65000000,,104.0,"['Comedy', 'Family', 'Fantasy']",172855065
+Cloverfield,2008,Paramount Pictures,40058229,25000000,PG-13,85.0,"['Action', 'Horror', 'Science fiction', 'Thriller']",172394180
