@@ -17,13 +17,13 @@ Data was scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_t
 
 ## Algorithm
 The scraped data was converted to pandas dataframes and multiple other tools were used to manipulate and study the data. After creating dummies, I tried other feature engineering methods such as squaring budget and year of release, and adjusting monetary values with inflation using CPI package. However, the only methods that increased model accuracy were including dummy variables, so I discontinued other feature engineering approaches. 
-I evaluated multiple regression models, baseline models both for databases with and without dummy varibales. Knowing that I had large number of features compared to my data points, and the features had very different units, I decided to standardize coefficients using Scikit learn scaler method. RidgeCV and LassoCV had very similar results on the standardized data, but I decided to use LassoCV as my final model, since it was preferable to reduce number of features, which LassoCV was successful in removing 3 types of genres.
+I evaluated multiple regression models, for example baseline models both for databases with and without dummy varibales, and knowing that I had large number of features compared to my data points, and the features had very different units, I decided to standardize coefficients using Scikit learn scaler method. RidgeCV and LassoCV had very similar results on the standardized data, but I decided to use LassoCV as my final model, since it was preferable to reduce number of features, which LassoCV was successful in removing 3 types of genres. R_squared score was 0.67 on training data and 0.6 on test data, which may show some overfit. This needs to be adjusted by studying more attributes that are useful such as director and crew list.
 
 
 ## Tools
 - Web Scraping using BeautifulSoup and Requests in Python
 - Pandas, Numpy, Matplotlib, Seaborn Python packages for manipulating data and showing results
-- Scikit learn and statsmodel packages for running regression models
+- Scikit learn and statsmodel packages for regression models
 
 ## Communication
 Here[https://github.com/atrinsarmadi/Metis_Projects/tree/main/Regression] is the slides and visulas presented at the end of the project.
