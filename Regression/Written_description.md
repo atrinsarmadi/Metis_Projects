@@ -2,7 +2,7 @@
 
 ## Abstract
 
-We can guess that some movies are going to be successful; Investors and producers can even guess better than us, but how successfull, let's build a model that can answer that. This model can help investors, producers and other stakeholders in predicting the revenue that a movie is going to generate in theaters at the end of the domestic opening. Predicting this value at this stage helps with carrying out business and logistics plans, as well as planning out future investments.
+We can guess that some movies are going to be successful; Investors and producers can even guess better than us, but how successful, let's build a model that can answer that. This model can help investors, producers and other stakeholders in predicting the revenue that a movie is going to generate in theaters at the end of the domestic opening. Predicting this value at this stage helps with carrying out business and logistics plans, as well as planning out future investments.
 This project uses linear regression to find relationship between features of a movie and the target, which in our case is the original release worldwide gross. The features are mostly attributes that are known before the movie premiers, with the exception of one, which is domestic opening gross. Domestic opening is the revenue that a movie collects at the end of the first Sunday that it premiers. 
 Data was scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW&ref_=bo_cso_ac) and manipulated using multiple Python tools.
 
