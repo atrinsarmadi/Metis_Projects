@@ -1,4 +1,4 @@
-# EDA Course Project: WTWY Street Team Placement Optimization
+# Regression Course Project: Predict Revenue of a Successful Theatrical Movie
 
 ## Abstract
 
