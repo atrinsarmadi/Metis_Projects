@@ -21,14 +21,10 @@ Since status information is taken every minute at each station, the database is 
 
 
 ## Algorithm
+I started with trip CSV file and realized that my excel was too slow to process the file, so I decided to perform some initial cleaning in Pandas, removing attributes that I did not need, grab station information from station csv file, and then converted datetime variables and used in reducing the data from two years to 3 months of June to August 2015. I then converted the database to a CSV file and performed some EDA in Excel, mainly using pivot tables and graphs to study what parameters are of interest. I then uploaded the CSV file to Tableau and created some data visaulizations based on the data attributes chosen from EDA in Excel.
 
+Status database with 72 million of rows was even too large for Pandas, so I ran a SQLite query using DB browser to grab status only for period of August 15-31, 2015, and only when there were less than 2 bikes available or less than 2 docks available. I then uploaded the new CSV file to Excel, separated bike and dock data, and performed similar operations on each sheet as follows. I separated date and time information and converted time to hourly periods. Since status is taken every 1 minute in each station, I wanted to only keep one unique value of a station during each hour, so I used a combination of if and iserror function to define one unique value from each hour and mark duplicates as errors. I then used specials to delete the rows with error data. I ended up with sheets only containing one count of station with date and hour where the resources are low. 
 
-A database was created from the data using SQLite and SQLAlchemy. I continued exploring the data and converted the filtered database to Pandas dataframe using SQLAlchemy. 
-Cleaning the data consisted of standardizing column names, removing duplicates, organizing the Entries and Exits data per correct entry time, and eliminating outliers by removing each turnstile entries or exits that were higher than 15000 in a 4 hour period. 
-I used Pandas to continue data manipulation, grouping the turnstile features together as well as traffic data at each station. Analysis of data included:
-- combining total traffic for all the stations during the 4-month period to get the highest trafficked stations
-- Average commuters per day of week for top 5 stations
-- Traffic per time of day for each day of the week for top 5 stations
 
 ## Tools
 - SQLlite and SQLAlchemy to store and explore data
