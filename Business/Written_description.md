@@ -9,16 +9,20 @@ The data is gathered from [SF Bay Area Bike Share dataset from Kaggle](https://w
 
 
 ## Design
-The data is very large and quite difficult to process on a personal computer. This project also requires data exploration in Spreadsheets, due to these two limitations I decided to perform an initial study on trip information from the last 3 months of data, between June and August 2015. My final goal is to study station status for a period of time that can show us a trend or instances where there is limited availability of bikes or open docks. One of the major problems I imagine Bay Wheels will have with increase of demand is to analyze and optimize accessibility to bikes and open docks whenever and wherever demand is present from customers. Before diving into status information, I decided to confirm that there is a 
+The data is very large and quite difficult to process on a personal computer. This project also requires data exploration in Spreadsheets, due to these two limitations I decided to perform an initial study on trip information from the last 3 months of data, between June and August 2015. My final goal is to study station status for a period of time that can show us a trend or instances where there is limited availability of bikes or open docks. One of the major problems I imagine Bay Wheels will have with increase of demand is to analyze and optimize accessibility to bikes and open docks whenever and wherever demand is present from customers. 
+Before diving into status information, I decided to check a few points to confirm my later assumption to study a period of time for status information. I checked trip information for June - August 2015 and found that the number of trips taken from each station is quite similar to the number of trips ending at those stations. I also looked at the trips taken from each station for the 3 month period and observed a trend of trip across this time period for each station. This common trend confirms the possibility of looking at 2 weeks of data and being able to conclude results about trends or instances of low bike or dock availability.
+Since status information is taken every minute at each station, the database is very large, so I decided to onlt look at status information for the time period between August 15 - 31, and when there is only 0 or 1 bikes available on that status, or only 0 or 1 docks are available on that status.
 
 **Assumptions**
-- Assuming that WTWY gala is held at the end of June, data is gathered for almost 4 months between March and June.
-- It is assumed that the gala is happening pre-pandemic, hence data was gathered from the year 2019.
-- Based on study of turnstile throughput from turnstile manufacturers, concensus between manufacturers is that each turnstile can support a flow of 20-30 people per minute, however, to be more conservative in removing outliers from the data, a throughput of 1 person per second was chosen, leading to almost 15000 people entries per turnstile in a 4 hour period.
-- Total traffic means the combination of entries and exits values for each turnstile/station.
+- Assuming that the analysis of data from 2015 can translate to a similar analysis in 2021 given we would have the data
+- Based on the initial check of trip trends, I assumed that the time period of August 15 - 31 is an enough timeframe to draw some conclusions about instances of low resource availability
+- I decided that low bike availablity means that there is less than 2 bikes available
+- I decided that low dock availablity means that there is less than 2 docks available
 
 
 ## Algorithm
+
+
 A database was created from the data using SQLite and SQLAlchemy. I continued exploring the data and converted the filtered database to Pandas dataframe using SQLAlchemy. 
 Cleaning the data consisted of standardizing column names, removing duplicates, organizing the Entries and Exits data per correct entry time, and eliminating outliers by removing each turnstile entries or exits that were higher than 15000 in a 4 hour period. 
 I used Pandas to continue data manipulation, grouping the turnstile features together as well as traffic data at each station. Analysis of data included:
