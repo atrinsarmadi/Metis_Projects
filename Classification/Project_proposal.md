@@ -16,4 +16,4 @@ I will explore the data to find which features are reasonable to study, and the 
 I plan to use SQLite to perform some of the data cleaning before storing the database. I will use Python classification packages such as Scikit Learn to build classification models, and Python visualization packages such as Seaborn and Matplotlib for data visualization. 
 
 ## MVP Goal
-The MVP goal of this project is to find the best performing supervised classification model based on the recent historical campaigns from 2021 in order to predict success of future kickstarter campaigns. The further goals and visions for this project are discussed at the end of Question section. 
+The MVP goal of this project is to find the best performing supervised classification model based on the recent historical campaigns from 2021 in order to predict success of future kickstarter campaigns. The further goals and visions for this project are discussed at the end of [Question section](## Question). 
