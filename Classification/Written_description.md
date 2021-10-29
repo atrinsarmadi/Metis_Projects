@@ -1,4 +1,4 @@
-# Business Course Project: Supply and Demand Analysis of SF Bike Share
+# Kickstarter Campaings, predicting failed projects
 
 ## Abstract
 Kickstarter is a website that allows people to upload project ideas, and anyone can fund/invest in the idea. Kickstarter gathers its revenue from 5% of the funds pledged to successful projects. Increasing the percentage of successful projects in Kickstarter leads to increase in revenue. Campaigners also do not have a tool to identify or judge how well their project is going to perform. Being able to study what makes a successful vs failing project is helpful in relying this information from historical data and scientific statistical evaluations to the enterpreneurs so that they can increase their chance of success. On average, it takes campaigners 60 days to prepare campaign page and launch the project. Average campaign runs for 32 days. Being able to evaluate your project further is helpful in moving you almost 3 months in advance.
