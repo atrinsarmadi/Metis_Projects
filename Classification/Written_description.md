@@ -15,8 +15,8 @@ The target is chosen as the failed projects because it is most important to iden
 
 
 ## Algorithm
-There are multiple classification models that one can train and evaluate data on. The common approach is to evaluate which method is the best performing among all, using metrics such as F1 and ROC-AUC curve. The evaluations were done at the same time of initial hyperparameter tuning for each model. XGBoost was chosen as the top performer using ROC-AUC curve metric, also having highest F1 score along with Random Forest. 
-
+There are multiple classification models that one can train and evaluate data on. The common approach is to evaluate which method is the best performing among all, using metrics such as F1 and ROC-AUC curve. The evaluations were done at the same time of initial hyperparameter tuning for each model. XGBoost was chosen as the top performer using ROC-AUC curve metric, also having highest F1 score along with Random Forest. XGBoost was chosen as the model to look at further since it has a better flexibility in hyperparameter tuning which means it would be easier to imporve the model in the future.
+Additional hyperparameter tuning was performed on XGBoost which brought the scores up a few points, leading to total increase of almost 0.2 of F1 scores and 0.13 for AUC score. SHAP was performed to analyze feature importance based on the XGBoost model. 
 
 
 ## Tools
