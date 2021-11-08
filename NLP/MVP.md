@@ -4,7 +4,7 @@ The tweets were scraped using snscraper (SNS), a social media scraper tool in py
 The goal of this project is to look at tweets from 10/28/2021 when Facebook announced their name change to Meta, until 11/05/2021. The tweet contents will be used as part of a topic modeling process where the abstract/topics of the semantic behind the twitter contents will be discovered. This topic modeling and semantic analysis is helpful in discovering the reaction to Facebook name change to Meta, and the analysis can be used for future marketing purposes.
 
 ## Future Steps
-- Text preprocessing: such as changing content to lower case, removing unneccesary punctuations, removing stop words, and lemmerization
+- Text preprocessing: such as changing contents to lower case, removing unneccesary punctuations, removing stop words, and perfroming lemmetization
 - Topic Modeling using LDA
 - If time: clustering
 
