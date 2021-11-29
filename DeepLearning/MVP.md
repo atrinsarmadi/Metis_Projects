@@ -15,6 +15,9 @@ Some initial EDA and a simple baseline CNN model was performed on the DATA to pr
 
 ![Screen Shot 2021-11-29 at 2 42 16 PM](https://user-images.githubusercontent.com/47256224/143955227-9e3256e7-4dd1-489b-b9ed-1d6b9da16447.png)
 
+![Screen Shot 2021-11-29 at 2 42 32 PM](https://user-images.githubusercontent.com/47256224/143955709-ee921e35-2e94-429f-8ef4-f4a09c5e7e77.png)
+
+
 
 ## Future Work
 1. Include more DATA either by transfer learning or by generating images to fix the class imbalance
