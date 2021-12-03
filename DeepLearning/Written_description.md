@@ -1,24 +1,30 @@
 # Image Classification of Traffic Signs
 
 ## Abstract
-On October 28th, 2021, Facebook announced rebranding of the corporate name to Meta, in an effort to bring focus to the Metaverse, their project that introduces virtual and augmented reality technologies. This rebranding is also an effort to overhaul Facebook's public image in the recent years with a series of PR nightmares. The goal of this project is to study tweets including hashtags and keywords such as #Meta, #Metaverse, #Facebook, Zuckerberg for 8 days post announcment in order to extract topics and mine texts that were discussed by the public about this announcement. The proposed solution is an NMF topic modeling that groups the documents (tweets) into 50 topics, which can be helpful for further analysis such as EDA of number of tweets, likes and retweets per topic, as well as performing sentiment analysis on each topic.
+Self driving cars are inevitable. In the recent years, there are lots of research and experiments to expedite the process of rolling out self driving cars in a larger scale. What makes a car a self driving car is a set of sensors and computers deployed on a car that gathers data from the surrounding of the car, processes the data to make decisions on how the car needs to be manuevered, and send control signals based on these decisions to the car steering wheel using PID controllers.
+
+Cameras are one of the main sensors deployed on these cars that gather image data from the surrounding. One of the main uses of cameras is to detect objects around the car. This project focuses on scenarios where some of those objects are traffic signs, and once the traffic sign objects are detected, we want to classify each traffic sign into the right category, which then will be used to make decisions on maneuvering. The goal is to use deep learning methods, mainly Convolutional Neural Networks (CNN) in order to train a model with traffic sign images and build a model that can classify traffic signs into the correct categories using images in a precise and rapid way. 
 
 
-## Data
-About 405k original tweets were scraped from Twitter using Snscraper and the hashtags and keywords discussed above. Some initial cleaning of the dataframe included removing non-english and duplicate tweets, arriving at about 213k tweets for this analysis. The meta data includes date and time of tweet, user info, number of likes, retweets, but for topic modeling only user id and tweet content were extracted from the dataframe.
+## DATA
+The dataset is the German Traffic Sign Recognition Benchmark (GTSRB), downloaded from [here](https://benchmark.ini.rub.de). It includes 40k images of traffic signs from 43 different classes for training the model, and about 3k images for testing the model. 
 
 
 ## Design
-The design of this project started with scraping tweet data about the announcement in order to perform NLP and in specific topic modeling using NMF technique in order to group the tweets into specific tweets which can help with further study of the sentiment of tweets and topics that were part of the conversation. NMF was chosen as the technique since it generally performs better than LDA on short documents such as tweets. Number of topics (components) for NMF was tuned between 5 and 50 by qualitative comparison of the results, and 50 was chosen as the topic number as it extracted some more interesting topics from the tweets. After topic modeling, a preliminary EDA was done on number of tweets per some interesting topics extracted, as well as extracting most common words in those interesting topics.
+Upon data acquisition and general EDA, a baseline model was created to examine the response of the study to a CNN model. The baseline is a simple CNN model which performed with 72% accuracy on the test data. To increase the accuracy, multiple CNN optimization methods with hyperparameter tuning were undertaken in order to study the optimum number of pooling layers and feature maps. Learning rate was also changed to a function of the number of epochs, in order to decrease the computation steps after each epoch. Since these model comparison experiments are computationally expensive, a set of normalization steps were performed to scale the pixel values. Best model from hyperparameter experiments was chosen as the final model trained, and performed testing on the test dataset, resulting in 99.2% accuracy.
 
 
 ## Algorithm
-Python Pandas and Numpy was used for initial cleaning of the tabular data, scraped from twitter. Data was prepared for topic modeling by performing pre-processing tasks on the tweet content such as converting to lowercase, removing hashtags, links, audio and video contents, removing non-letter characters, removing stop words and lemmatizing and stemming the content after tokenizing the words in each content. Topic modeling was performed using pre-processed data and NMF technique and the number of components of NMF was tuned to 50. From the topic matrix, the topic with the highest probability was chosen as the topic of each document, allowing us to compare number of tweets per topic. Top words and tweets for some of the interesting topics were also extracted to interpret the topics further.
+Here is the final CNN model architecture.
+![model_FM](https://user-images.githubusercontent.com/47256224/144629309-f091453a-605b-47fc-9d0f-2cfacdce0f86.png)
+
 
 ## Tools
+- h5py for working with binary files
 - Python Pandas and Numpy for data exploration and pre-processing
-- Scikit Learn, NLTK, Regex, Gensim for pre-processing
-- Matplotlib, Seaborn and wordcloud for Data visualization
+- Keras as interface for designing and running CNN models
+- Scikit Learn for further result analysis
+- Matplotlib for Data visualization
 
 ## Communication
-[Here](https://github.com/atrinsarmadi/Metis_Projects/tree/main/NLP) is the slides and visulas presented at the end of the project.
+[Here](https://github.com/atrinsarmadi/Metis_Projects/tree/main/DeepLearning) are the slides and visulas presented at the end of the project.
