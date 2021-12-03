@@ -1,7 +1,7 @@
 # Image Classification of Traffic Signs
 
 ## Abstract
-Self driving cars are inevitable. In recent years, there are lots of research and experiments to expedite the process of rolling out self driving cars in a larger scale. What makes a car a self driving car is a set of sensors and computers deployed on a car that gathers data from the surrounding of the car, processes the data to make decisions on how the car needs to be manuevered, and send control signals based on these decisions to the car steering wheel using PID controllers.
+Self driving cars are inevitable. In recent years, there are lots of research and experiments to expedite the process of rolling out self driving cars in a larger scale. What makes a car a self driving car is a set of sensors and computers deployed on the car that gathers data from the surrounding of the car, processes the data to make decisions on how the car needs to be manuevered, and send control signals based on these decisions to the car steering wheel using PID controllers.
 
 Cameras are one of the main sensors deployed on these cars that gather image data from the surrounding. One of the main uses of cameras is to detect objects around the car. This project focuses on scenarios where some of those objects are traffic signs, and once the traffic sign objects are detected, we want to classify each traffic sign into the right category, which then will be used to make decisions on maneuvering. The goal is to use deep learning methods, mainly Convolutional Neural Networks (CNN) in order to train a model with traffic sign images and build a model that can classify traffic signs into the correct categories using images in a precise and rapid way. 
 
