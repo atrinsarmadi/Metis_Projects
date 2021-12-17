@@ -11,7 +11,7 @@ The datasets are downloaded from [SF city open data website](https://data.sfgov.
 
 
 ## Design
-The data is downloaded using the Sodapy API and stored in a SQLite database. It is then imported to Pandas for processing where parking meters are filtered based on client inputs, destination is converted to coordinates using Google Maps API Geocoding. The cost of parking is calculated on filtered parking meters, and the top 
+The data is downloaded using the Sodapy API and stored in a SQLite database. It is then imported to Pandas for processing where parking meters are filtered based on client inputs, destination is converted to coordinates using Google Maps API Geocoding. The cost of parking is calculated on filtered parking meters, and the top parking meters are sorted based on cost and then distance. The parking meters are represented in two method, on a map, as well as a list presenting the distance, cost and address of the parking meter.
 
 
 ## Algorithm
