@@ -15,6 +15,7 @@ The data is downloaded using the Sodapy API and stored in a SQLite database. It 
 
 
 ## Algorithm
+<img width="995" alt="Screen Shot 2021-12-17 at 7 34 06 AM" src="https://user-images.githubusercontent.com/47256224/146569086-90ede055-9e94-487d-a33b-bfd3c8d75a4f.png">
 
 
 
